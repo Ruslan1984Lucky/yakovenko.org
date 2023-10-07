@@ -189,7 +189,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Ruslan Yakovenko"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Cloud and Data consultant"
+      subtitle = "Software Testing Engineer/Software Performance Analyst"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
