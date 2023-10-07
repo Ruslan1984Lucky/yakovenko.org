@@ -1,10 +1,10 @@
-baseURL = "http://paul.zgondea.com"
+baseURL = "http://ruslan.yakovenko.org"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "Paul Zgondea"
+title = "Ruslan Yakovenko"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -32,9 +32,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
 [author]
-  name = "Paul Zgondea"
-  email = "paul@zgondea.com"
-  link = "paul.zgondea.com"
+  name = "Ruslan Yakovenko"
+  email = "ruslan@yakovenko.org"
+  link = "ruslan.yakovenko.org"
 
 # Menu config
 [menu]
@@ -70,7 +70,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = "https://github.com/pzgondea/portfolio_v4"
+  gitRepo = "https://github.com/Ruslan1984Lucky/yakovenko.org"
   #  which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = "sha512"
@@ -207,12 +207,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
    # Social config about the author
   [params.social]
-    GitHub = "pzgondea"
-    Linkedin = "zgondeapaul"
-    Twitter = "ZvPalu"
+    GitHub = "Ruslan1984Lucky"
+    Linkedin = "ruslan-yakovenko-85a66674"
+    Twitter = ""
     Instagram = ""
     Facebook = ""
-    Telegram = "ZVPalu"
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -248,7 +248,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Steam = ""
     Twitch = ""
     Strava = ""
-    Skype = "paul.zgondea"
+    Skype = ""
     Whatsapp = ""
     Zhihu = ""
     Douban = ""
@@ -280,7 +280,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "paul@zgondea.com"
+    Email = "ruslan@yakovenko.org"
     RSS = false # 
 
   #  Page global config
