@@ -103,6 +103,7 @@ math:
 - *BI project;* 
 - *Manual and automation testing;*
 - *Main DB, ETL DB structure development and improvement;*
+- *Development of the data update and synchronization stored proceduress;*
 - *Development of the reporting feature base on Fusion Chart Technology;*
 - *Standalone QA position in the team of 6;*
 
