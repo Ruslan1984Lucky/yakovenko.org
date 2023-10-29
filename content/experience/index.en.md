@@ -106,7 +106,7 @@ math:
 -*Development of the reporting feature base on Fusion Chart Technology*
 - *Standalone QA position in the team of 6* \
 \
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[(fab fa-solid fa-database  fa-2xl)](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
 [:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
 
