@@ -88,9 +88,11 @@ math:
 
 ### Abiliton Intermediate QC Engineer ### 
 
-- *As QA Engineer, participated in the development process of 4 software projects;*
+- *As QA Engineer, participated in the development process of 3 software projects;*
 - *DBA expertize, management and performance optimization;*
 - *Manual and Automation testing;*
+- *Member of the small and big QA teams*
+- *Team Lead role substitution*
  \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
