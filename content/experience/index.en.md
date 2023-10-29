@@ -100,11 +100,11 @@ math:
 
 ### QA Engineer ###
 
-- *BI project* 
-- *Manual and automation testing*
-- *Main DB, ETL DB structure development and improvement*
--*Development of the reporting feature base on Fusion Chart Technology*
-- *Standalone QA position in the team of 6*
+- *BI project;* 
+- *Manual and automation testing;*
+- *Main DB, ETL DB structure development and improvement;*
+- *Development of the reporting feature base on Fusion Chart Technology;*
+- *Standalone QA position in the team of 6;*
 
 &nbsp;
 
