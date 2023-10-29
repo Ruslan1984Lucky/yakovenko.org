@@ -87,9 +87,11 @@ math:
 ## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
 
 ### Abiliton Intermediate QC Engineer ### 
-### As QA Engineer, I participated in the development process of 4 software projects ###
 
-- *DBA expertize, management and performance optimization* \
+- *As QA Engineer, I participated in the development process of 4 software projects;*
+- *DBA expertize, management and performance optimization;*
+- *
+ \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
