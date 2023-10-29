@@ -102,6 +102,8 @@ math:
 
 - *BI project* 
 - *Manual and automation testing*
+- *Main DB, ETL DB structure development and improvement*
+-*Development of the reporting feature base on Fusion Chart Technology*
 - *Standalone QA position in the team of 6* \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
