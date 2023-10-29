@@ -96,7 +96,7 @@ math:
 
 &nbsp;
 
-## **[OSF](https://osf.digital/) June 2011 - August 2013** ##
+## **[OSF Digital](https://osf.digital/) June 2011 - August 2013** ##
 
 ### QA Engineer ###
 
