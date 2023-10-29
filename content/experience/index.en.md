@@ -84,9 +84,9 @@ math:
 &nbsp;
 
 
-## **[RIA Solutions Group ](https://riasolutionsgroup.com/) FTE - 2014- 2018** ##
+## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
 
-### Senior DBA - Technology ###
+### Abiliton Intermediate QC Engineer ###
 
 - *DBA expertize, management and performance optimization* \
 \
