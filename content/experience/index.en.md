@@ -89,6 +89,7 @@ math:
 ### Abiliton Intermediate QC Engineer ### 
 
 - *As QA Engineer, participated in the development of 3 software projects;*
+- BMC
 - *DBA expertize, management and performance optimization;*
 - *Manual and Automation testing;*
 - *Member of the small and big QA teams*
@@ -109,9 +110,12 @@ math:
 - *Manual and automation testing;*
 - *Main DB, ETL DB structure development and improvement;*
 - *Development of the data update and synchronization stored proceduress;*
-- *Development of the reporting feature base on Fusion Chart Technology;*
+-*Manual run of stored procedures to test reporting business logic build on Fusion Chart technology;*
+- *Development of the reporting feature based on Fusion Chart;* Technology;*
 - *Development of the integration with Salesforce;*
 - *Development of the integration with Facebook via Facebook up;*
+-ETL tables development;
+- *Data Import feature and data dictionary development:*
 - *Standalone QA position in the team of 6;*
  \
 \
