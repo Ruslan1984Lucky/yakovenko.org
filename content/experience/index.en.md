@@ -86,7 +86,8 @@ math:
 
 ## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
 
-### Abiliton Intermediate QC Engineer ###
+### Abiliton Intermediate QC Engineer ### 
+### As QA Engineer, I participated in the development process of 4 software projects ###
 
 - *DBA expertize, management and performance optimization* \
 \
