@@ -90,7 +90,7 @@ math:
 
 - *As QA Engineer, I participated in the development process of 4 software projects;*
 - *DBA expertize, management and performance optimization;*
-- * Manual and Automation testing;*
+- *Manual and Automation testing;*
  \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
