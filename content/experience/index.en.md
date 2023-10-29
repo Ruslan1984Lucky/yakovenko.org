@@ -1,4 +1,4 @@
----
+Oki---
 title: "Work Experience"
 date: 2023-09-02T11:04:49+08:00
 draft: false
@@ -100,7 +100,7 @@ math:
 
 ### QA Engineer ###
 
-- *BI project;* 
+- *Single long-term BI project;* 
 - *Manual and automation testing;*
 - *Main DB, ETL DB structure development and improvement;*
 - *Development of the data update and synchronization stored proceduress;*
