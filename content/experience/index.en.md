@@ -96,13 +96,13 @@ math:
 
 &nbsp;
 
-## **[OSF](https://osf.digital/) FTE - 2009/2014** ##
+## **[OSF](https://osf.digital/) June 2011 - August 2013** ##
 
-### Team Lead and Senior DBA - Technology ###
+### QA Engineer ###
 
-- *Data architecture, expertize and support* 
-- *Infrastructure and data engineering as a dba, developer and sysadmin*
-- *Leading team of 6* \
+- *BI project* 
+- *Manual and automation testing*
+- *Standalone QA position in the team of 6* \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
