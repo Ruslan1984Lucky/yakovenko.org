@@ -1,4 +1,4 @@
-Oki---
+---
 title: "Work Experience"
 date: 2023-09-02T11:04:49+08:00
 draft: false
@@ -116,8 +116,8 @@ math:
  \
 \
 [(fab fa-solid fa-database  fa-2xl)](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+[(fab fa-brands fa-microsoft  fa-2xl)](https://www.microsoft.com/en-us/windows-server)
+[(fab fa-brands fa-linux  fa-2xl)](https://www.linux.org/)
 
 &nbsp;
 
