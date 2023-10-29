@@ -88,7 +88,7 @@ math:
 
 ### Abiliton Intermediate QC Engineer ### 
 
-- *As QA Engineer, I participated in the development process of 4 software projects;*
+- *As QA Engineer, participated in the development process of 4 software projects;*
 - *DBA expertize, management and performance optimization;*
 - *Manual and Automation testing;*
  \
