@@ -89,18 +89,9 @@ math:
 ### Abiliton Intermediate QC Engineer ### 
 
 - *As QA Engineer, participated in the development of 3 software projects;*
-- *BMC Release Lificikle Management tool]( https://docs.bmc.com/docs/ReleaseLifecycleMgt/50);*
-- *Product recommendation tool;*
-- *Desktop application plugin for documents management;*
-- *DBA expertize, management and performance optimization;*
 - *Manual and Automation testing;*
 - *Member of the small and big QA teams*
-- *Team Lead role substitution*
- \
-\
-[(fab fa-solid fa-database  fa-2xl)](https://www.microsoft.com/en-us/sql-server/)
-[(fab fa-brands fa-microsoft  fa-2xl)](https://www.microsoft.com/en-us/windows-server)
-[(fab fa-brands fa-linux  fa-2xl)](https://www.linux.org/)
+- *Team Lead role substitution;*
 
 &nbsp;
 
