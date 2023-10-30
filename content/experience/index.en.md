@@ -31,7 +31,7 @@ math:
 &nbsp;
 
 
-## **[Ordertime](https://ordertime.com/) contractor - since 2018** ##
+## **[Global Logic](https://www.globallogic.com/ua/** ##
 
 ### Cloud Architecture Consultant / Site Reliability Engineer - Fintech ###
 
