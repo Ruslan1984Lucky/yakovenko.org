@@ -89,7 +89,9 @@ math:
 ### Abiliton Intermediate QC Engineer ### 
 
 - *As QA Engineer, participated in the development of 3 software projects;*
-- BMC
+- *BMC Release Lificikle Management tool]( https://docs.bmc.com/docs/ReleaseLifecycleMgt/50);*
+- *Product recommendation tool;*
+- *Desktop application plugin for documents management;*
 - *DBA expertize, management and performance optimization;*
 - *Manual and Automation testing;*
 - *Member of the small and big QA teams*
