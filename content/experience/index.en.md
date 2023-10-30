@@ -31,7 +31,7 @@ math:
 &nbsp;
 
 
-## **[Global Logic](https://www.globallogic.com/ua/** ##
+## **[Global Logic](https://www.globallogic.com/ua/)** ##
 
 ### Cloud Architecture Consultant / Site Reliability Engineer - Fintech ###
 
