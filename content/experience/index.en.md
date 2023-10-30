@@ -65,7 +65,7 @@ math:
 &nbsp;
 
 
-## **[Epam](https://www.epam.com/) March 2015 -April 2016 ** ##
+## [Epam](https://www.epam.com/) March 2015 -April 2016 ##
 
 ### DBA and Cloud Consultant - Automotive ###
 
