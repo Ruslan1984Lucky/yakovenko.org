@@ -33,6 +33,17 @@ math:
 
 
 
+## **[Playson](https://playson.com/# September 2020 May 2021** ##
+
+  ### Senior Manual QA Engineer ###
+
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support* \
+\
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) ddd/en-us/windows-server)
+
+&nbsp;
+
 
 ## **[Oracle Corporation](https://www.oracle.com/) January 2019 November 2019** ##
 
@@ -50,23 +61,7 @@ math:
 [:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
 [:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
 
-&nbsp;
-
-
-
-
-## **[Playson](https://playson.com/# September 2020 May 2021** ##
-
-  ### Senior Manual QA Engineer ###
-
-- *Design and implementation for Cloud infrastructure*
-- *Data architecture, implementation and support* \
-\
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) ddd/en-us/windows-server)
-
-&nbsp;
-
-
+&nbsp
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 December 2018** ##
 
