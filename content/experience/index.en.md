@@ -65,7 +65,7 @@ math:
 &nbsp;
 
 
-## **[Performax](https://iperformax.com/) contractor - 2016-2020 / 2022** ##
+## **[Epam](https://www.epam.com/) March 2015 -April 2016 ** ##
 
 ### DBA and Cloud Consultant - Automotive ###
 
