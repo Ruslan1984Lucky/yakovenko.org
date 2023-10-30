@@ -11,6 +11,25 @@ math:
   enable: true
 ---
 
+## **[OracleCorporation](https://www.oracle.com/) January 2019 November 2019** ##
+
+  ### Senior Manual QA Engineer ###
+
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support* \
+\
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
+[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+
+&nbsp;
+
+
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 December 2018** ##
 
