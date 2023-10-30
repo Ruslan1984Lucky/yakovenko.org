@@ -48,7 +48,7 @@ math:
 &nbsp;
 
 
-##[Edvantis]](https://www.edvantis.com/) Senior Manual QA Engineer - May 2016- December 2016 ##
+## [Edvantis]](https://www.edvantis.com/) May 2016 - December 2016 ##
 
 ### DBA and Cloud Consultant - Technology ###
 
