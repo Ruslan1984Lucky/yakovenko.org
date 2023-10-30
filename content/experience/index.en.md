@@ -65,7 +65,7 @@ math:
 &nbsp;
 
 
-## [Epam Systems](https://www.epam.com/) March 2015 -April 2016 ##
+## **[Epam Systems](https://www.epam.com/) March 2015 -April 2016** ##
 
 ### Senior Manual QA Engineer
 
