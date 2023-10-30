@@ -11,7 +11,7 @@ math:
   enable: true
 ---
 
-## **[OracleCorporation](https://www.oracle.com/) January 2019 November 2019** ##
+## **[Oracle Corporation](https://www.oracle.com/) January 2019 November 2019** ##
 
   ### Senior Manual QA Engineer ###
 
