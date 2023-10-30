@@ -1,6 +1,6 @@
 ---
-title: "About Paul Zgondea"
-date: 2019-08-02T11:04:49+08:00
+title: "About Ruslan Yakovenko"
+date: 30.10.2023T11:19:02:49+07:00
 draft: false
 description: "About LoveIt"
 # images: ["/Apple-Devices-Preview.png"]
