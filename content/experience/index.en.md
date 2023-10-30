@@ -13,7 +13,7 @@ math:
 
 
 
-## **[Ciklum]
+##  **[Ciklum]
 (https://www.ciklum.com/) May 2021- July 2023** ##
 
   ### Senior Manual QA Engineer ###
