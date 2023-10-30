@@ -55,7 +55,7 @@ math:
 
 
 
-## **[Oracle Corporation](https://www.oracle.com/) January 2019 November 2019** ##
+## **[Playson](https://playson.com/# September 2020 May 2021** ##
 
   ### Senior Manual QA Engineer ###
 
