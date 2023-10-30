@@ -12,9 +12,9 @@ math:
 ---
 
 
-## **[Toptal](https://www.toptal.com/) contractor - since 2020** ##
+## **[Meest Group](https://ua.meest.com/) April 2018 December 2018** ##
 
-  ### DBA and Cloud Architect - Fintech ###
+  ### Senior Manual QA Engineer ###
 
 - *Design and implementation for Cloud infrastructure*
 - *Data architecture, implementation and support* \
