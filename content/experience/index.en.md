@@ -33,7 +33,7 @@ math:
 
 
 
-## **[Playson](https://playson.com/# September 2020 May 2021** ##
+## **[Playson](https://playson.com/#) September 2020 May 2021** ##
 
   ### Senior Manual QA Engineer ###
 
