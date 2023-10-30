@@ -48,7 +48,7 @@ math:
 &nbsp;
 
 
-## **[OSF](https://osf.digital/) contractor - 2022/2023** ##
+##[Edvantis]](https://www.edvantis.com/) Senior Manual QA Engineer - May 2016- December 2016 ##
 
 ### DBA and Cloud Consultant - Technology ###
 
