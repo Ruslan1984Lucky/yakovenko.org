@@ -65,9 +65,9 @@ math:
 &nbsp;
 
 
-## [Epam](https://www.epam.com/) March 2015 -April 2016 ##
+## [Epam Systems](https://www.epam.com/) March 2015 -April 2016 ##
 
-### DBA and Cloud Consultant - Automotive ###
+### Senior Manual QA Engineer
 
 - *Cloud architecture, automation/scalability*
 - *DBA expertize, management and performance optimization* 
