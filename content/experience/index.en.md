@@ -1,6 +1,6 @@
 ---
 title: "Work Experience"
-date: 2023-09-02T11:04:49+08:00
+date: 2023-10-31T11:017:40+08:00
 draft: false
 description: "About LoveIt"
 images: ["/Apple-Devices-Preview.png"]
@@ -50,8 +50,12 @@ math:
 
   ### Senior Manual QA Engineer ###
 
-- *Design and implementation for Cloud infrastructure*
-- *Data architecture, implementation and support* \
+- *Cloud architecture, automation/scalability*
+- *Implementation for Cloud infrastructure*
+- *Data architecture, implementation and support*
+- *Architecture and building Cloud application from scratch*
+- *Data and application architecture and implementation* 
+- *Infrastructure and data engineering as a dba, devops, sysops* \  \
 \
 [:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
@@ -85,11 +89,12 @@ math:
 
 ## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
 
-### Cloud Architecture Consultant / Site Reliability Engineer - Fintech ###
+### Senior Manual QA Engineer ###
 
-- *Architecture and building Cloud application from scratch*
-- *Data and application architecture and implementation* 
-- *Infrastructure and data engineering as a dba, devops, sysops* \
+- *Manual Testing*
+- *Healthcare project*
+- 
+
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
@@ -102,11 +107,12 @@ math:
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
 
-### DBA and Cloud Consultant - Technology ###
+### Senior QA Engineer ###
 
-- *Architecture and cost optimization for Cloud Infrastructure*
-- *Data architecture and planning for future changes* 
-- *Infrastructure and data engineering as a dba, devops, sysops* \
+- *Passed SQA sertification for healthcare projects;*
+- *Manual Testing;*
+- *Automation testing*
+- *Member of small QA team* \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
@@ -118,10 +124,13 @@ math:
 
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 -April 2016** ##
-
+d
 ### Senior Manual QA Engineer
 
-- *Cloud architecture, automation/scalability*
+- *As QA Engineer, I was involved into the development of four software projects*
+- *Manual Testing*
+- *Automation testing*
+- *Performance Testing*
 - *DBA expertize, management and performance optimization* 
 - *Infrastructure devops, sysops* \
 \
@@ -140,8 +149,9 @@ math:
 
 ### Abiliton Intermediate QC Engineer ### 
 
-- *As QA Engineer, participated in the development of 3 software projects;*
-- *Manual and Automation testing;*
+- *As QA Engineer, participated in the development of 3 software projects: BI, desktop and cross-platform release life circle management tool;*
+- *Manual Testing*
+- *Automation testing;*
 - *Member of the small and big QA teams*
 - *Team Lead role substitution;*
 
@@ -151,8 +161,9 @@ math:
 
 ### QA Engineer ###
 
-- *Single long-term BI project;* 
-- *Manual and automation testing;*
+- *Single long-term BI project;*
+- *Manual Testing;*
+- *Automation testing;*
 - *Main DB, ETL DB structure development and improvement;*
 - *Development of the data update and synchronization stored proceduress;*
 -*Manual run of stored procedures to test reporting business logic build on Fusion Chart technology;*
