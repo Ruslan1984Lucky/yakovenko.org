@@ -45,8 +45,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
-    url = "/posts/"
+    name = "Achivements"
+    url = "/Achivements/"
     # title will be shown when you hover on this menu link
     title = ""
   [[menu.main]]
@@ -79,7 +79,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website title for Open Graph and Twitter Cards
   title = "Software Testing Engineer/Software Performance Analyst"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "This is my cool site"
+  description = "Ruslan Yakovenko CV"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -183,7 +183,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "phatdogg@gmail.com"
+      gravatarEmail = "ruslan@yakovenko.org"
       # URL of avatar shown in home page
       avatarURL = ""
       #  title shown in home page (HTML format is supported)
