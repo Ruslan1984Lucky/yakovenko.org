@@ -18,8 +18,12 @@ math:
 
   ### Senior Manual QA Engineer ###
 
-- *Design and implementation for Cloud infrastructure*
-- *Data architecture, implementation and support* \
+- *BI project;*
+- *Design and implementation for Cloud infrastructure;*
+- *Data architecture, implementation and support;*
+- *Manual Testing;*
+- *Automation Testing;*
+- *Member of small QA team, standalone position in a separate POD;* \
 \
 [:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
@@ -38,8 +42,9 @@ math:
 
   ### Senior Manual QA Engineer ###
 
-- *Design and implementation for Cloud infrastructure*
-- *Data architecture, implementation and support* \
+- *Manual Testing:*
+- *Automation Testing;*
+- *Stanalone position;* \
 \
 [:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) ddd/en-us/windows-server)
 
@@ -50,12 +55,12 @@ math:
 
   ### Senior Manual QA Engineer ###
 
-- *Cloud architecture, automation/scalability*
-- *Implementation for Cloud infrastructure*
-- *Data architecture, implementation and support*
-- *Architecture and building Cloud application from scratch*
-- *Data and application architecture and implementation* 
-- *Infrastructure and data engineering as a dba, devops, sysops* \  \
+- *Manual Testing;*
+- *Automation Testing;*
+- *Cloud architecture implementation, automation/scalability;*
+- *Data and application architecture, implementation and support;*
+- *Building Cloud application from scratch;*
+- *Implementation for Cloud infrastructure and support;*  \
 \
 [:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
@@ -72,8 +77,9 @@ math:
 
   ### Senior Manual QA Engineer ###
 
-- *Design and implementation for Cloud infrastructure*
-- *Data architecture, implementation and support* \
+- *Manual Testing;*
+- *Automation Testing;*
+- *Standalone position;*\
 \
 [:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
@@ -91,9 +97,10 @@ math:
 
 ### Senior Manual QA Engineer ###
 
-- *Manual Testing*
-- *Healthcare project*
-- 
+- *Manual Testing;*
+- *Healthcare project with BI part;*
+- *Localisation Testing;*
+- *Preparation of the translation tables and cooperation with Translation Team;*
 
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
@@ -109,10 +116,10 @@ math:
 
 ### Senior QA Engineer ###
 
-- *Passed SQA sertification for healthcare projects;*
+- *Passed SQA sertification training for healthcare projects and was certified for development healthcare products;*
 - *Manual Testing;*
-- *Automation testing*
-- *Member of small QA team* \
+- *Automation testing;*
+- *Member of small QA team;* \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
@@ -127,12 +134,12 @@ math:
 d
 ### Senior Manual QA Engineer
 
-- *As QA Engineer, I was involved into the development of four software projects*
-- *Manual Testing*
-- *Automation testing*
-- *Performance Testing*
-- *DBA expertize, management and performance optimization* 
-- *Infrastructure devops, sysops* \
+- *As QA Engineer, I was involved into the development of 4 software projects;*
+- *Manual Testing;*
+- *Automation testing;*
+- *Performance Testing;*
+- *DBA expertize, management and performance optimization;* 
+- *Infrastructure devops, sysops;* \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
@@ -149,10 +156,10 @@ d
 
 ### Abiliton Intermediate QC Engineer ### 
 
-- *As QA Engineer, participated in the development of 3 software projects: BI, desktop and cross-platform release life circle management tool;*
-- *Manual Testing*
+- *As QA Engineer, participated in the development process of 3 software projects: BI, desktop and cross-platform release life circle management tool;*
+- *Manual Testing;*
 - *Automation testing;*
-- *Member of the small and big QA teams*
+- *Member of the small and big QA teams;*
 - *Team Lead role substitution;*
 
 &nbsp;
@@ -167,7 +174,7 @@ d
 - *Main DB, ETL DB structure development and improvement;*
 - *Development of the data update and synchronization stored proceduress;*
 -*Manual run of stored procedures to test reporting business logic build on Fusion Chart technology;*
-- *Development of the reporting feature based on Fusion Chart;* Technology;*
+- *Development of the reporting feature based on Fusion Chart Technology;*
 - *Development of the integration with Salesforce;*
 - *Development of the integration with Facebook via Facebook up;*
 -ETL tables development;
