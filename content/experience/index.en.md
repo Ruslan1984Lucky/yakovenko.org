@@ -44,7 +44,7 @@ math:
 
 - *Manual Testing:*
 - *Automation Testing;*
-- *Stanalone position;* \
+- *Standalone position;* \
 \
 [:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) ddd/en-us/windows-server)
 
