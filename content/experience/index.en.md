@@ -18,11 +18,6 @@ math:
 
   ### Senior Manual QA Enginee
 
-## **[Ciklum]
-(https://www.ciklum.com/) May 2021- July 2023 ** ##
-
-  ### Senior Manual QA Engineer ###
-
 - *BI project;*
 - *Design and implementation for Cloud infrastructure;*
 - *Data architecture, implementation and support;*
