@@ -131,7 +131,7 @@ math:
 
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 -April 2016** ##
-d
+
 ### Senior Manual QA Engineer
 
 - *As QA Engineer, I was involved into the development of 4 software projects;*
