@@ -7,4 +7,4 @@ author = 'Ruslan Yakovenko'
 +++
 ## No fate, but what we made ##
 
-![Minion](/static/lib/images/rimg1.jpg)
+![Minion](/lib/images/rimg1.jpg)
