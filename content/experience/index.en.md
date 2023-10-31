@@ -100,8 +100,7 @@ math:
 - *Manual Testing;*
 - *Healthcare project with BI part;*
 - *Localisation Testing;*
-- *Preparation of the translation tables and cooperation with Translation Team;*
-
+- *Preparation of the translation tables and cooperation with Translation Team;*\
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
