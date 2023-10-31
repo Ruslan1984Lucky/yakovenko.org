@@ -158,8 +158,8 @@ math:
 - *Manual Testing;*
 - *Automation testing;*
 - *Member of the small and big QA teams;*
-- *Team Lead role substitution;*
-
+- *Team Lead role substitution;*\
+\
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
 [:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
