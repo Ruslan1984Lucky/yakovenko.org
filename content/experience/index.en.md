@@ -71,7 +71,7 @@ math:
 [:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
 [:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
 
-&nbsp
+&nbsp;
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 December 2018** ##
 
