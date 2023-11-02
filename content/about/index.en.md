@@ -18,9 +18,7 @@ math:
 
 &nbsp;
 
-*[:(fab fa-solid fa-envelope fa-shake fa-2xl):](mailto:paul@zgondea.com)*&nbsp;&nbsp;
-*[:(fab fa-brands fa-linkedin-in fa-beat-fade fa-2xl):](https://linkedin.com/in/zgondeapaul)*&nbsp;&nbsp;
-*[:(fab fa-brands fa-telegram fa-beat fa-2xl):](https://t.me/ZVPalu)*&nbsp;&nbsp;
-*[:(fab fa-brands fa-skype fa-bounce fa-2xl):](skype:%25!%28EXTRA%20string=paul.zgondea%29)*&nbsp;&nbsp;
+*[:(fab fa-solid fa-envelope fa-shake fa-2xl):](mailto:yak_rusl@yahoo.com)*&nbsp;&nbsp;
+*[:(fab fa-brands fa-linkedin-in fa-beat-fade fa-2xl):](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)*&nbsp;&nbsp;
 
 
