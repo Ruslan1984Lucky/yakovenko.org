@@ -183,7 +183,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "ruslan@yakovenko.org"
+      gravatarEmail = "phatdogg@gmail.com"
       # URL of avatar shown in home page
       avatarURL = "https://cdn.discordapp.com/attachments/1156664313264750652/1160313834830041108/zvpalu_line_art_caucasian_ukrainean_face_of_IT_guy_with_oblong__18c1393e-2ef6-4f13-8d23-21b7e4954e06.png?ex=65343577&is=6521c077&hm=cf86cac18950de6f1b408fd0bff68ad14b511f5c920062071f7f8005e1b82199ine_art_caucasian_ukrainean_face_of_IT_guy_with_oblong__18c1393e-2ef6-4f13-8d23-21b7e4954e06.png%3Fex%3D65343577%26is%3D6521c077%26hm%3Dcf86cac18950de6f1b408fd0bff68ad14b511f5c920062071f7f8005e1b82199"
       #  title shown in home page (HTML format is supported)
