@@ -18,7 +18,7 @@ math:
 
   ### Senior Manual QA Enginee
 
-- *two BI projects;*
+- *BI project;*
 - *Design and implementation for Cloud infrastructure;*
 - *Data architecture, implementation and support;*
 - *Manual Testing;*
