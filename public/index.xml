@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ruslan Yakovenko</title>
+        <link>https://yakovenko.org/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 14:03:46 &#43;0300</lastBuildDate>
+            <atom:link href="https://yakovenko.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title></title>
+    <link>https://yakovenko.org/posts/a_wild_ride/</link>
+    <pubDate>Tue, 31 Oct 2023 14:03:46 &#43;0300</pubDate>
+    <author>Ruslan Yakovenko</author>
+    <guid>https://yakovenko.org/posts/a_wild_ride/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
