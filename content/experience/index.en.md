@@ -154,4 +154,22 @@
 - Acted as a substitute for the Team Lead role.  
 
 **Key Technologies:**  
-[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)]
+
+## **[OSF Global Services](https://osf-global.com/)**  
+### Senior QA Engineer  
+**February 2012 – July 2013**
+
+- Participated in manual testing for e-commerce solutions and custom applications.  
+- Assisted in developing test plans, test cases, and execution based on project requirements.  
+- Worked closely with development teams to ensure high-quality releases.  
+- Conducted regression testing and reported defects in a timely manner.  
+- Contributed to improving the overall QA processes and automation efforts.  
+
+**Key Technologies:**  
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](https://www.microsoft.com/en-us/sql-server/)  
+[![Jenkins](https://img.shields.io/badge/-Jenkins-blue)](https://www.jenkins.io/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://www.github.com/)  
+[![Java](https://img.shields.io/badge/-Java-blue)](https://www.java.com/)  
+[![Linux](https://img.shields.io/badge/-Linux-lightgrey)](https://www.linux.org/)  
+[![Selenium](https://img.shields.io/badge/-Selenium-orange)](https://www.selenium.dev/)
