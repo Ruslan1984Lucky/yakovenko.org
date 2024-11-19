@@ -79,10 +79,4 @@
 
 _For earlier roles and further details, visit my [LinkedIn Profile](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)._  
 
----
-
-### How to Use:
-1. Copy this code into a `README.md` or a similar file in your GitHub repository.  
-2. Ensure your repository's description aligns with your professional focus.  
-
-Let me know if you need additional adjustments!
+--
