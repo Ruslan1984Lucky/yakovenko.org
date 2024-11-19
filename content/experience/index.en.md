@@ -1,197 +1,88 @@
----
-title: "Work Experience"
-date: 2023-10-31T11:017:40+08:00
-draft: false
-description: "About LoveIt"
-images: ["/Apple-Devices-Preview.png"]
+# Work Experience
 
-lightgallery: true
-
-math:
-  enable: true
 ---
 
+## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/)**  
+### Performance and Automation QA Engineer  
+**May 2024 – Present**
 
+- Performing automation and load/performance testing.  
+- Writing automation tests on Protractor JavaScript.  
+- Delivered API services to enhance project functionality.  
+- Playing a key role in the SCAC (Standard Carrier Alpha Code) project.  
+- Contributing as a general QA Engineer while ensuring quality and timely delivery of tasks.  
 
+**Key Technologies:**  
+[![Protractor](https://img.shields.io/badge/-Protractor_JS-orange)](https://www.protractortest.org/)  
+[![Postman](https://img.shields.io/badge/-Postman-black)](https://www.postman.com/)  
+[![JMeter](https://img.shields.io/badge/-JMeter-red)](https://jmeter.apache.org/)
 
-## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
+---
 
-  ### Senior Manual QA Enginee
+## **[Ciklum](https://www.ciklum.com/)**  
+### Senior Manual QA Engineer  
+**May 2021 - July 2023**
 
-- *two BI projects;*
-- *Design and implementation for Cloud infrastructure;*
-- *Data architecture, implementation and support;*
-- *Manual Testing;*
-- *Automation Testing;*
-- *Member of small QA team, standalone position in a separate POD;* \
-\
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+- Worked on two Business Intelligence (BI) projects.  
+- Designed and implemented Cloud infrastructure.  
+- Developed and supported data architecture.  
+- Conducted manual and automation testing.  
+- Writing automation tests on Protractor JavaScript.  
+- Played a standalone role in a small QA team within a separate POD.  
 
-&nbsp;
+**Key Technologies:**  
+[![Protractor](https://img.shields.io/badge/-Protractor_JS-orange)](https://www.protractortest.org/)  
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](https://www.microsoft.com/en-us/sql-server/)  
+[![Azure Cloud](https://img.shields.io/badge/-Azure_Cloud-blueviolet)](https://azure.microsoft.com/)  
+[![Azure Data Factory](https://img.shields.io/badge/-Azure_Data_Factory-blue)](https://azure.microsoft.com/en-us/products/data-factory/)  
+[![Datalake](https://img.shields.io/badge/-Datalake-teal)]()  
+[![Databricks](https://img.shields.io/badge/-Databricks-red)](https://www.databricks.com/)  
+[![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-brightgreen)](https://azure.microsoft.com/en-us/products/devops/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://www.github.com/)  
+[![Windows Server](https://img.shields.io/badge/-Windows_Server-darkblue)](https://www.microsoft.com/en-us/windows-server/)
 
+---
 
+## **[Playson](https://playson.com/#)**  
+### Senior Manual QA Engineer  
+**September 2020 - May 2021**
 
-## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
+- Conducted manual and automation testing.  
+- Writing automation tests on Protractor JavaScript.  
+- Held a standalone QA position, contributing independently to project success.  
 
-  ### Senior Manual QA Engineer ###
+**Key Technologies:**  
+[![Protractor](https://img.shields.io/badge/-Protractor_JS-orange)](https://www.protractortest.org/)
 
-- *Manual Testing:*
-- *Automation Testing;*
-- *Standalone position;* \
-\
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) ddd/en-us/windows-server)
+---
 
-&nbsp;
+## **[Oracle Corporation](https://www.oracle.com/)**  
+### Senior Manual QA Engineer  
+**January 2019 - November 2019**
 
+- Conducted manual and automation testing.  
+- Designed and implemented Cloud infrastructure.  
+- Built and supported cloud applications from scratch.  
+- Developed and optimized data and application architecture.  
 
-## **[Oracle Corporation](https://www.oracle.com/) January 2019 November 2019** ##
+**Key Technologies:**  
+[![Protractor](https://img.shields.io/badge/-Protractor_JS-orange)](https://www.protractortest.org/)  
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](https://www.microsoft.com/en-us/sql-server/)  
+[![Azure Cloud](https://img.shields.io/badge/-Azure_Cloud-blueviolet)](https://azure.microsoft.com/)  
+[![Azure Data Factory](https://img.shields.io/badge/-Azure_Data_Factory-blue)](https://azure.microsoft.com/en-us/products/data-factory/)  
+[![Databricks](https://img.shields.io/badge/-Databricks-red)](https://www.databricks.com/)  
+[![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-brightgreen)](https://azure.microsoft.com/en-us/products/devops/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://www.github.com/)  
+[![Windows Server](https://img.shields.io/badge/-Windows_Server-darkblue)](https://www.microsoft.com/en-us/windows-server/)
 
-  ### Senior Manual QA Engineer ###
+---
 
-- *Manual Testing;*
-- *Automation Testing;*
-- *Cloud architecture implementation, automation/scalability;*
-- *Data and application architecture, implementation and support;*
-- *Building Cloud application from scratch;*
-- *Implementation for Cloud infrastructure and support;*  \
-\
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+_For earlier roles and further details, visit my [LinkedIn Profile](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)._  
 
-&nbsp;
+---
 
-## **[Meest Group](https://ua.meest.com/) April 2018 December 2018** ##
+### How to Use:
+1. Copy this code into a `README.md` or a similar file in your GitHub repository.  
+2. Ensure your repository's description aligns with your professional focus.  
 
-  ### Senior Manual QA Engineer ###
-
-- *Manual Testing;*
-- *Automation Testing;*
-- *Standalone position;*\
-\
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-
-&nbsp;
-
-
-## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
-
-### Senior Manual QA Engineer ###
-
-- *Manual Testing;*
-- *Healthcare project with BI part;*
-- *Localisation Testing;*
-- *Preparation of the translation tables and cooperation with Translation Team;*\
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
-
-
-&nbsp;
-
-
-## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
-
-### Senior QA Engineer ###
-
-- *Passed SQA sertification training for healthcare projects and was certified for development healthcare products;*
-- *Manual Testing;*
-- *Automation testing;*
-- *Member of small QA team;* \
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
-
-&nbsp;
-
-
-## **[Epam Systems](https://www.epam.com/) March 2015 -April 2016** ##
-
-### Senior Manual QA Engineer
-
-- *As QA Engineer, I was involved into the development of 4 software projects;*
-- *Manual Testing;*
-- *Automation testing;*
-- *Performance Testing;*
-- *DBA expertize, management and performance optimization;* 
-- *Infrastructure devops, sysops;* \
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
-[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-&nbsp;
-
-
-## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
-
-### Abiliton Intermediate QC Engineer ### 
-
-- *As QA Engineer, participated in the development process of 3 software projects: BI, desktop and cross-platform release life circle management tool;*
-- *Manual Testing;*
-- *Automation testing;*
-- *Member of the small and big QA teams;*
-- *Team Lead role substitution;*\
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
-[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
-
-
-&nbsp;
-
-## **[OSF Digital](https://osf.digital/) June 2011 - August 2013** ##
-
-### QA Engineer ###
-
-- *Single long-term BI project;*
-- *Manual Testing;*
-- *Automation testing;*
-- *Main DB, ETL DB structure development and improvement;*
-- *Development of the data update and synchronization stored proceduress;*
--*Manual run of stored procedures to test reporting business logic build on Fusion Chart technology;*
-- *Development of the reporting feature based on Fusion Chart Technology;*
-- *Development of the integration with Salesforce;*
-- *Development of the integration with Facebook via Facebook up;*
--ETL tables development;
-- *Data Import feature and data dictionary development:*
-- *Standalone QA position in the team of 6;*
- \
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
-
-&nbsp;
-
-## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
+Let me know if you need additional adjustments!
