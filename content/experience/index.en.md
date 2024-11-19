@@ -147,14 +147,26 @@
 
 ## **[Softserve Inc.](https://www.softserveinc.com/en-us)**  
 ### Abiliton Intermediate QC Engineer  
-**August 2013 - March 2015**
+**August 2013 – March 2015**
 
-- Participated in the development process of 3 software projects: BI, desktop, and cross-platform release lifecycle management tools.  
-- Conducted manual and automation testing.  
-- Acted as a substitute for the Team Lead role.  
+- Participated in the development process of 3 software projects: BI, desktop, and cross-platform release life cycle management tools.  
+- Engaged in **Manual Testing** to ensure quality across multiple projects.  
+- Collaborated with the development team in an **Agile** environment, adhering to **SCRUM** practices.  
+- Developed and executed test cases based on project requirements and user stories.  
+- Managed project tasks and tracked defects using **Jira** to maintain smooth workflows.  
+- Performed regression testing, ensuring that new features did not impact existing functionality.  
+- Substituted for **Team Lead** during absence and helped guide the team through testing processes.
 
 **Key Technologies:**  
-[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)]
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](https://www.microsoft.com/en-us/sql-server/)  
+[![AWS](https://img.shields.io/badge/-AWS-orange)](https://aws.amazon.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://www.github.com/)  
+[![Jira](https://img.shields.io/badge/-Jira-blue)](https://www.atlassian.com/software/jira)  
+[![Java](https://img.shields.io/badge/-Java-blue)](https://www.java.com/)  
+[![Linux](https://img.shields.io/badge/-Linux-lightgrey)](https://www.linux.org/)  
+[![Selenium](https://img.shields.io/badge/-Selenium-orange)](https://www.selenium.dev/)  
+[![Agile](https://img.shields.io/badge/-Agile-orange)](https://www.agilealliance.org/)  
+[![SCRUM](https://img.shields.io/badge/-SCRUM-green)](https://www.scrum.org/)
 
 ## **[OSF Global Services](https://osf-global.com/)**  
 ### Senior QA Engineer  
