@@ -77,6 +77,81 @@
 
 ---
 
-_For earlier roles and further details, visit my [LinkedIn Profile](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)._  
+## **[Meest Group](https://ua.meest.com/)**  
+### Senior Manual QA Engineer  
+**April 2018 - December 2018**
 
---
+- Conducted manual and automation testing.  
+- Held a standalone QA position, contributing independently to project success.  
+
+**Key Technologies:**  
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](https://www.microsoft.com/en-us/sql-server/)  
+[![Azure Cloud](https://img.shields.io/badge/-Azure_Cloud-blueviolet)](https://azure.microsoft.com/)  
+[![Azure Data Factory](https://img.shields.io/badge/-Azure_Data_Factory-blue)](https://azure.microsoft.com/en-us/products/data-factory/)  
+[![Databricks](https://img.shields.io/badge/-Databricks-red)](https://www.databricks.com/)  
+[![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-brightgreen)](https://azure.microsoft.com/en-us/products/devops/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://www.github.com/)  
+[![Windows Server](https://img.shields.io/badge/-Windows_Server-darkblue)](https://www.microsoft.com/en-us/windows-server/)
+
+---
+
+## **[Global Logic](https://www.globallogic.com/ua/)**  
+### Senior Manual QA Engineer  
+**April 2017 - December 2017**
+
+- Conducted manual testing for a healthcare project with BI components.  
+- Performed localization testing and prepared translation tables in collaboration with the translation team.  
+
+**Key Technologies:**  
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](https://www.microsoft.com/en-us/sql-server/)  
+[![AWS](https://img.shields.io/badge/-AWS-orange)](https://aws.amazon.com/)  
+[![Windows Server](https://img.shields.io/badge/-Windows_Server-darkblue)](https://www.microsoft.com/en-us/windows-server/)  
+[![Linux](https://img.shields.io/badge/-Linux-lightgrey)](https://www.linux.org/)
+
+---
+
+## **[Edvantis](https://www.edvantis.com/)**  
+### Senior QA Engineer  
+**May 2016 - December 2016**
+
+- Passed SQA certification training for healthcare projects.  
+- Conducted manual and automation testing.  
+- Contributed as a member of a small QA team.  
+
+**Key Technologies:**  
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](https://www.microsoft.com/en-us/sql-server/)  
+[![AWS](https://img.shields.io/badge/-AWS-orange)](https://aws.amazon.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://www.github.com/)  
+[![Windows Server](https://img.shields.io/badge/-Windows_Server-darkblue)](https://www.microsoft.com/en-us/windows-server/)  
+[![Linux](https://img.shields.io/badge/-Linux-lightgrey)](https://www.linux.org/)
+
+---
+
+## **[Epam Systems](https://www.epam.com/)**  
+### Senior Manual QA Engineer  
+**March 2015 - April 2016**
+
+- Participated in the development of 4 software projects.  
+- Conducted manual, automation, and performance testing.  
+- Provided DBA expertise, management, and performance optimization.  
+
+**Key Technologies:**  
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](https://www.microsoft.com/en-us/sql-server/)  
+[![AWS](https://img.shields.io/badge/-AWS-orange)](https://aws.amazon.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://www.github.com/)  
+[![Datadog](https://img.shields.io/badge/-Datadog-purple)](https://www.datadoghq.com/)  
+[![Zadara](https://img.shields.io/badge/-Zadara-yellow)](https://www.zadara.com/)  
+[![Windows Server](https://img.shields.io/badge/-Windows_Server-darkblue)](https://www.microsoft.com/en-us/windows-server/)
+
+---
+
+## **[Softserve Inc.](https://www.softserveinc.com/en-us)**  
+### Abiliton Intermediate QC Engineer  
+**August 2013 - March 2015**
+
+- Participated in the development process of 3 software projects: BI, desktop, and cross-platform release lifecycle management tools.  
+- Conducted manual and automation testing.  
+- Acted as a substitute for the Team Lead role.  
+
+**Key Technologies:**  
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-blue)](
