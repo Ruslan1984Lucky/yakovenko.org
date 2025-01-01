@@ -2,7 +2,7 @@
 
 ---
 
-### **Perfomax**  
+### **NMFTA**  
 **Performance and Automation QA Engineer**  
 **May 2024 – Present**  
 
