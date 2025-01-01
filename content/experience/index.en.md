@@ -2,15 +2,15 @@
 
 ---
 
-## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/)**  
-### Performance and Automation QA Engineer  
-**May 2024 – Present**
+### **Perfomax**  
+**Performance and Automation QA Engineer**  
+**May 2024 – Present**  
 
-- Performing automation and load/performance testing.  
-- Writing automation tests on Protractor JavaScript.  
-- Delivered API services to enhance project functionality.  
-- Playing a key role in the SCAC (Standard Carrier Alpha Code) project.  
-- Contributing as a general QA Engineer while ensuring quality and timely delivery of tasks.  
+- Conducting automation and load/performance testing to ensure application reliability.  
+- Writing and maintaining automation test scripts using **Protractor (JavaScript)**.  
+- Delivered scalable API services to enhance project functionality.  
+- Actively contributing to the **SCAC (Standard Carrier Alpha Code)** project to meet critical deadlines.  
+- Ensuring quality delivery as a general QA Engineer by collaborating across teams and stakeholders.  
 
 **Key Technologies:**  
 [![Protractor](https://img.shields.io/badge/-Protractor_JS-orange)](https://www.protractortest.org/)  
