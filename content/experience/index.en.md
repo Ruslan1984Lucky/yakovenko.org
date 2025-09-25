@@ -1,6 +1,6 @@
 ---
 title: "Work Experience"
-date: 2023-10-31T11:017:40+08:00
+date: 2023-09-02T11:04:49+08:00
 draft: false
 description: "About LoveIt"
 images: ["/Apple-Devices-Preview.png"]
@@ -13,19 +13,15 @@ math:
 
 
 
+## **[Ciklum]
+(https://www.ciklum.com/) May 2021- July 2023 ** ##
 
-## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
+  ### Senior Manual QA Engineer ###
 
-  ### Senior Manual QA Enginee
-
-- *BI project;*
-- *Design and implementation for Cloud infrastructure;*
-- *Data architecture, implementation and support;*
-- *Manual Testing;*
-- *Automation Testing;*
-- *Member of small QA team, standalone position in a separate POD;* \
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support* \
 \
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/)
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
@@ -42,9 +38,8 @@ math:
 
   ### Senior Manual QA Engineer ###
 
-- *Manual Testing:*
-- *Automation Testing;*
-- *Standalone position;* \
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support* \
 \
 [:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) ddd/en-us/windows-server)
 
@@ -55,14 +50,10 @@ math:
 
   ### Senior Manual QA Engineer ###
 
-- *Manual Testing;*
-- *Automation Testing;*
-- *Cloud architecture implementation, automation/scalability;*
-- *Data and application architecture, implementation and support;*
-- *Building Cloud application from scratch;*
-- *Implementation for Cloud infrastructure and support;*  \
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support* \
 \
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/)
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
@@ -77,11 +68,10 @@ math:
 
   ### Senior Manual QA Engineer ###
 
-- *Manual Testing;*
-- *Automation Testing;*
-- *Standalone position;*\
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support* \
 \
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/)
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
@@ -95,12 +85,11 @@ math:
 
 ## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
 
-### Senior Manual QA Engineer ###
+### Cloud Architecture Consultant / Site Reliability Engineer - Fintech ###
 
-- *Manual Testing;*
-- *Healthcare project with BI part;*
-- *Localisation Testing;*
-- *Preparation of the translation tables and cooperation with Translation Team;*\
+- *Architecture and building Cloud application from scratch*
+- *Data and application architecture and implementation*
+- *Infrastructure and data engineering as a dba, devops, sysops* \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
@@ -113,12 +102,11 @@ math:
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
 
-### Senior QA Engineer ###
+### DBA and Cloud Consultant - Technology ###
 
-- *Passed SQA sertification training for healthcare projects and was certified for development healthcare products;*
-- *Manual Testing;*
-- *Automation testing;*
-- *Member of small QA team;* \
+- *Architecture and cost optimization for Cloud Infrastructure*
+- *Data architecture and planning for future changes*
+- *Infrastructure and data engineering as a dba, devops, sysops* \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
@@ -133,31 +121,9 @@ math:
 
 ### Senior Manual QA Engineer
 
-- *As QA Engineer, I was involved into the development of 4 software projects;*
-- *Manual Testing;*
-- *Automation testing;*
-- *Performance Testing;*
-- *DBA expertize, management and performance optimization;* 
-- *Infrastructure devops, sysops;* \
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
-[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-&nbsp;
-
-
-## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
-
-### Abiliton Intermediate QC Engineer ### 
-
-- *As QA Engineer, participated in the development process of 3 software projects: BI, desktop and cross-platform release life circle management tool;*
-- *Manual Testing;*
-- *Automation testing;*
-- *Member of the small and big QA teams;*
-- *Team Lead role substitution;*\
+- *Cloud architecture, automation/scalability*
+- *DBA expertize, management and performance optimization*
+- *Infrastructure devops, sysops* \
 \
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
@@ -167,6 +133,17 @@ math:
 [:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
 [:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
 
+&nbsp;
+
+
+## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
+
+### Abiliton Intermediate QC Engineer ###
+
+- *As QA Engineer, participated in the development of 3 software projects;*
+- *Manual and Automation testing;*
+- *Member of the small and big QA teams*
+- *Team Lead role substitution;*
 
 &nbsp;
 
@@ -175,12 +152,11 @@ math:
 ### QA Engineer ###
 
 - *Single long-term BI project;*
-- *Manual Testing;*
-- *Automation testing;*
+- *Manual and automation testing;*
 - *Main DB, ETL DB structure development and improvement;*
 - *Development of the data update and synchronization stored proceduress;*
 -*Manual run of stored procedures to test reporting business logic build on Fusion Chart technology;*
-- *Development of the reporting feature based on Fusion Chart Technology;*
+- *Development of the reporting feature based on Fusion Chart;* Technology;*
 - *Development of the integration with Salesforce;*
 - *Development of the integration with Facebook via Facebook up;*
 -ETL tables development;
@@ -188,9 +164,9 @@ math:
 - *Standalone QA position in the team of 6;*
  \
 \
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+[(fab fa-solid fa-database  fa-2xl)](https://www.microsoft.com/en-us/sql-server/)
+[(fab fa-brands fa-microsoft  fa-2xl)](https://www.microsoft.com/en-us/windows-server)
+[(fab fa-brands fa-linux  fa-2xl)](https://www.linux.org/)
 
 &nbsp;
 
