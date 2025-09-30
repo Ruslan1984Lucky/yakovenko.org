@@ -1,69 +1,62 @@
 ---
 title: "About Ruslan Yakovenko"
-date: 30.10.2023T11:19:02:49+07:00
+date: 01.10.2025T12:00:00+07:00
 draft: false
-description: "About LoveIt"
+description: "QA Architect & Coach | BI / Data Analytics / Performance Testing | Bridging Business Insights & Software Quality"
 lightgallery: true
 
 math:
   enable: true
 ---
 
-<div style="display:flex; align-items:center; gap:20px; margin-bottom:30px;">
-  <img src="/images/ruslan-profile.jpg" alt="Ruslan Yakovenko" style="border-radius:50%; max-width:180px; border:3px solid #ddd;">
-  <div>
-    <h1>Ruslan Yakovenko</h1>
-    <p>Senior QA Engineer | BI QA Architect | Automation & Data Testing Enthusiast</p>
-    <div style="margin-top:10px;">
-      <a href="mailto:yak_rusl@yahoo.com" style="text-decoration:none; margin-right:10px; padding:8px 15px; background:#007bff; color:white; border-radius:5px;">📧 Contact Me</a>
-      <a href="/docs/RuslanYakovenko_CV.pdf" style="text-decoration:none; margin-right:10px; padding:8px 15px; background:#6c757d; color:white; border-radius:5px;">📄 Download CV</a>
-      <a href="https://github.com/yourprofile" style="text-decoration:none; padding:8px 15px; background:#343a40; color:white; border-radius:5px;">💻 GitHub</a>
-    </div>
-  </div>
-</div>
+## QA Architect & Coach | BI / Data / Performance / Automation  
+
+I am a Senior QA Engineer / BI QA Architect with **12+ years of professional experience** in software testing, data quality, performance engineering, and automation. My focus is on **ensuring reliability, compliance, and high performance** in BI, Data, and Cloud-driven projects.
+
+I specialize in **BI / Data Analytics / Performance Testing / Automation**, bridging business insights with software quality.
 
 ---
 
-## About Me
-*Ruslan Yakovenko boasts a wealth of expertise spanning over 12 years in the realm of data architecture, complemented by an additional 8 years dedicated to cloud architecture.*
-
-*Feel free to reach out to me directly via the provided e-mail below or consider retaining my services through [E-mail](mailto:yak_rusl@yahoo.com))* 
-
-&nbsp;
-
-*[:(fab fa-solid fa-envelope fa-shake fa-2xl):](mailto:yak_rusl@yahoo.com)*&nbsp;&nbsp;
-*[:(fab fa-brands fa-linkedin-in fa-beat-fade fa-2xl):](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)*&nbsp;&nbsp;
-
----
-
-### 🔧 Tech Stack
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)  
-![Databricks](https://img.shields.io/badge/-Databricks-EF3D4D?logo=databricks&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)  
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apachejmeter&logoColor=white)  
+### 🚀 Flagship Project
+**QA Coach @ Deloitte (Intela platform)** – Leading QA activities for **BI & Data pipelines** across 15 Scrum teams. Key responsibilities:  
+- Testing microservice flows: Normal, Resync, Reconciliation, Orphaned flows  
+- Database development: tables, transformations, migrations  
+- ETL & Data Lake pipelines  
+- Power BI dashboards/reports  
+- Performance/load testing & automation  
+- Integration validation
 
 ---
 
-## 🏆 Career Timeline
-- **2024 – Present** → Senior QA Engineer @ NMFTA  
-- **2021 – 2024** → QA Coach / BI QA Architect @ Deloitte (Ciklum)  
-- **2020 – 2021** → QA Engineer @ Playson  
-- **2019** → QA Engineer @ Oracle  
-- **2017 – 2018** → Senior QA Engineer @ Global Logic & Meest Group  
-- **2015 – 2016** → Senior QA Engineer @ EPAM  
-- **2013 – 2015** → Intermediate QC Engineer @ SoftServe  
-- **2011 – 2013** → QA Engineer @ OSF Global Services  
+### 🔹 Other Top Projects
+- **Oracle** – ERP Cloud Services  
+- **Ryanair** – Mobile application QA  
+- **BMC** – Release Process Management  
+- **Playson** – Omnichannel casino games  
+- **Meest** – E-commerce & logistics platform  
+- **Namecheap** – Domain & hosting solutions  
 
 ---
 
-> *"Quality is not just about testing software, it's about enabling trust in business decisions."*  
-> — Ruslan Yakovenko
+### 🏥 Healthcare Experience
+Developing and testing healthcare software: patient monitoring, medical data management, self-service kiosks.  
+**Certified by Mednet**, ensuring regulatory compliance and safety standards.
 
 ---
 
-### 🎯 Interests
-- ⚽ Football & Cycling  
-- 🎵 Music & Playing Guitar  
-- 🌍 Traveling & Cooking  
-- 🖥️ Hi-Tech & PC Building
+### 💡 Core Expertise
+
+**Testing & QA:** Manual, Automation, Performance, Load, Stress, Integration, API, ETL validation  
+**Data & BI:** SQL, Oracle DB, PostgreSQL, MongoDB, Data Lake, Databricks, Power BI  
+**Automation Tools:** Selenium, Protractor, JMeter, Postman, SoapUI, ReadyAPI  
+**Cloud & DevOps:** Azure, Docker, Jenkins, CI/CD, GitHub, Azure DevOps  
+**Healthcare QA:** Certified by Mednet, experience in medical monitoring & compliance systems  
+
+I combine deep technical testing skills with data analytics expertise, enabling teams to deliver faster, smarter, and more reliable BI/Data solutions.
+
+---
+
+### 📫 Contact Me
+- [📧 yak_rusl@yahoo.com](mailto:yak_rusl@yahoo.com)  
+- [💼 LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)  
+- 📱 Viber: +380693836126
