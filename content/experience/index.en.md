@@ -11,7 +11,7 @@ math:
   enable: true
 ---
 
-## **NMFTA (National Motor Freight Traffic Association) May 2024 - March 2025** ##
+## **[NMFTA](https://www.nmfta.org/) May 2024 - March 2025** ##
 
 ### Performance and Automation QA Engineer ###
 
@@ -113,7 +113,7 @@ math:
 [:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
 [:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)  
 [:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)  
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)  
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org())  
 &nbsp;
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
@@ -124,11 +124,11 @@ math:
 - *Conducted manual and automation testing;*  
 - *Contributed as a member of a small QA team;* \
 \
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)  
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)  
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)  
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)  
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server())  
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com())  
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com())  
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server())  
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org())  
 &nbsp;
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
@@ -139,12 +139,12 @@ math:
 - *Conducted manual, automation, and performance testing;*  
 - *Provided DBA expertise, management, and performance optimization;* \
 \
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)  
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)  
-[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)  
-[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)  
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)  
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server())  
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com())  
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com())  
+[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com())  
+[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com())  
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server())  
 &nbsp;
 
 ## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
@@ -157,13 +157,13 @@ math:
 - *Member of the small and big QA teams;*  
 - *Team Lead role substitution;* \
 \
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)  
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)  
-[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)  
-[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)  
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)  
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)  
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server())  
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com())  
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com())  
+[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com())  
+[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com())  
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server())  
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org())  
 &nbsp;
 
 ## **[OSF Global Services](https://osf-global.com/) February 2012 – July 2013** ##
@@ -176,12 +176,12 @@ math:
 - *Conducted regression testing and reported defects in a timely manner;*  
 - *Contributed to improving the overall QA processes and automation efforts;* \
 \
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
-[:(fab fa-brands fa-jenkins  fa-2xl):](https://www.jenkins.io/)  
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com/)  
-[:(fab fa-brands fa-java  fa-2xl):](https://www.java.com/)  
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)  
-[:(fab fa-brands fa-selenium  fa-2xl):](https://www.selenium.dev/)  
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server())  
+[:(fab fa-brands fa-jenkins  fa-2xl):](https://www.jenkins.io())  
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com())  
+[:(fab fa-brands fa-java  fa-2xl):](https://www.java.com())  
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org())  
+[:(fab fa-brands fa-selenium  fa-2xl):](https://www.selenium.dev())  
 &nbsp;
 
 ## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
