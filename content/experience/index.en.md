@@ -1,5 +1,5 @@
 ---
-title: "Work Experience"
+title: "Ruslan Yakovenko - QA Engineer"
 date: 2025-09-25T22:17:40+08:00
 draft: false
 description: "Ruslan Yakovenko QA Engineer Resume"
