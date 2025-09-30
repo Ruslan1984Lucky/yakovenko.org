@@ -29,12 +29,12 @@ I specialize in **BI / Data Analytics / Performance Testing / Automation**, brid
 ---
 
 ### 🔹 Other Top Projects
-- **Oracle** – ERP Cloud Services  
-- **Ryanair** – Mobile application QA  
-- **BMC** – Release Process Management  
-- **Playson** – Omnichannel casino games  
-- **Meest** – E-commerce & logistics platform  
-- **Namecheap** – Domain & hosting solutions  
+- [**Oracle – ERP Cloud Services**](https://play.google.com/store/apps/details?id=com.oracle.ofsc)  
+- [**Ryanair – Mobile Application**](https://play.google.com/store/apps/details?id=com.ryanair.cheapflights)  
+- [**BMC – Release Process Management**](https://docs.bmc.com/docs/brpmsp7/home-1095677593.html)  
+- [**Playson – Omnichannel Casino Games**](https://playson.com/)  
+- [**Meest – E-commerce & Logistics Platform**](https://meest.shopping/kz)  
+- [**Namecheap – Domain & Hosting Solutions**](https://www.namecheap.com)  
 
 ---
 
