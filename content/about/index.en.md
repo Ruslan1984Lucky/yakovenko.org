@@ -51,13 +51,14 @@ Developing and testing healthcare software: patient monitoring, medical data man
 
 ---
 
-### 💡 Core Expertise
+### 💡 Expertise / Core Skills
 
-**Testing & QA:** Manual, Automation, Performance, Load, Stress, Integration, API, ETL validation
-**Data & BI:** SQL, Oracle DB, PostgreSQL, MongoDB, Data Lake, Databricks, Power BI
-**Automation Tools:** Selenium, Protractor, JMeter, Postman, SoapUI, ReadyAPI
-**Cloud & DevOps:** Azure, Docker, Jenkins, CI/CD, GitHub, Azure DevOps
-**Healthcare QA:** Certified by Mednet, experience in medical monitoring & compliance systems
+* **Testing & QA:** Manual, Automation, Load, Stress, Integration, API, ETL validation
+* **Performance Testing**
+* **Data & BI:** SQL, Oracle DB, PostgreSQL, MongoDB, Data Lake, Databricks, Power BI
+* **Automation Tools:** Selenium, Protractor, JMeter, Postman, SoapUI, ReadyAPI
+* **Cloud & DevOps:** Azure, Docker, Jenkins, CI/CD, GitHub, Azure DevOps
+* **Healthcare QA:** Certified by Mednet, experience in medical monitoring & compliance systems
 
 I combine deep technical testing skills with data analytics expertise, enabling teams to deliver faster, smarter, and more reliable BI/Data solutions.
 
@@ -67,4 +68,4 @@ I combine deep technical testing skills with data analytics expertise, enabling 
 
 * [📧 yak\_rusl@yahoo.com](mailto:yak_rusl@yahoo.com)
 * [💼 LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)
-* [📱 Viber](viber://chat?number=+380693836126)
+* [📱 Viber](viber://chat?number=%2B380633836126)
