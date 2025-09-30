@@ -84,7 +84,7 @@ I combine deep technical testing skills with data analytics expertise, enabling 
 ### 📫 Contact Me
 
 <div style="display:flex; gap:20px; align-items:center; font-size:3rem;">
-  <a href="mailto:yak_rusl@yahoo.com" style="font-size:2rem; color:#007bff; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><i class="fas fa-envelope"></i></a>
-  <a href="https://www.linkedin.com/in/ruslan-yakovenko-85a66674/" target="_blank" style="font-size:2rem; color:#0A66C2; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><i class="fab fa-linkedin"></i></a>
-  <a href="viber://chat?number=+380699896126" style="font-size:2rem; color:#665CAC; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><i class="fab fa-viber"></i></a>
+  <a href="mailto:yak_rusl@yahoo.com" style="font-size:2rem; color:#007bff; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><span>✉️</span></a>
+  <a href="https://www.linkedin.com/in/ruslan-yakovenko-85a66674/" target="_blank" style="font-size:2rem; color:#0A66C2; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><span>🔗</span></a>
+  <a href="viber://chat?number=+380699896126" style="font-size:2rem; color:#665CAC; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"><span>📱</span></a>
 </div>
