@@ -1,7 +1,7 @@
 ---
 
 title: "About Ruslan Yakovenko"
-date: 01.10.2025T12:00:00+07:00
+date: "2025-10-01T12:00:00+07:00"
 draft: false
 description: "QA Architect & Coach | BI / Data Analytics / Performance Testing | Bridging Business Insights & Software Quality"
 lightgallery: true
