@@ -1,23 +1,5 @@
 ## QA Architect & Coach | BI / Data / Performance / Automation
 
-твій 12+ років досвіду в QA
-
-акцент на BI / Data / Performance / Automation
-
-роль QA Architect / QA Coach
-
-Intela (Deloitte) як флагманський проект (BI / Tax Analytics)
-
-інші топові проекти (Oracle, Ryanair, BMC, Playson, Meest, Namecheap)
-
-Healthcare досвід + Mednet сертифікація (GlobalLogic, Edvantis, EPAM)
-
-робота з Cloud, Data Lake, Databricks, SQL, ETL, Automation, Performance
-
-Ось варіант:
-
-LinkedIn Summary (About)
-
 I am a Senior QA Engineer / BI QA Architect with more than 12 years of professional experience in software testing, performance engineering, and data-driven quality assurance. Over the course of my career, I have successfully contributed to 19 international projects for clients in the USA, Canada, Europe, and Australia, spanning industries such as fintech, tax & audit analytics, e-commerce, gaming, logistics, and healthcare.
 
 My latest role was as a QA Coach in the Data Analytics Team at Deloitte (Intela platform), where I worked across 15 Scrum teams, leading QA activities for BI & Data pipelines. My responsibilities included testing microservice flows (Normal flow, Resync, Reconciliation, Orphaned flows), database development (tables, transformations, migrations), ETL & Data Lake pipelines, Power BI dashboards/reports, performance/load testing, automation, and integration validation.
