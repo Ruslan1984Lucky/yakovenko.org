@@ -70,7 +70,7 @@ I specialize in **BI / Data Analytics / Performance Testing / Automation**, brid
 
 ---
 
-### 🏥 Healthcare Experience
+### 🏥 Healthcare Projects Development Experience
 
 Developing and testing healthcare software: patient monitoring, medical data management, self-service kiosks.  
 **Certified by Mednet**, ensuring regulatory compliance and safety standards.
