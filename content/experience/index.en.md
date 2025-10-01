@@ -1,155 +1,94 @@
 ---
 title: "Work Experience"
-date: 2025-10-01T00:00:00+08:00
+date: 2025-09-30T22:17:40+08:00
 draft: false
-description: "Professional Experience of Ruslan Yakovenko"
+description: "About Ruslan Yakovenko"
 images: ["/Apple-Devices-Preview.png"]
-
-lightgallery: true
-
-math:
-  enable: true
 ---
 
-## **[NMFTA](https://www.nmfta.org/) May 2024 - March 2025** ##
-<img src="/images/logos/nmfta.png" alt="NMFTA Logo" width="120"/>
+# Work Experience
 
-### Senior QA Engineer / Performance Test Analyst / Automation QA ###
-
-- Manual testing of SCAC application  
-- Performance testing of SCAC API with JMeter  
-- Automation testing with JavaScript Protractor  
-- Test planning, creation of test scenarios, and execution  
-- Coordination of production releases and deployments  
-- Knowledge sharing and mentoring junior QA engineers  
-- Collaboration with stakeholders to ensure project quality  
+## NMFTA (May 2024 - March 2025)
+![NMFTA Logo](/lib/images/logos/nmfta.png)  
+**Senior QA Engineer / Performance Test Analyst / Automation QA**
+- Manual testing of SCAC application
+- Performance testing with JMeter
+- Automation testing with JavaScript Protractor
+- Test planning, execution, mentoring juniors
 
 ---
 
-## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2024** ##
-<img src="/images/logos/ciklum.png" alt="Ciklum Logo" width="120"/>
-
-### BI QA Architect / QA Coach ###
-
-- Two BI projects  
-- Design and implementation for cloud infrastructure  
-- Data architecture, implementation and support  
-- Manual & Automation testing  
-- Standalone position in Data Engineers Analytics POD  
-- Power BI dashboards and integration testing  
+## Ciklum (May 2021 - July 2024)
+![Ciklum Logo](/lib/images/logos/ciklum.png)  
+**BI QA Architect / QA Coach**
+- BI projects, data architecture, Power BI dashboards
+- Cloud infrastructure testing
+- Automation and manual QA
 
 ---
 
-## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
-<img src="/images/logos/playson.png" alt="Playson Logo" width="120"/>
-
-### Senior QA Engineer ###
-
-- Manual & Automation testing  
-- Standalone QA position  
-- Server API testing  
-- Building test infrastructure  
-- Smoke, regression and exploratory testing  
-- Demo meetings and reporting  
+## Playson (September 2020 - May 2021)
+![Playson Logo](/lib/images/logos/playson.png)  
+**Senior QA Engineer**
+- Manual, automation, API testing
+- Regression, smoke, exploratory testing
 
 ---
 
-## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
-<img src="/images/logos/oracle.png" alt="Oracle Logo" width="120"/>
-
-### QA Engineer ###
-
-- Manual & Automation testing  
-- Cloud architecture implementation  
-- Data and application support  
-- Service Cloud instance configuration via REST API  
-- Regression and retesting of production releases  
-- Integration with other systems and databases  
+## Oracle (January 2019 - November 2019)
+![Oracle Logo](/lib/images/logos/oracle.png)  
+**QA Engineer**
+- Automation, regression, integration testing
+- Cloud architecture implementation
 
 ---
 
-## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
-<img src="/images/logos/meest.png" alt="Meest Logo" width="120"/>
-
-### Senior QA Engineer / Automation QA Engineer ###
-
-- Manual & Automation testing  
-- Integration testing  
-- Reporting and defect management  
-- Remote team collaboration  
-- Documentation and test case creation  
-- Standalone QA position  
+## Meest Group (April 2018 - December 2018)
+![Meest Logo](/lib/images/logos/meest.png)  
+**Senior QA Engineer**
+- Manual & automation testing
+- Test case creation and reporting
 
 ---
 
-## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
-<img src="/images/logos/globallogic.png" alt="GlobalLogic Logo" width="120"/>
-
-### Senior QA Engineer ###
-
-- Manual testing on Healthcare BI project  
-- Localization and translation support  
-- Documentation of test cases  
-- Regression and exploratory testing  
-- Collaboration with translation team  
-- Defect reporting  
+## GlobalLogic (April 2017 - December 2017)
+![GlobalLogic Logo](/lib/images/logos/globallogic.png)  
+**Senior QA Engineer**
+- Healthcare project with BI component
+- Regression and exploratory testing
 
 ---
 
-## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
-<img src="/images/logos/edvantis.png" alt="Edvantis Logo" width="120"/>
-
-### Senior QA Engineer ###
-
-- SQA certification for healthcare projects  
-- Manual & Automation testing  
-- Collaboration in small QA team  
-- Test documentation & regression testing  
-- Defect reporting  
+## Edvantis (May 2016 - December 2016)
+![Edvantis Logo](/lib/images/logos/edvantis.png)  
+**Senior QA Engineer**
+- Manual, automation, regression testing
+- Test documentation and defect reporting
 
 ---
 
-## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
-<img src="/images/logos/epam.png" alt="EPAM Logo" width="120"/>
-
-### Senior QA Engineer / Performance Test Engineer ###
-
-- Manual & Automation testing  
-- Performance testing  
-- DB management and optimization  
-- Infrastructure DevOps support  
-- Regression and functional testing  
-- Multiple projects QA coordination  
+## Epam (March 2015 - April 2016)
+![Epam Logo](/lib/images/logos/epam.png)  
+**Senior QA Engineer / Performance Test Engineer**
+- QA coordination across multiple projects
+- Automation and performance testing
 
 ---
 
-## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
-<img src="/images/logos/softserve.png" alt="SoftServe Logo" width="120"/>
-
-### Abiliton Intermediate QC Engineer ###
-
-- Manual & Automation testing  
-- BI, desktop and cross-platform projects  
-- Test documentation  
-- Team collaboration and leadership substitution  
-- Regression and functional testing  
-- Defect reporting  
-- Integration with external systems  
+## SoftServe (August 2013 - March 2015)
+![SoftServe Logo](/lib/images/logos/softserve.png)  
+**Intermediate QC Engineer**
+- BI, automation testing, team collaboration
+- Regression and functional testing
 
 ---
 
-## **[OSF Digital](https://osf.digital/) June 2011 - August 2013** ##
-<img src="/images/logos/osf.png" alt="OSF Digital Logo" width="120"/>
-
-### QA Engineer ###
-
-- Manual & Automation testing  
-- ETL and reporting development  
-- Database structure and stored procedures  
-- Integration with Salesforce and Facebook  
-- Standalone QA position  
-- Data import and dictionary development  
+## OSF Digital (June 2011 - August 2013)
+![OSF Logo](/lib/images/logos/osf.png)  
+**QA Engineer**
+- ETL, reporting, Salesforce integration
+- Database design and stored procedures
 
 ---
 
-## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
+For earlier experience visit [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)
