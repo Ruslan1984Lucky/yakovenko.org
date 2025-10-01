@@ -1,14 +1,3 @@
-title: "Work Experience"
-date: 2023-10-31T11:017:40+08:00
-draft: false
-description: "About LoveIt"
-images: ["/Apple-Devices-Preview.png"]
-
-lightgallery: true
-
-math:
-  enable: true
----
 
 ## **[NMFTA](https://www.nmfta.org/) May 2024 - March 2025** ##
 
