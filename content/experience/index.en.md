@@ -1,6 +1,6 @@
 ---
 title: "Work Experience"
-date: 2025-10-01T12:00:00+08:00
+date: 2025-09-25T22:17:40+08:00
 draft: false
 description: "About LoveIt"
 images: ["/Apple-Devices-Preview.png"]
@@ -14,8 +14,8 @@ math:
   display: flex;
   flex-wrap: nowrap;        /* horizontal always */
   gap: 0.5rem;              /* spacing between icons */
-  overflow-x: auto;          /* horizontal scroll on narrow screens */
-  font-size: 1rem;           /* smaller icons */
+  overflow-x: auto;         /* horizontal scroll on narrow screens */
+  font-size: 1rem;          /* smaller icons */
   margin-bottom: 1rem;
 }
 .icons-row a {
@@ -51,7 +51,7 @@ math:
   <a href="https://www.snowflake.com/en/"><i class="fas fa-snowflake fa-lg"></i></a>
   <a href="https://www.microsoft.com/en-us/sql-server/"><i class="fas fa-database fa-lg"></i></a>
   <a href="https://powerbi.microsoft.com/"><i class="fab fa-microsoft fa-lg"></i></a>
-  <a href="https://www.json.org/json-en.html"><i class="fas fa-file-code fa-lg"></i></a>
+  <a href="https://www.json.org/json-en.html/"><i class="fas fa-file-code fa-lg"></i></a>
   <a href="https://www.selenium.dev/"><i class="fas fa-vial fa-lg"></i></a>
 </div>
 
@@ -81,8 +81,7 @@ math:
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
 ### Senior Manual QA Engineer ###
-- *Manual Testing*  
-- *Automation Testing*  
+- *Manual and Automation Testing*  
 - *Standalone position*  
 
 <div class="icons-row">
@@ -102,13 +101,14 @@ math:
 <div class="icons-row">
   <a href="https://www.microsoft.com/en-us/sql-server/"><i class="fas fa-database fa-lg"></i></a>
   <a href="https://aws.amazon.com/"><i class="fab fa-aws fa-lg"></i></a>
-  <a href="https://www.microsoft.com/en-us/windows-server"><i class="fab fa-microsoft fa-lg"></i></a>
+  <a href="https://www.microsoft.com/en-us/windows-server/"><i class="fab fa-microsoft fa-lg"></i></a>
   <a href="https://www.linux.org/"><i class="fab fa-linux fa-lg"></i></a>
+  <a href="https://www.github.com/"><i class="fab fa-github fa-lg"></i></a>
 </div>
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
 ### Senior QA Engineer ###
-- *Manual Testing and Automation*  
+- *Manual and Automation Testing*  
 - *Healthcare projects certification*  
 
 <div class="icons-row">
@@ -122,7 +122,7 @@ math:
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
 ### Senior Manual QA Engineer ###
 - *Manual, Automation, Performance Testing*  
-- *DBA expertise, management and optimization*  
+- *DBA expertise, management, and optimization*  
 
 <div class="icons-row">
   <a href="https://www.microsoft.com/en-us/sql-server/"><i class="fas fa-database fa-lg"></i></a>
@@ -145,8 +145,8 @@ math:
   <a href="https://www.zadara.com/"><i class="fas fa-warehouse fa-lg"></i></a>
 </div>
 
-## **[OSF Digital](https://osf.digital/) June 2011 - August 2013** ##
-### QA Engineer ###
+## **[OSF Global Services](https://osf-global.com/) February 2012 – July 2013** ##
+### Senior QA Engineer ###
 - *Manual and Automation Testing*  
 - *BI project development, ETL, reporting*  
 
@@ -154,6 +154,8 @@ math:
   <a href="https://www.microsoft.com/en-us/sql-server/"><i class="fas fa-database fa-lg"></i></a>
   <a href="https://www.microsoft.com/en-us/windows-server/"><i class="fab fa-microsoft fa-lg"></i></a>
   <a href="https://www.linux.org/"><i class="fab fa-linux fa-lg"></i></a>
+  <a href="https://www.github.com/"><i class="fab fa-github fa-lg"></i></a>
+  <a href="https://aws.amazon.com/"><i class="fab fa-aws fa-lg"></i></a>
 </div>
 
 ## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
