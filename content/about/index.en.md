@@ -1,15 +1,3 @@
----
-
-title: "About Ruslan Yakovenko"
-date: "2025-10-01T12:00:00+07:00"
-draft: false
-description: "QA Architect & Coach | BI / Data Analytics / Performance Testing | Bridging Business Insights & Software Quality"
-lightgallery: true
-
-math:
-enable: true
-------------
-
 ## QA Architect & Coach | BI / Data / Performance / Automation
 
 I am a Senior QA Engineer / BI QA Architect with **12+ years of professional experience** in software testing, data quality, performance engineering, and automation. My focus is on **ensuring reliability, compliance, and high performance** in BI, Data, and Cloud-driven projects.
@@ -46,7 +34,7 @@ I specialize in **BI / Data Analytics / Performance Testing / Automation**, brid
 
 ### 🏥 Healthcare Experience
 
-Developing and testing healthcare software: patient monitoring, medical data management, self-service kiosks.
+Developing and testing healthcare software: patient monitoring, medical data management, self-service kiosks.  
 **Certified by Mednet**, ensuring regulatory compliance and safety standards.
 
 ---
