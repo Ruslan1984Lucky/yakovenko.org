@@ -10,17 +10,17 @@ I also bring specialized healthcare software experience, developing and testing 
 
 My expertise covers:
 
-Testing & QA: Manual, Automation, Performance, Load, Stress, Integration, API, ETL validation
+* Testing & QA: Manual, Automation, Performance, Load, Stress, Integration, API, ETL validation
 
-Data & BI: SQL, Oracle DB, PostgreSQL, MongoDB, Data Lake, Databricks, Power BI
+* Data & BI: SQL, Oracle DB, PostgreSQL, MongoDB, Data Lake, Databricks, Power BI
 
-Automation Tools: Selenium, Protractor, JMeter, Postman, SoapUI, ReadyAPI
+* Automation Tools: Selenium, Protractor, JMeter, Postman, SoapUI, ReadyAPI
 
-Cloud & DevOps: Azure, Docker, Jenkins, CI/CD, GitHub, Azure DevOps
+* Cloud & DevOps: Azure, Docker, Jenkins, CI/CD, GitHub, Azure DevOps
 
-Healthcare QA: Certified by Mednet, experience in medical monitoring & compliance systems
+* Healthcare QA: Certified by Mednet, experience in medical monitoring & compliance systems
 
-I combine deep technical testing skills with data analytics expertise, making me highly effective in BI, Data, and Cloud-driven projects. My focus is always on ensuring quality, reliability, performance, and compliance while enabling teams to deliver faster and smarter.
+* I combine deep technical testing skills with data analytics expertise, making me highly effective in BI, Data, and Cloud-driven projects. My focus is always on ensuring quality, reliability, performance, and compliance while enabling teams to deliver faster and smarter.
 
 I specialize in **BI / Data Analytics / Performance Testing / Automation**, bridging business insights with software quality.
 
