@@ -1,8 +1,8 @@
 ---
 title: "Work Experience"
-date: 2025-10-01T00:00:00+08:00
+date: 2023-09-02T11:04:49+08:00
 draft: false
-description: "Professional Experience of Ruslan Yakovenko"
+description: "About LoveIt"
 images: ["/Apple-Devices-Preview.png"]
 
 lightgallery: true
@@ -11,145 +11,143 @@ math:
   enable: true
 ---
 
-## **[NMFTA](https://www.nmfta.org/) May 2024 - March 2025** ##
-<img src="/images/logos/nmfta.png" alt="NMFTA Logo" width="120"/>
+<style>
+.company-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+.company-logos img {
+  height: 60px;
+}
+</style>
 
-### Senior QA Engineer / Performance Test Analyst / Automation QA ###
 
-- Manual testing of SCAC application  
-- Performance testing of SCAC API with JMeter  
-- Automation testing with JavaScript Protractor  
-- Test planning, creation of test scenarios, and execution  
-- Coordination of production releases and deployments  
-- Knowledge sharing and mentoring junior QA engineers  
-- Collaboration with stakeholders to ensure project quality  
+## **[Ciklum](https://www.ciklum.com/)** May 2021 - July 2023 ##
 
----
+### Senior Manual QA Engineer ###
 
-## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2024** ##
-<img src="/images/logos/ciklum.png" alt="Ciklum Logo" width="120"/>
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support*  
 
-### BI QA Architect / QA Coach ###
+<div class="company-logos">
+  <img src="/lib/images/logos/ciklum.png" alt="Ciklum Logo">
+</div>
 
-- Two BI projects  
-- Design and implementation for cloud infrastructure  
-- Data architecture, implementation and support  
-- Manual & Automation testing  
-- Standalone position in Data Engineers Analytics POD  
-- Power BI dashboards and integration testing  
+&nbsp;
 
----
+## **[Playson](https://playson.com/#)** September 2020 - May 2021 ##
 
-## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
-<img src="/images/logos/playson.png" alt="Playson Logo" width="120"/>
+### Senior Manual QA Engineer ###
 
-### Senior QA Engineer ###
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support*  
 
-- Manual & Automation testing  
-- Standalone QA position  
-- Server API testing  
-- Building test infrastructure  
-- Smoke, regression and exploratory testing  
-- Demo meetings and reporting  
+<div class="company-logos">
+  <img src="/lib/images/logos/playson.png" alt="Playson Logo">
+</div>
 
----
+&nbsp;
 
-## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
-<img src="/images/logos/oracle.png" alt="Oracle Logo" width="120"/>
+## **[Oracle Corporation](https://www.oracle.com/)** January 2019 - November 2019 ##
 
-### QA Engineer ###
+### Senior Manual QA Engineer ###
 
-- Manual & Automation testing  
-- Cloud architecture implementation  
-- Data and application support  
-- Service Cloud instance configuration via REST API  
-- Regression and retesting of production releases  
-- Integration with other systems and databases  
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support*  
 
----
+<div class="company-logos">
+  <img src="/lib/images/logos/oracle.png" alt="Oracle Logo">
+</div>
 
-## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
-<img src="/images/logos/meest.png" alt="Meest Logo" width="120"/>
+&nbsp;
 
-### Senior QA Engineer / Automation QA Engineer ###
+## **[Meest Group](https://ua.meest.com/)** April 2018 - December 2018 ##
 
-- Manual & Automation testing  
-- Integration testing  
-- Reporting and defect management  
-- Remote team collaboration  
-- Documentation and test case creation  
-- Standalone QA position  
+### Senior Manual QA Engineer ###
 
----
+- *Design and implementation for Cloud infrastructure*
+- *Data architecture, implementation and support*  
 
-## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
-<img src="/images/logos/globallogic.png" alt="GlobalLogic Logo" width="120"/>
+<div class="company-logos">
+  <img src="/lib/images/logos/meest.png" alt="Meest Logo">
+</div>
 
-### Senior QA Engineer ###
+&nbsp;
 
-- Manual testing on Healthcare BI project  
-- Localization and translation support  
-- Documentation of test cases  
-- Regression and exploratory testing  
-- Collaboration with translation team  
-- Defect reporting  
+## **[Global Logic](https://www.globallogic.com/ua/)** April 2017 - December 2017 ##
 
----
+### Cloud Architecture Consultant / Site Reliability Engineer - Fintech ###
 
-## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
-<img src="/images/logos/edvantis.png" alt="Edvantis Logo" width="120"/>
+- *Architecture and building Cloud application from scratch*
+- *Data and application architecture and implementation*
+- *Infrastructure and data engineering as a DBA, DevOps, SysOps*  
 
-### Senior QA Engineer ###
+<div class="company-logos">
+  <img src="/lib/images/logos/globallogic.png" alt="GlobalLogic Logo">
+</div>
 
-- SQA certification for healthcare projects  
-- Manual & Automation testing  
-- Collaboration in small QA team  
-- Test documentation & regression testing  
-- Defect reporting  
+&nbsp;
 
----
+## **[Edvantis](https://www.edvantis.com/)** May 2016 - December 2016 ##
 
-## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
-<img src="/images/logos/epam.png" alt="EPAM Logo" width="120"/>
+### DBA and Cloud Consultant - Technology ###
 
-### Senior QA Engineer / Performance Test Engineer ###
+- *Architecture and cost optimization for Cloud Infrastructure*
+- *Data architecture and planning for future changes*
+- *Infrastructure and data engineering as a DBA, DevOps, SysOps*  
 
-- Manual & Automation testing  
-- Performance testing  
-- DB management and optimization  
-- Infrastructure DevOps support  
-- Regression and functional testing  
-- Multiple projects QA coordination  
+<div class="company-logos">
+  <img src="/lib/images/logos/edvantis.png" alt="Edvantis Logo">
+</div>
 
----
+&nbsp;
 
-## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
-<img src="/images/logos/softserve.png" alt="SoftServe Logo" width="120"/>
+## **[Epam Systems](https://www.epam.com/)** March 2015 - April 2016 ##
+
+### Senior Manual QA Engineer ###
+
+- *Cloud architecture, automation/scalability*
+- *DBA expertise, management and performance optimization*
+- *Infrastructure DevOps, SysOps*  
+
+<div class="company-logos">
+  <img src="/lib/images/logos/epam.png" alt="Epam Logo">
+</div>
+
+&nbsp;
+
+## **[Softserve Inc.](https://www.softserveinc.com/en-us)** August 2013 - March 2015 ##
 
 ### Abiliton Intermediate QC Engineer ###
 
-- Manual & Automation testing  
-- BI, desktop and cross-platform projects  
-- Test documentation  
-- Team collaboration and leadership substitution  
-- Regression and functional testing  
-- Defect reporting  
-- Integration with external systems  
+- *Participated in the development of 3 software projects*
+- *Manual and Automation testing*
+- *Member of small and large QA teams*
+- *Team Lead role substitution*  
 
----
+<div class="company-logos">
+  <img src="/lib/images/logos/softserve.png" alt="SoftServe Logo">
+</div>
 
-## **[OSF Digital](https://osf.digital/) June 2011 - August 2013** ##
-<img src="/images/logos/osf.png" alt="OSF Digital Logo" width="120"/>
+&nbsp;
+
+## **[OSF Digital](https://osf.digital/)** June 2011 - August 2013 ##
 
 ### QA Engineer ###
 
-- Manual & Automation testing  
-- ETL and reporting development  
-- Database structure and stored procedures  
-- Integration with Salesforce and Facebook  
-- Standalone QA position  
-- Data import and dictionary development  
+- *Single long-term BI project*
+- *Manual and automation testing*
+- *ETL DB structure development and improvement*
+- *Reporting features and data dictionary development*
+- *Standalone QA position in a team of 6*  
 
----
+<div class="company-logos">
+  <img src="/lib/images/logos/osf.png" alt="OSF Logo">
+</div>
 
-## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
+&nbsp;
+
+## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)** ##
