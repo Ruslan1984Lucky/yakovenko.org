@@ -1,9 +1,9 @@
 ---
-title: "Work Experience"
-date: 2023-10-31T11:17:40+08:00
+title: "Curriculum Vitae"
+date: 2025-10-02T12:00:00+03:00
 draft: false
-description: "About Ruslan Yakovenko"
-images: ["/Apple-Devices-Preview.png"]
+description: "Ruslan Yakovenko – Senior QA Engineer | Performance & Automation Testing Expert"
+images: ["/profile-photo.png"]
 
 lightgallery: true
 
@@ -11,160 +11,97 @@ math:
   enable: true
 ---
 
-## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
+## **Ruslan Yakovenko**  
 
-### Senior Manual QA Engineer
+**Address:** 61 Tarnavskoho ST, APT 7, Lviv 79017, UKRAINE  
+**Telephone:** +380934589080  
+**Website:** [ruslan.yakovenko.org](http://ruslan.yakovenko.org/)  
+**E-mail:** yak_rusl@yahoo.com  
+**Viber:** +380934589080  
+**Date of Birth:** 3 December 1984  
+**Citizenship:** Ukrainian  
+**Marital Status:** Single  
 
-- *Contributed to two BI projects, performing end-to-end testing and data validation;*
-- *Designed and implemented Cloud infrastructure testing processes;*
-- *Performed data architecture analysis, ETL validation, and support;*
-- *Manual Testing: complex dashboards, reports, and BI logic;*
-- *Automation Testing: Selenium, Protractor (JavaScript);*
-- *Standalone QA position in a small POD team, mentoring junior members;* \
-\
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+---
 
-&nbsp;
+## **Summary**  
 
-## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
+Software QA professional with over 12 years of experience in manual, automation, and performance testing across web, desktop, and mobile applications. Expertise includes SDLC, test planning, requirements analysis, defect management, performance testing, and QA team coordination. Experienced in working as standalone QA, in large teams, and remotely with minimal supervision. Strong technical skills in SQL, API testing, Java, Ruby, Selenium, Watir, JMeter, and cloud technologies.  
 
-### Senior Manual QA Engineer
+---
 
-- *Manual testing of casino games, backend APIs, and game logic;*
-- *Automation testing using Selenium and Protractor (JavaScript);*
-- *Managed QA independently as a standalone position;* \
-\
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+## **Skills**  
 
-&nbsp;
+- Software Development Life Cycle (SDLC) & QA methodologies  
+- Functional & technical specification analysis  
+- Test planning, estimation, and coverage  
+- Manual, automation, and performance testing  
+- API testing, Web UI automation (Selenium, Watir, Protractor)  
+- SQL queries, XML, JSON, HTML, basic OOP knowledge  
+- UML diagrams, Load/Stress testing  
+- Basic web design understanding  
 
-## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
+---
 
-### Senior Manual QA Engineer
+## **Certifications**  
 
-- *Manual and automation testing of Cloud ERP solutions (OFSC);*
-- *Cloud architecture implementation, automation, and scalability testing;*
-- *Data and application architecture design, implementation, and support;*
-- *Built Cloud applications from scratch;* \
-\
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+- **Aug 2016** – QA.QAP.08 SQA Testing Initial  
+- **Jun 2015** – EPAM Employee Recognition Program – Performance Test Engineer  
+- **Apr 2011** – SoftServe IT Academy, Automated QC  
 
-&nbsp;
+---
 
-## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
+## **Professional Experience**  
 
-### Senior Manual QA Engineer
+### NMFTA | Senior QA Engineer / Performance Test Analyst / Automation QA  
+**May 2024 – March 2025**  
+- Manual and automation testing of SCAC application  
+- Developed performance test strategy, executed JMeter tests  
+- Automation scripts with Protractor  
+- Led 4 production releases  
+- Knowledge sharing with junior QA team  
+**Tools & Technologies:** Postman, Swagger, Protractor, JMeter, Jira, Azure DevOps, Visual Studio Code, Javascript, Azure Storage Explorer, MongoDB, MS SQL  
+**Team Size:** 23 engineers  
 
-- *Manual and automation testing of logistics platform;*
-- *Standalone QA role ensuring quality across web and internal applications;* \
-\
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+### Ciklum | BI QA Architect / QA Coach  
+**May 2021 – July 2024**  
+- Standalone QA in Data Engineers Analytics POD  
+- Manual and DB testing (Power BI, stored procedures)  
+- Created test scenarios, checklists, reports, integration testing  
+- Regression and exploratory testing  
+**Tools & Technologies:** Selenium, Azure DevOps, MongoDB, MS SQL, Postman, Swagger  
+**Team Size:** 45 engineers  
 
-&nbsp;
+### Playson Limited | Senior QA Engineer  
+**Sep 2020 – May 2021**  
+- Standalone QA role for Omni-Channel Casino Games  
+- Server API testing, test infrastructure setup  
+- Test planning, execution, defect management  
+**Tools & Technologies:** Testlink, Postman, Jira, DB Viewer, CMD, Git, Java, Selenium WebDriver, iOS, Xcode, Android, Windows, Linux  
+**Team Size:** 6 engineers  
 
-## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
+### Oracle Corporation | QA Engineer  
+**Jan 2019 – Nov 2019**  
+- Cloud Service ERP QA  
+- Service cloud instance setup, Docker, Linux terminal operations  
+- Regression & functional testing  
+**Tools & Technologies:** Docker, Postman, Jira, Oracle DB, Android, iOS, Xcode, Windows, Linux  
+**Team Size:** 40 engineers  
 
-### Senior Manual QA Engineer
+*(Інші досвіди можна додати аналогічно: Meest Group, Global Logic, Edvantis, EPAM, Softserve, OSF Global Service)*  
 
-- *Manual testing for Healthcare project with BI components;*
-- *Localization testing and preparation of translation tables in cooperation with Translation Team;* \
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+---
 
-&nbsp;
+## **Education**  
 
-## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
+**Ivan Franko National University, Lviv, Ukraine**  
+*M.Sc. in International Relations* (Sep 2002 – Jul 2007)  
+**Thesis:** International Online Trading: Current State and Development Prospects  
 
-### Senior QA Engineer
+---
 
-- *Certified in SQA for healthcare projects;*
-- *Manual and automation testing;*
-- *Member of a small QA team;* \
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+## **Interests**  
 
-&nbsp;
+Computer assembling, Hi-Tech, reading, sport (football, cycling, table tennis, swimming), music, traveling, cooking  
 
-## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
-
-### Senior Manual QA Engineer
-
-- *Manual, automation, and performance testing across 4 projects;*
-- *DBA expertise: database management and performance optimization;*
-- *Infrastructure DevOps/SysOps support;* \
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
-[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-
-&nbsp;
-
-## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
-
-### Abiliton Intermediate QC Engineer
-
-- *Participated in 3 projects: BI, desktop, and cross-platform release lifecycle management tool;*
-- *Manual and automation testing;*
-- *Member of small and large QA teams;*
-- *Occasionally substituted as Team Lead;* \
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
-[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
-
-&nbsp;
-
-## **[OSF Digital](https://osf.digital/) June 2011 - August 2013** ##
-
-### QA Engineer
-
-- *Single long-term BI project;*
-- *Manual and automation testing;*
-- *DB development, ETL tables, stored procedures, data sync, and reporting logic;*
-- *Integration with Salesforce and Facebook;*
-- *Standalone QA position in a team of 6;* \
-\
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
-
-&nbsp;
-
-## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
+---
