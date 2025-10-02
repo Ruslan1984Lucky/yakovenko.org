@@ -1,198 +1,183 @@
-# Ruslan Yakovenko
+---
+title: "Work Experience"
+date: 2025-09-25T22:17:40+08:00
+draft: false
+description: "About LoveIt"
+images: ["/Apple-Devices-Preview.png"]
 
-📍 **Address:** 61 Tarnavskoho ST, APT 7, Lviv 79017, Ukraine  
-📞 **Telephone:** +380934589080  
-🌐 **Website:** [ruslan.yakovenko.org](http://ruslan.yakovenko.org/)  
-✉️ **E-mail:** [yak_rusl@yahoo.com](mailto:yak_rusl@yahoo.com)  
-💬 **Viber:** +380934589080  
-🎂 **Date of Birth:** 3 December 1984  
-🌏 **Citizenship:** Ukrainian  
-❤️ **Marital Status:** Single  
+lightgallery: true
 
+math:
+  enable: true
 ---
 
-## **Summary**
-I have 6+ years of experience as a software tester, contributing to 11+ medium-to-large projects for clients in the USA, Canada, Australia, and Germany. My work spans **web, desktop, and mobile applications**, including CMS, BI, CRM, ERP, DMS, and E-Commerce systems.  
+## **NMFTA (National Motor Freight Traffic Association) May 2024 - Present** ##
 
-Key responsibilities:  
-- Requirements analysis, planning, and test case design  
-- Test execution, defect investigation, and reporting  
-- Manual, automation, and performance testing  
-- QA coordination, mentoring, and knowledge sharing  
+### Performance and Automation QA Engineer ###
 
----
+- *Performing automation and load/performance testing;*  
+- *Writing automation tests on Protractor JavaScript;*  
+- *Delivered API services to enhance project functionality;*  
+- *Playing a key role in the SCAC (Standard Carrier Alpha Code) project;*  
+- *Contributing as a general QA Engineer while ensuring quality and timely delivery of tasks;* \
+\
+[:(fab fa-brands fa-protractor  fa-2xl):](https://www.protractortest.org/) 
+[:(fab fa-brands fa-jmeter  fa-2xl):](https://jmeter.apache.org/)
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
+[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com/)
+&nbsp;
 
-## **Skills**
-- **Testing & QA:** SDLC, SQA methodologies, functional & technical specification analysis, regression, exploratory, integration, load/stress testing  
-- **Automation & Tools:** Selenium, Watir, JMeter, Postman, Protractor, ReadyAPI  
-- **Databases:** MS SQL Server, PostgreSQL, Oracle SQL Developer, MySQL  
-- **Programming:** Java, Ruby, basic OOP, scripting  
-- **Web & Other:** HTML, XML, JSON, UML diagrams, Web UI, basic web design  
+## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
 
----
+### Senior Manual QA Engineer ###
 
-## **Certifications**
-- **QA.QAP.08 SQA Testing Initial** – Aug 2016  
-- **EPAM Employee Recognition Program – Performance Test Engineer** – June 2015  
-- **SoftServe IT Academy – Automated QC** – Apr 2011  
+- *Worked on two Business Intelligence (BI) projects;*  
+- *Designed and implemented Cloud infrastructure;*  
+- *Developed and supported data architecture;*  
+- *Conducted manual and automation testing;*  
+- *Writing automation tests on Protractor JavaScript;*  
+- *Played a standalone role in a small QA team within a separate POD;* \
+\
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
+[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+&nbsp;
 
----
+## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
 
-## **Professional Experience**
+### Senior Manual QA Engineer ###
 
-### **NMFTA | Senior QA Engineer / Performance Test Analyst / Automation QA**  
-📅 May 2024 – Mar 2025  
-🌐 [NMFTA](https://www.nmfta.org/) – SCAC Application  
-**Tools:** ![Postman](https://img.icons8.com/color/48/000000/postman.png) [Postman](https://www.postman.com/) • ![JMeter](https://img.icons8.com/color/48/000000/jmeter.png) [JMeter](https://jmeter.apache.org/) • ![Protractor](https://img.icons8.com/ios-filled/50/000000/javascript.png) [Protractor](https://www.protractortest.org/) • Jira • Azure DevOps • VS Code  
+- *Conducted manual and automation testing;*  
+- *Writing automation tests on Protractor JavaScript;*  
+- *Held a standalone QA position, contributing independently to project success;* \
+\
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/)
+&nbsp;
 
-**Key Achievements:**  
-- Developed performance test strategy & scripts for SCAC API  
-- Automation testing using Protractor  
-- Coordinated four production releases  
-- Mentored junior QA engineers  
+## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
 
-**Team:** 23 engineers | **Client:** UK, International Corporation  
+### Senior Manual QA Engineer ###
 
----
+- *Conducted manual and automation testing;*  
+- *Designed and implemented Cloud infrastructure;*  
+- *Built and supported cloud applications from scratch;*  
+- *Developed and optimized data and application architecture;* \
+\
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
+[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+&nbsp;
 
-### **Ciklum | QA / BI Specialist**  
-📅 May 2021 – Jul 2024  
-🌐 [Ciklum](https://www.ciklum.com/) – Deloitte & Intela Projects  
-**Tools:** ![Selenium](https://img.icons8.com/color/48/000000/selenium.png) [Selenium](https://www.selenium.dev/) • Postman • Swagger • Azure DevOps  
+## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
 
-**Key Achievements:**  
-- Developed Power BI dashboards & DB testing  
-- Manual, regression, and integration testing  
-- Test planning, documentation, and execution  
-- Mentoring and QA coaching  
+### Senior Manual QA Engineer ###
 
-**Team:** 45 engineers | **Client:** USA, International Corporation  
+- *Conducted manual and automation testing;*  
+- *Held a standalone QA position, contributing independently to project success;* \
+\
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
+[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+&nbsp;
 
----
+## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
 
-### **Playson Limited | Senior QA Engineer**  
-📅 Sep 2020 – May 2021  
-🌐 [Playson](https://playson.com/) – Omni-Channel Casino Games  
-**Tools:** Selenium • Java • Testlink • Jira • Git • iOS/Android/Xcode  
+### Senior Manual QA Engineer ###
 
-**Key Achievements:**  
-- QA process setup for new casino games  
-- Test infrastructure & automation testing  
-- Weekly demos & reporting  
-- Standalone Key Tester  
+- *Conducted manual testing for a healthcare project with BI components;*  
+- *Performed localization testing and prepared translation tables in collaboration with the translation team;* \
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server/)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+&nbsp;
 
-**Team:** 6 engineers | **Client:** Malta  
+## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
 
----
+### Senior QA Engineer ###
 
-### **Oracle Corporation | QA Engineer**  
-📅 Jan 2019 – Nov 2019  
-🌐 [Oracle](https://www.oracle.com/) – Oracle Field Service Cloud (ERP)  
-**Tools:** Docker • Postman • Jira • Oracle DB • Android/iOS/Windows/Linux  
+- *Passed SQA certification training for healthcare projects;*  
+- *Conducted manual and automation testing;*  
+- *Contributed as a member of a small QA team;* \
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server/)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+&nbsp;
 
-**Key Achievements:**  
-- REST API & cloud service testing  
-- CI testing, regression, and bug reproduction  
-- Environment setup & remote configuration  
+## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
 
-**Team:** 40 engineers | **Client:** USA  
+### Senior Manual QA Engineer ###
 
----
+- *Participated in the development of 4 software projects;*  
+- *Conducted manual, automation, and performance testing;*  
+- *Provided DBA expertise, management, and performance optimization;* \
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
+[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+&nbsp;
 
-### **Meest Group | Senior QA / Automation QA Engineer**  
-📅 Apr 2018 – Dec 2018  
-🌐 [Meest](https://meest-group.com/) – Meest Express Web Portal  
-**Tools:** Selenium • Java • HTML • MS Office • IDEA  
+## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
 
-**Key Achievements:**  
-- Remote QA integration into Polish development team  
-- Manual & automation testing  
-- Exploratory, functional, smoke, regression testing  
+### Abiliton Intermediate QC Engineer ###
 
-**Team:** 10 engineers | **Client:** Canada  
+- *Participated in the development process of 3 software projects: BI, desktop, and cross-platform release life cycle management tools;*  
+- *Manual Testing;*  
+- *Automation testing;*  
+- *Member of the small and big QA teams;*  
+- *Team Lead role substitution;* \
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
+[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+&nbsp;
 
----
+## **[OSF Global Services](https://osf-global.com/) February 2012 – July 2013** ##
 
-### **Global Logic | Senior QA Engineer**  
-📅 Apr 2017 – Dec 2017  
-🌐 [GlobalLogic](https://www.globallogic.com/) – Insulin Infusion Pump Monitoring System  
-**Tools:** SoapUI • Ready API • Jira • DOORs • Oracle SQL • Confluence  
+### Senior QA Engineer ###
 
-**Key Achievements:**  
-- Localization & internationalization testing  
-- Test documentation & execution  
-- QA coaching & mentoring  
+- *Participated in manual testing for e-commerce solutions and custom applications;*  
+- *Assisted in developing test plans, test cases, and execution based on project requirements;*  
+- *Worked closely with development teams to ensure high-quality releases;*  
+- *Conducted regression testing and reported defects in a timely manner;*  
+- *Contributed to improving the overall QA processes and automation efforts;* \
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-jenkins  fa-2xl):](https://www.jenkins.io/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-java  fa-2xl):](https://www.java.com/)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+[:(fab fa-brands fa-selenium  fa-2xl):](https://www.selenium.dev/)
+&nbsp;
 
-**Team:** 25 engineers | **Client:** USA  
-
----
-
-### **Edvantis | Senior QA Engineer**  
-📅 May 2016 – Dec 2016  
-🌐 [Edvantis](https://edvantis.com/) – Medical Image Transmission System  
-**Tools:** Jira • MS Office • Testlink • PostgreSQL • Adobe Acrobat  
-
-**Key Achievements:**  
-- Functional & exploratory testing  
-- Test planning, execution & reporting  
-
-**Team:** 7 engineers | **Client:** USA  
-
----
-
-### **EPAM Systems | Senior QA / Performance Test Engineer**  
-📅 Mar 2015 – Apr 2016  
-🌐 [EPAM Systems](https://www.epam.com/) – Various projects (RainAir, Canadian Tire, Mark’s Work Wearhouse)  
-**Tools:** Jira • MS SQL • MySQL • Tomcat • Adobe CQ5 • Confluence • Jenkins  
-
-**Key Achievements:**  
-- Manual, performance & regression testing  
-- Test documentation, execution & defect tracking  
-- QA Lead substitution & mentoring  
-
-**Team:** 11–20 engineers | **Clients:** Europe, Canada, Germany  
-
----
-
-### **SoftServe Inc. | Abiliton Intermediate QC Engineer**  
-📅 Aug 2013 – Mar 2015  
-🌐 [SoftServe](https://www.softserveinc.com/) – NetDocuments, Product Recommendation Tool, BMC Release Tool  
-**Tools:** C++ • Adobe SDK • Test Track Pro • Jira • MS SQL Server  
-
-**Key Achievements:**  
-- Manual testing, planning, execution  
-- Test case creation & maintenance  
-- QA mentoring  
-
-**Team:** 8–20 engineers | **Clients:** Australia, International  
-
----
-
-### **OSF Global Service | QA Engineer**  
-📅 Jun 2011 – Aug 2013  
-🌐 [OSF Global](https://www.osf-global.com/) – CRM Application (U.S. Educational Sector)  
-**Tools:** C# • MS SQL • HTML • Jira  
-
-**Key Achievements:**  
-- Test planning, execution & defect reporting  
-- Selenium automation tests  
-- Collaboration with dev team  
-
-**Team:** 7 engineers | **Client:** USA  
-
----
-
-## **Education**
-**Ivan Franko National University, Lviv, Ukraine**  
-M.Sc. in International Relations, 2002–2007  
-**Thesis:** International Online Trading: Current State and Development Prospects  
-
----
-
-## **Interests**
-💻 Computer assembling & Hi-Tech  
-📚 Reading  
-⚽ Sports: football, cycling, table tennis, swimming  
-🎵 Music  
-✈️ Traveling  
-🍳 Cooking
+## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
