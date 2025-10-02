@@ -1,9 +1,9 @@
 ---
 title: "Work Experience"
-date: 2025-09-25T22:17:40+08:00
+date: 2025-10-02T11:17:40+08:00
 draft: false
-description: "About LoveIt"
-images: ["/Apple-Devices-Preview.png"]
+description: "Ruslan Yakovenko - Senior QA & BI Engineer"
+images: ["/QA-Portfolio-Preview.png"]
 
 lightgallery: true
 
@@ -11,193 +11,154 @@ math:
   enable: true
 ---
 
-## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/) May 2024 - Present** ##
+## **[NMFTA](https://www.nmfta.org/) May 2024 - March 2025** ##
 
-### Performance and Automation QA Engineer ###
+### Senior QA Engineer / Performance Test Analyst / Automation QA ###
 
-- *Performing automation and load/performance testing*  
-- *Writing automation tests on Protractor (JavaScript)*  
-- *Delivered API services to enhance project functionality*  
-- *Playing a key role in the SCAC (Standard Carrier Alpha Code) project*  
-- *Contributing as a general QA Engineer ensuring quality and timely delivery*  
+- *Manual Testing, Test Case Design, Execution, and Reporting;*  
+- *Performance Testing (JMeter) for SCAC API Web Service;*  
+- *Automation Testing using JavaScript Protractor;*  
+- *Key contributor in 4 production releases and SCAC API delivery from scratch;*  
+- *Knowledge-sharing and mentoring junior QA engineers;*  
+- *Close collaboration with stakeholders to ensure smooth project execution.*  
+\
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
 
-[:(fab fa-brands fa-protractor fa-2xl bg-blue-100 p-2 rounded):](https://www.protractortest.org/) 
-[:(fab fa-brands fa-jmeter fa-2xl bg-red-100 p-2 rounded):](https://jmeter.apache.org/)
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl bg-sky-200 p-2 rounded):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry fa-2xl bg-orange-200 p-2 rounded):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group fa-2xl bg-purple-200 p-2 rounded):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-2xl bg-yellow-200 p-2 rounded):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github fa-2xl bg-black text-white p-2 rounded):](https://www.github.com)
 &nbsp;
 
----
+## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2024** ##
 
-## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
+### BI QA Architect / QA Coach ###
 
-### Senior Manual QA Engineer ###
+- *Standalone QA position in Data Engineers Analytics POD;*  
+- *Manual & Automation Testing;*  
+- *Database testing, Power BI dashboards, and data flow validation;*  
+- *Integration tests review and quality audits;*  
+- *Coaching QA team, test coverage improvements, and process optimization.*  
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
 
-- *Worked on two Business Intelligence (BI) projects*  
-- *Designed and implemented Cloud infrastructure*  
-- *Developed and supported data architecture*  
-- *Conducted manual and automation testing*  
-- *Writing automation tests on Protractor (JavaScript)*  
-- *Standalone role in a small QA team within a separate POD*  
-
-[:(fab fa-solid fa-snowflake fa-2xl bg-blue-100 p-2 rounded):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl bg-sky-200 p-2 rounded):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry fa-2xl bg-orange-200 p-2 rounded):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group fa-2xl bg-purple-200 p-2 rounded):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-2xl bg-yellow-200 p-2 rounded):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github fa-2xl bg-black text-white p-2 rounded):](https://www.github.com)
-[:(fab fa-brands fa-microsoft fa-2xl bg-gray-400 p-2 rounded):](https://www.microsoft.com/en-us/windows-server)
 &nbsp;
-
----
 
 ## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
 
-### Senior Manual QA Engineer ###
+### Senior QA Engineer ###
 
-- *Conducted manual and automation testing*  
-- *Writing automation tests on Protractor (JavaScript)*  
-- *Held a standalone QA position*  
+- *Manual & Automation Testing for Omni-Channel Casino Games;*  
+- *Standalone key tester responsible for entire QA lifecycle;*  
+- *Collaboration across development and design teams to ensure product quality.*  
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
 
-[:(fab fa-solid fa-snowflake fa-2xl bg-blue-100 p-2 rounded):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
 &nbsp;
-
----
 
 ## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
 
-### Senior Manual QA Engineer ###
+### QA Engineer ###
 
-- *Conducted manual and automation testing*  
-- *Designed and implemented Cloud infrastructure*  
-- *Built and supported cloud applications from scratch*  
-- *Developed and optimized data and application architecture*  
+- *Manual & Automation Testing;*  
+- *Cloud Service ERP Solution implementation and testing;*  
+- *CI/CD integration, Docker deployments, and environment configuration;*  
+- *Data integrity and database testing across cloud services.*  
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
 
-[:(fab fa-solid fa-snowflake fa-2xl bg-blue-100 p-2 rounded):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl bg-sky-200 p-2 rounded):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry fa-2xl bg-orange-200 p-2 rounded):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group fa-2xl bg-purple-200 p-2 rounded):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-2xl bg-yellow-200 p-2 rounded):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github fa-2xl bg-black text-white p-2 rounded):](https://www.github.com)
-[:(fab fa-brands fa-microsoft fa-2xl bg-gray-400 p-2 rounded):](https://www.microsoft.com/en-us/windows-server)
 &nbsp;
-
----
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
 
-### Senior Manual QA Engineer ###
+### Senior QA Engineer / Automation QA Engineer ###
 
-- *Conducted manual and automation testing*  
-- *Standalone QA role*  
+- *Manual & Automation Testing for International Delivery Platform;*  
+- *Standalone QA responsibility in remote team;*  
+- *Setting up QA processes and validating web application functionality.*  
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
 
-[:(fab fa-solid fa-snowflake fa-2xl bg-blue-100 p-2 rounded):](https://www.snowflake.com/en/) 
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl bg-sky-200 p-2 rounded):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry fa-2xl bg-orange-200 p-2 rounded):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group fa-2xl bg-purple-200 p-2 rounded):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-2xl bg-yellow-200 p-2 rounded):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github fa-2xl bg-black text-white p-2 rounded):](https://www.github.com)
-[:(fab fa-brands fa-microsoft fa-2xl bg-gray-400 p-2 rounded):](https://www.microsoft.com/en-us/windows-server)
 &nbsp;
-
----
 
 ## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
 
-### Senior Manual QA Engineer ###
+### Senior QA Engineer ###
 
-- *Manual testing for healthcare project with BI components*  
-- *Localization testing and prepared translation tables*  
+- *Manual Testing and Localization for Healthcare BI Project;*  
+- *Preparation of translation tables and collaboration with translation team;*  
+- *Exploratory, regression, functional testing and reporting.*  
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
 
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws fa-2xl bg-orange-200 p-2 rounded):](https://aws.amazon.com/)
-[:(fab fa-brands fa-microsoft fa-2xl bg-gray-400 p-2 rounded):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux fa-2xl bg-gray-800 text-white p-2 rounded):](https://www.linux.org/)
 &nbsp;
-
----
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
 
 ### Senior QA Engineer ###
 
-- *SQA certification training for healthcare projects*  
-- *Manual and automation testing*  
-- *Member of a small QA team*  
+- *Healthcare QA certification and training completed;*  
+- *Manual & Automation Testing;*  
+- *Member of small QA team, focused on high-quality product delivery.*  
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
 
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws fa-2xl bg-orange-200 p-2 rounded):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github fa-2xl bg-black text-white p-2 rounded):](https://www.github.com)
-[:(fab fa-brands fa-microsoft fa-2xl bg-gray-400 p-2 rounded):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux fa-2xl bg-gray-800 text-white p-2 rounded):](https://www.linux.org/)
 &nbsp;
-
----
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
 
-### Senior Manual QA Engineer ###
+### Senior QA Engineer / Performance Test Engineer ###
 
-- *Participated in development of 4 software projects*  
-- *Manual, automation, and performance testing*  
-- *DBA expertise, management, and performance optimization*  
+- *Manual, Automation, and Performance Testing;*  
+- *Database management and optimization;*  
+- *Infrastructure DevOps and system support;*  
+- *Worked on multiple international projects including mobile apps and POS systems.*  
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
 
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws fa-2xl bg-orange-200 p-2 rounded):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github fa-2xl bg-black text-white p-2 rounded):](https://www.github.com)
-[:(fab fa-solid fa-dog fa-2xl bg-yellow-200 p-2 rounded):](https://www.datadoghq.com/)
-[:(fab fa-solid fa-warehouse fa-2xl bg-purple-200 p-2 rounded):](https://www.zadara.com/)
-[:(fab fa-brands fa-microsoft fa-2xl bg-gray-400 p-2 rounded):](https://www.microsoft.com/en-us/windows-server)
 &nbsp;
-
----
 
 ## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
 
 ### Abiliton Intermediate QC Engineer ###
 
-- *Development of 3 software projects: BI, desktop, cross-platform release management*  
-- *Manual and automation testing*  
-- *Member of small and large QA teams*  
-- *Team Lead role substitution*  
+- *Manual & Automation Testing;*  
+- *Participation in BI, desktop, and cross-platform release management tools;*  
+- *QA team support and temporary team lead role.*  
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
 
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws fa-2xl bg-orange-200 p-2 rounded):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github fa-2xl bg-black text-white p-2 rounded):](https://www.github.com)
-[:(fab fa-solid fa-dog fa-2xl bg-yellow-200 p-2 rounded):](https://www.datadoghq.com/)
-[:(fab fa-solid fa-warehouse fa-2xl bg-purple-200 p-2 rounded):](https://www.zadara.com/)
-[:(fab fa-brands fa-microsoft fa-2xl bg-gray-400 p-2 rounded):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux fa-2xl bg-gray-800 text-white p-2 rounded):](https://www.linux.org/)
 &nbsp;
 
----
+## **[OSF Digital](https://osf.digital/) June 2011 - August 2013** ##
 
-## **[OSF Global Services](https://osf-global.com/) February 2012 – July 2013** ##
+### QA Engineer ###
 
-### Senior QA Engineer ###
+- *Long-term BI project with data architecture, ETL, and reporting;*  
+- *Manual & Automation Testing;*  
+- *Integration with Salesforce and Facebook;*  
+- *Standalone QA responsibility within a 6-person team.*  
+\
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
 
-- *Manual testing for e-commerce solutions and custom applications*  
-- *Developed test plans, test cases, and executed tests*  
-- *Worked closely with development teams to ensure high-quality releases*  
-- *Regression testing and defect reporting*  
-- *Contributed to QA process improvements and automation*  
-
-[:(fab fa-solid fa-database fa-2xl bg-gray-200 p-2 rounded):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-jenkins fa-2xl bg-red-200 p-2 rounded):](https://www.jenkins.io/)
-[:(fab fa-brands fa-github fa-2xl bg-black text-white p-2 rounded):](https://www.github.com)
-[:(fab fa-brands fa-java fa-2xl bg-gray-400 p-2 rounded):](https://www.java.com/)
-[:(fab fa-brands fa-linux fa-2xl bg-gray-800 text-white p-2 rounded):](https://www.linux.org/)
-[:(fab fa-brands fa-selenium fa-2xl bg-green-200 p-2 rounded):](https://www.selenium.dev/)
 &nbsp;
-
----
 
 ## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
