@@ -11,7 +11,7 @@ math:
   enable: true
 ---
 
-## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/) May 2024 - Present** ##
+## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/) May 2024 - March 2025** ##
 
 ### Performance and Automation QA Engineer ###
 
