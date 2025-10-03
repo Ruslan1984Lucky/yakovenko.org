@@ -11,7 +11,7 @@ math:
   enable: true
 ---
 
-## **NMFTA (National Motor Freight Traffic Association) May 2024 - Present** ##
+## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/) May 2024 - Present** ##
 
 ### Performance and Automation QA Engineer ###
 
@@ -21,12 +21,14 @@ math:
 - *Playing a key role in the SCAC (Standard Carrier Alpha Code) project;*  
 - *Contributing as a general QA Engineer while ensuring quality and timely delivery of tasks;* \
 \
-[:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[:(fab fa-brands fa-jmeter fa-2xl):](https://jmeter.apache.org/)
-[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)
-[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
-[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
+[:(fab fa-brands fa-protractor  fa-2xl):](https://www.protractortest.org/) 
+[:(fab fa-brands fa-jmeter  fa-2xl):](https://jmeter.apache.org/)
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
+[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com/)
 &nbsp;
 
 ## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
@@ -37,13 +39,17 @@ math:
 - *Designed and implemented Cloud infrastructure;*  
 - *Developed and supported data architecture;*  
 - *Conducted manual and automation testing;*  
+- *Writing automation tests on Protractor JavaScript;*  
 - *Played a standalone role in a small QA team within a separate POD;* \
 \
-[:(fab fa-brands fa-microsoft fa-2xl):](https://www.microsoft.com/en-us/sql-server)
-[:(fab fa-brands fa-oracle fa-2xl):](https://www.oracle.com/database/)
-[:(fab fa-brands fa-docker fa-2xl):](https://www.docker.com/)
-[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
+[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
 &nbsp;
 
 ## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
@@ -54,11 +60,7 @@ math:
 - *Writing automation tests on Protractor JavaScript;*  
 - *Held a standalone QA position, contributing independently to project success;* \
 \
-[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)
-[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)
-[:(fab fa-brands fa-postman fa-2xl):](https://www.postman.com/)
-[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
 &nbsp;
 
 ## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
@@ -70,11 +72,14 @@ math:
 - *Built and supported cloud applications from scratch;*  
 - *Developed and optimized data and application architecture;* \
 \
-[:(fab fa-brands fa-docker fa-2xl):](https://www.docker.com/)
-[:(fab fa-brands fa-linux fa-2xl):](https://www.linux.org/)
-[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
-[:(fab fa-brands fa-oracle fa-2xl):](https://www.oracle.com/database/)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
+[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
 &nbsp;
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
@@ -84,10 +89,14 @@ math:
 - *Conducted manual and automation testing;*  
 - *Held a standalone QA position, contributing independently to project success;* \
 \
-[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)
-[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)
-[:(fab fa-brands fa-postman fa-2xl):](https://www.postman.com/)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
+[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/) 
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
+[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
 &nbsp;
 
 ## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
@@ -97,10 +106,10 @@ math:
 - *Conducted manual testing for a healthcare project with BI components;*  
 - *Performed localization testing and prepared translation tables in collaboration with the translation team;* \
 \
-[:(fab fa-brands fa-soap fa-2xl):](https://www.soapui.org/)
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server)
-[:(fab fa-brands fa-linux fa-2xl):](https://www.linux.org/)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
 &nbsp;
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
@@ -111,10 +120,11 @@ math:
 - *Conducted manual and automation testing;*  
 - *Contributed as a member of a small QA team;* \
 \
-[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
-[:(fab fa-brands fa-linux fa-2xl):](https://www.linux.org/)
-[:(fab fa-brands fa-microsoft fa-2xl):](https://www.microsoft.com/en-us/sql-server)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
 &nbsp;
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
@@ -125,11 +135,12 @@ math:
 - *Conducted manual, automation, and performance testing;*  
 - *Provided DBA expertise, management, and performance optimization;* \
 \
-[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)
-[:(fab fa-brands fa-jmeter fa-2xl):](https://jmeter.apache.org/)
-[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)
-[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
+[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
 &nbsp;
 
 ## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
@@ -142,11 +153,13 @@ math:
 - *Member of the small and big QA teams;*  
 - *Team Lead role substitution;* \
 \
-[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)
-[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)
-[:(fab fa-brands fa-ruby fa-2xl):](https://www.ruby-lang.org/)
-[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
+[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
+[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
+[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
 &nbsp;
 
 ## **[OSF Global Services](https://osf-global.com/) February 2012 – July 2013** ##
@@ -159,11 +172,12 @@ math:
 - *Conducted regression testing and reported defects in a timely manner;*  
 - *Contributed to improving the overall QA processes and automation efforts;* \
 \
-[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)
-[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)
-[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
-[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
-[:(fab fa-brands fa-linux fa-2xl):](https://www.linux.org/)
+[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-jenkins  fa-2xl):](https://www.jenkins.io/)
+[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com/)
+[:(fab fa-brands fa-java  fa-2xl):](https://www.java.com/)
+[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+[:(fab fa-brands fa-selenium  fa-2xl):](https://www.selenium.dev/)
 &nbsp;
 
 ## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
