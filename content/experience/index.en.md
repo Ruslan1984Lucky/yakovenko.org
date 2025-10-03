@@ -2,174 +2,219 @@
 title: "Work Experience"
 date: 2025-09-25T22:17:40+08:00
 draft: false
-description: "About LoveIt"
+description: "Professional QA / Test Engineer Experience"
 images: ["/Apple-Devices-Preview.png"]
 lightgallery: true
 math:
   enable: true
 ---
 
-## **NMFTA (National Motor Freight Traffic Association) May 2024 - March 2025** ##
+## **[NMFTA](https://www.nmfta.org/) (National Motor Freight Traffic Association) May 2024 - March 2025** ##
 
 ### Performance and Automation QA Engineer ###
 
-- Performing automation and load/performance testing  
-- Writing automation tests on Protractor JavaScript  
-- Delivered API services to enhance project functionality  
-- Key role in SCAC (Standard Carrier Alpha Code) project  
-- Contributed as general QA Engineer ensuring quality and timely delivery  
+- Designed and executed automation & load/performance tests  
+- Built Protractor-based UI automation for web apps  
+- Delivered API services to improve project integration  
+- Key role in SCAC (Standard Carrier Alpha Code) initiative  
+- Ensured project quality and timely delivery as QA Engineer  
 
-[:(fab fa-brands fa-protractor  fa-2xl):](https://www.protractortest.org/)
-[:(fab fa-brands fa-jmeter  fa-2xl):](https://jmeter.apache.org/)
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com/)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:adobe:](https://www.adobe.com/products/photoshop.html)
+[:visio:](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software)
+[:eclipse:](https://eclipse.org/) 
+[:java:](https://www.java.com/) 
+[:selenium:](https://www.selenium.dev/) 
+[:jmeter:](https://jmeter.apache.org/) 
+[:sql:](https://www.microsoft.com/en-us/sql-server/) 
+[:docker:](https://www.docker.com/) 
+[:git:](https://git-scm.com/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:confluence:](https://www.atlassian.com/software/confluence) 
+[:jenkins:](https://www.jenkins.io/) 
+[:linux:](https://www.linux.org/) 
+[:windows:](https://www.microsoft.com/en-us/windows)
 &nbsp;
 
 ## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
 
 ### Senior Manual QA Engineer ###
 
-- Worked on Business Intelligence (BI) projects  
-- Designed and implemented Cloud infrastructure  
-- Developed and supported data architecture  
-- Conducted manual and automation testing  
-- Played standalone QA role within a separate POD  
+- Delivered QA in Business Intelligence (BI) projects  
+- Supported data architecture & cloud solutions  
+- Designed and implemented testing strategy  
+- Ensured cross-team communication with stakeholders  
+- Served as the only QA in a separate POD team  
 
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/)
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:sql:](https://www.microsoft.com/en-us/sql-server/) 
+[:pgadmin:](https://www.pgadmin.org/) 
+[:oracle:](https://www.oracle.com/database/sqldeveloper/) 
+[:mysql:](https://www.mysql.com/products/workbench/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:git:](https://git-scm.com/) 
+[:docker:](https://www.docker.com/) 
+[:jenkins:](https://www.jenkins.io/) 
+[:linux:](https://www.linux.org/)
 &nbsp;
 
 ## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
 
 ### Senior Manual QA Engineer ###
 
-- Conducted manual and automation testing  
-- Independent QA contributor  
+- Manual & regression testing for casino games  
+- Ensured compliance with industry standards  
+- Designed functional & integration test cases  
+- Contributed to release validation cycles  
+- Independent QA role for multiple projects  
 
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:photoshop:](https://www.adobe.com/products/photoshop.html) 
+[:jmeter:](https://jmeter.apache.org/) 
+[:selenium:](https://www.selenium.dev/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:git:](https://git-scm.com/) 
+[:confluence:](https://www.atlassian.com/software/confluence)
+[:windows:](https://www.microsoft.com/en-us/windows)
+[:linux:](https://www.linux.org/)
 &nbsp;
 
 ## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
 
 ### Senior Manual QA Engineer ###
 
-- Conducted manual and automation testing  
-- Designed and implemented Cloud infrastructure  
-- Built and supported cloud applications  
-- Developed and optimized data and application architecture  
+- Manual & automation testing of cloud services  
+- Data & application architecture optimization  
+- Implemented test plans, regression suites  
+- Supported enterprise-level QA processes  
+- Delivered high-quality validation reports  
 
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/)
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:oracle:](https://www.oracle.com/database/sqldeveloper/) 
+[:sql:](https://www.microsoft.com/en-us/sql-server/) 
+[:docker:](https://www.docker.com/) 
+[:jenkins:](https://www.jenkins.io/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:git:](https://git-scm.com/)
+[:windows:](https://www.microsoft.com/en-us/windows)
+[:linux:](https://www.linux.org/)
 &nbsp;
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
 
 ### Senior Manual QA Engineer ###
 
-- Manual and automation testing  
-- Independent QA contributor  
+- QA process setup for distributed team  
+- Created manual & automation test cases  
+- Regression testing & requirements validation  
+- Improved collaboration in remote teams  
+- Reported to product owners with detailed QA metrics  
 
-[:(fab fa-solid fa-snowflake  fa-2xl):](https://www.snowflake.com/en/)
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud  fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-industry  fa-2xl):](https://azure.microsoft.com/en-us/products/data-factory/)
-[:(fab fa-solid fa-layer-group  fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket  fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:sql:](https://www.microsoft.com/en-us/sql-server/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:git:](https://git-scm.com/) 
+[:docker:](https://www.docker.com/) 
+[:linux:](https://www.linux.org/) 
+[:windows:](https://www.microsoft.com/en-us/windows)
 &nbsp;
 
 ## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
 
 ### Senior Manual QA Engineer ###
 
-- Manual testing for healthcare project with BI components  
-- Localization testing and translation table preparation  
+- QA for healthcare BI project  
+- Localization & translation table preparation  
+- Functional verification testing  
+- System integration & regression coverage  
+- QA documentation improvements  
 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:sql:](https://www.microsoft.com/en-us/sql-server/) 
+[:eclipse:](https://eclipse.org/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:git:](https://git-scm.com/) 
+[:windows:](https://www.microsoft.com/en-us/windows)
+[:linux:](https://www.linux.org/)
 &nbsp;
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
 
 ### Senior QA Engineer ###
 
-- SQA certification training for healthcare projects  
-- Manual and automation testing  
-- Team member of a small QA team  
+- Performed manual & automation testing for healthcare projects  
+- Supported QA certification & documentation  
+- Introduced knowledge-sharing sessions  
+- Regression testing & bug reporting  
+- Contributed to QA team process improvement  
 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:sql:](https://www.microsoft.com/en-us/sql-server/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:git:](https://git-scm.com/) 
+[:docker:](https://www.docker.com/) 
+[:windows:](https://www.microsoft.com/en-us/windows)
+[:linux:](https://www.linux.org/)
 &nbsp;
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
 
 ### Senior Manual QA Engineer ###
 
-- Manual, automation, and performance testing  
-- DBA expertise, management, and performance optimization  
+- Manual, automation & performance testing  
+- Database management & optimization  
+- Test strategy planning & execution  
+- Functional and regression testing coverage  
+- Supported distributed teams in Agile environment  
 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
-[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:sql:](https://www.microsoft.com/en-us/sql-server/) 
+[:jmeter:](https://jmeter.apache.org/) 
+[:selenium:](https://www.selenium.dev/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:git:](https://git-scm.com/) 
+[:windows:](https://www.microsoft.com/en-us/windows)
+[:linux:](https://www.linux.org/)
 &nbsp;
 
 ## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
 
 ### Abiliton Intermediate QC Engineer ###
 
-- Participated in development of BI, desktop, and cross-platform release management tools  
-- Manual and automation testing  
-- Team Lead role substitution  
+- Manual & automation testing of BI and web apps  
+- Participated in release management  
+- Substituted as Team Lead when needed  
+- Designed test plans & executed regression coverage  
+- Reported quality metrics to management  
 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws  fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com)
-[:(fab fa-solid fa-dog  fa-2xl):](https://www.datadoghq.com/)
-[:(fab fa-solid fa-warehouse  fa-2xl):](https://www.zadara.com/)
-[:(fab fa-brands fa-microsoft  fa-2xl):](https://www.microsoft.com/en-us/windows-server)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:sql:](https://www.microsoft.com/en-us/sql-server/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:git:](https://git-scm.com/) 
+[:docker:](https://www.docker.com/) 
+[:windows:](https://www.microsoft.com/en-us/windows)
+[:linux:](https://www.linux.org/)
 &nbsp;
 
 ## **[OSF Global Services](https://osf-global.com/) February 2012 – July 2013** ##
 
 ### Senior QA Engineer ###
 
-- Manual testing for e-commerce and custom applications  
-- Developed test plans, test cases, and executed them based on requirements  
-- Regression testing and defect reporting  
-- Contributed to QA process and automation improvement  
+- Manual testing for e-commerce projects  
+- Designed test plans, test cases & executed them  
+- Conducted regression & integration testing  
+- Participated in QA automation improvements  
+- Worked with cross-functional teams on quality deliverables  
 
-[:(fab fa-solid fa-database  fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-jenkins  fa-2xl):](https://www.jenkins.io/)
-[:(fab fa-brands fa-github  fa-2xl):](https://www.github.com/)
-[:(fab fa-brands fa-java  fa-2xl):](https://www.java.com/)
-[:(fab fa-brands fa-linux  fa-2xl):](https://www.linux.org/)
-[:(fab fa-brands fa-selenium  fa-2xl):](https://www.selenium.dev/)
+[:office:](https://www.microsoft.com/microsoft-365) 
+[:sql:](https://www.microsoft.com/en-us/sql-server/) 
+[:jira:](https://www.atlassian.com/software/jira) 
+[:git:](https://git-scm.com/) 
+[:selenium:](https://www.selenium.dev/) 
+[:eclipse:](https://eclipse.org/) 
+[:jenkins:](https://www.jenkins.io/) 
+[:windows:](https://www.microsoft.com/en-us/windows)
+[:linux:](https://www.linux.org/)
 &nbsp;
 
-## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
+## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)** ##
