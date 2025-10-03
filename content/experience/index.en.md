@@ -42,7 +42,7 @@ math:
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-solid fa-database fa-2xl):](https://www.mongodb.com/)
 &nbsp;
 
 ## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
@@ -58,6 +58,8 @@ math:
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
+[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
+[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
 &nbsp;
 
 ## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
@@ -73,6 +75,8 @@ math:
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
+[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
+[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
 &nbsp;
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
@@ -118,6 +122,8 @@ math:
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
+[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
+[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
 &nbsp;
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
