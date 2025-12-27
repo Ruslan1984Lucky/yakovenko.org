@@ -9,7 +9,7 @@ lang: "en"
 
 I am a **Senior QA Engineer** with **12+ years of experience** focused on data-driven and backend-heavy systems. I help teams **identify quality risks early**, **ensure data consistency across pipelines**, and **deliver stable releases** in complex enterprise environments.  
 
-I have extensive experience in **software testing, performance engineering, and data-driven quality assurance**. Over the course of my career, I have contributed to **19 medium to large projects international projects** for clients in the USA, Canada, Europe, and Australia, spanning industries such as **fintech, tax & audit analytics, e-commerce, gaming, logistics, and healthcare**.
+I have extensive experience in **software testing, performance engineering, and data-driven quality assurance**. Over the course of my career, I have contributed to **19 medium to large international projects** for clients in the USA, Canada, Europe, and Australia, spanning industries such as **fintech, tax & audit analytics, e-commerce, gaming, logistics, and healthcare**.
 
 ---
 
