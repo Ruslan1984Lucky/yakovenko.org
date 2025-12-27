@@ -67,5 +67,3 @@ I combine **deep technical testing skills** with **data analytics expertise**, e
 - 📧 [yak_rusl@yahoo.com](mailto:yak_rusl@yahoo.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)  
 - 📱 [Viber](https://wa.me/380699896126)  
-
---
