@@ -15,7 +15,7 @@ I have extensive experience in **software testing, performance engineering, and 
 
 ## 💼 Latest Role
 
-**QA Coach @ Deloitte (Intela platform)** – Led QA activities for **BI & Data pipelines** across 15 Scrum teams.  
+**QA Coach @ [Deloitte Intela](https://www2.deloitte.com/us/en/pages/tax/solutions/intela-global-tax-platform.html)** – Led QA activities for **BI & Data pipelines** across 15 Scrum teams.  
 **Responsibilities:**
 
 - Testing microservice flows: **Normal, Resync, Reconciliation, Orphaned flows**  
@@ -25,7 +25,12 @@ I have extensive experience in **software testing, performance engineering, and 
 - Performance/load testing & automation  
 - Integration validation  
 
-🔗 [Learn more about Deloitte Intela](https://www2.deloitte.com/us/en/pages/tax/solutions/intela-global-tax-platform.html)
+&nbsp;  
+[:(fab fa-brands fa-power-bi fa-2xl):](https://powerbi.microsoft.com/) 
+[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/) 
+[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/) 
+[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/) 
+[:(fab fa-solid fa-rocket fa-2xl):](https://azure.microsoft.com/en-us/products/devops)  
 
 ---
 
@@ -41,11 +46,25 @@ I have extensive experience in **software testing, performance engineering, and 
 
 ---
 
-## 🏥 **Healthcare QA & Practical Experience:**  
-I have hands-on experience in developing and testing healthcare software, including systems for insulin pump management at [GlobalLogic](https://www.globallogic.com/) and platforms for storing, processing, and utilizing patient data in various formats (ultrasound images, video examinations, documents, and other file types) at [Edvantis](https://edvantis.com/). This experience provided me with deep insights into healthcare workflows, regulatory requirements, and safety standards for patient data and medical devices.  
+## 🏥 **Healthcare QA & Practical Experience**  
+
+I have hands-on experience in developing and testing healthcare software, including:
+
+- **Insulin pump management systems** at [GlobalLogic](https://www.globallogic.com/)  
+- **Patient data platforms** at [Edvantis](https://www.edvantis.com/) handling ultrasound images, video examinations, documents, and other file types  
+
+This experience provided me with deep insights into healthcare workflows, regulatory requirements, and safety standards for patient data and medical devices.  
 
 **Mednet SQA Testing Certification:**  
-Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) course and certification, which focuses on quality assurance practices specifically for healthcare software. This certification demonstrates my understanding of compliance with healthcare regulations, risk assessment, and patient safety considerations, giving me a strong advantage over other QA candidates by combining technical testing skills with domain-specific knowledge in healthcare applications.
+Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) course and certification, focused on quality assurance practices specifically for healthcare software.  
+**Advantages:**  
+
+- Demonstrates understanding of healthcare compliance, risk assessment, and patient safety  
+- Combines technical testing skills with domain-specific knowledge  
+- Gives a strong edge over other QA candidates in healthcare software projects  
+
+[:(fab fa-solid fa-notes-medical fa-2xl):](https://www.mednet.com.ar/en/elearning/)  
+[:(fab fa-solid fa-user-shield fa-2xl):](https://www.mednet.com.ar/en/elearning/)  
 
 ---
 
@@ -58,7 +77,12 @@ Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) cour
 - **Cloud & DevOps:** Azure, Docker, Jenkins, CI/CD, GitHub, Azure DevOps  
 - **Healthcare QA:** Certified by Mednet, experience in medical monitoring & compliance systems  
 
-I combine **deep technical testing skills** with **data analytics expertise**, enabling teams to deliver **faster, smarter, and more reliable BI/Data solutions**.
+I combine **deep technical testing skills** with **data analytics expertise**, enabling teams to deliver **faster, smarter, and more reliable BI/Data solutions**.  
+
+[:(fab fa-brands fa-github fa-2xl):](https://github.com/) 
+[:(fab fa-brands fa-linkedin fa-2xl):](https://www.linkedin.com/) 
+[:(fab fa-solid fa-envelope fa-2xl):](mailto:yak_rusl@yahoo.com) 
+[:(fab fa-solid fa-phone fa-2xl):](https://wa.me/380699896126)  
 
 ---
 
@@ -66,4 +90,4 @@ I combine **deep technical testing skills** with **data analytics expertise**, e
 
 - 📧 [yak_rusl@yahoo.com](mailto:yak_rusl@yahoo.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)  
-- 📱 [Viber](https://wa.me/380699896126)  
+- 📱 [Viber](https://wa.me/380699896126)
