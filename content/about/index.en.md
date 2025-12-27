@@ -41,11 +41,11 @@ I have extensive experience in **software testing, performance engineering, and 
 
 ---
 
-## 🏥 Healthcare Projects
+## 🏥 **Healthcare QA & Practical Experience:**  
+I have hands-on experience in developing and testing healthcare software, including systems for insulin pump management at [GlobalLogic](https://www.globallogic.com/) and platforms for storing, processing, and utilizing patient data in various formats (ultrasound images, video examinations, documents, and other file types) at [Edvantis](https://edvantis.com/). This experience provided me with deep insights into healthcare workflows, regulatory requirements, and safety standards for patient data and medical devices.  
 
-Experience in **healthcare software**: patient monitoring, medical data management, self-service kiosks.  
-**Certified by Mednet**, ensuring regulatory compliance and safety standards.  
-🔗 [Mednet Certification](https://www.mednet.com/)
+**Mednet SQA Testing Certification:**  
+Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) course and certification, which focuses on quality assurance practices specifically for healthcare software. This certification demonstrates my understanding of compliance with healthcare regulations, risk assessment, and patient safety considerations, giving me a strong advantage over other QA candidates by combining technical testing skills with domain-specific knowledge in healthcare applications.
 
 ---
 
