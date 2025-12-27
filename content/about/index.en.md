@@ -68,11 +68,4 @@ I combine **deep technical testing skills** with **data analytics expertise**, e
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)  
 - 📱 [Viber](https://wa.me/380699896126)  
 
----
-
-<style>
-h1, h2, h3 { font-family: 'Arial', sans-serif; color: #2C3E50; }
-p, li { font-family: 'Verdana', sans-serif; color: #34495E; line-height: 1.5; }
-a { color: #1ABC9C; text-decoration: none; }
-a:hover { text-decoration: underline; }
-</style>
+--
