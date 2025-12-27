@@ -1,4 +1,4 @@
-## Senior QA Engineer | Enterprise & Data Platforms  (Data / Backend / API) Performance / Automation
+## Senior QA Engineer | Enterprise & Data Platforms  (Data / Backend / API Performance / Automation)
 
 I am a Senior QA Engineer / BI QA Architect with more than 12 years of professional experience in software testing, performance engineering, and data-driven quality assurance. Over the course of my career, I have successfully contributed to 19 international projects for clients in the USA, Canada, Europe, and Australia, spanning industries such as fintech, tax & audit analytics, e-commerce, gaming, logistics, and healthcare.
 
