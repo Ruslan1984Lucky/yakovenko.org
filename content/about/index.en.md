@@ -1,11 +1,42 @@
-
-
 # 🚀 Senior QA Engineer | Enterprise & Data Platforms  
 ### (Data / Backend / API / Performance / Automation)
 
 I am a **Senior QA Engineer** with **12+ years of experience** focused on data-driven and backend-heavy systems. I help teams **identify quality risks early**, **ensure data consistency across pipelines**, and **deliver stable releases** in complex enterprise environments.  
 
 I have extensive experience in software testing, performance engineering, and data-driven quality assurance. Over the course of my career, I have contributed to 19 medium- to large-scale international projects for clients in the USA, Canada, Europe, and Australia. These projects included, but were not limited to, web, cloud, mobile, desktop, embedded, and cross-platform solutions, such as enterprise BI, ERP, CRM, and DMS systems; fintech and tax platforms; e-commerce and logistics solutions; hosting and cloud services; airline mobile applications; gaming platforms; retail point-of-sale (POS) systems; healthcare and medical data platforms; as well as internal corporate systems integrated with complex third-party services and standalone products.
+
+---
+
+## ⚡ Performance QA Expertise
+
+I am a **strong Performance Test Engineer** with extensive hands-on experience in designing and executing **performance and load testing** across multiple system layers, including:  
+**HTTP/HTTPS**, **REST & SOAP APIs**, **JDBC/database interactions**, **microservice-to-microservice communication**, and **backend integration layers**. My work focuses on validating **system throughput, response times, concurrency limits, resource utilization, and bottleneck identification**, ensuring **reliability, scalability, and stability** of complex **enterprise, data-driven, and integration-heavy solutions** under real-world and peak-load conditions.  
+
+- Recognized by **[EPAM](https://www.epam.com/)** for excellence in Performance & Load Testing of DMS integration solutions.  
+- Hands-on experience with **JMeter**, **LoadRunner**, **Postman**, and other load testing tools.  
+
+[:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/) 
+[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/) 
+[:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/) 
+[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
+
+---
+
+## 🖥️ Automation & QA Expertise
+
+- Moderate to advanced automation skills — able to implement, extend, and maintain automation scripts.  
+- Developed automated tests for **UI, API, and integration scenarios**, improving **test coverage** and **release reliability**.  
+- Practical experience maintaining **automation frameworks** and writing **Selenium WebDriver tests in Java/JUnit** and **Protractor JavaScript** for **UI and functional test automation**, enabling **faster delivery** and **continuous quality feedback**.  
+- **Education & Certification:** Graduated from **SoftServe IT Academy** with the specialization **Automation of Testing Processes and Quality Assurance of Modern Software Systems**, providing a strong foundation for professional automation and QA practices.  
+
+[:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/) 
+[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/) 
+[:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/) 
+[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 
 ---
 
@@ -42,7 +73,7 @@ I have extensive experience in software testing, performance engineering, and da
 
 ---
 
-## 🏥 **Healthcare QA & Practical Experience**  
+## 🏥 Healthcare QA & Practical Experience  
 
 I have hands-on experience in developing and testing healthcare software, including:
 
