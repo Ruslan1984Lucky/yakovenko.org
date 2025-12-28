@@ -105,9 +105,11 @@ Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) cour
 
 ## 💡 Expertise / Core Skills
 
-- Testing & QA: Manual, Automation, Performance, Load, Stress, Integration, API, ETL validation  
-- Performance Testing  
-- Data & BI: SQL, Oracle DB, PostgreSQL, MongoDB, Data Lake, Databricks, Power BI  
+- Testing & QA: SDLC, SQA methodologies, functional & technical specification analysis, regression, exploratory, integration 
+- Automation, Performance, Load, Stress, Integration, API, ETL validation  
+- Data & BI: SQL, Oracle DB, PostgreSQL, MongoDB, Data Lake, Databricks, Power BI
+- Programming: Java, Javascript, basic OOP, scripting  
+- Web & Other: HTML, XML, JSON, UML diagrams, Web UI, basic web design  
 - Automation Tools: Selenium, Protractor, JMeter, Postman, SoapUI, ReadyAPI  
 - Cloud & DevOps: Azure, Docker, Jenkins, CI/CD, GitHub, Azure DevOps  
 - Healthcare QA: Certified by Mednet, experience in medical monitoring & compliance systems  
