@@ -1,3 +1,8 @@
+---
+title: "Senior QA Engineer | Enterprise & Data Platforms"
+sidebar_position: 1
+---
+
 [![/lib/images/Ruslan.png](https://yakovenko.org/lib/images/Ruslan.png)](https://yakovenko.org/)
 
 # 🚀 **Senior QA Engineer | Enterprise & Data Platforms**
@@ -17,11 +22,11 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 - Hands-on experience with JMeter, LoadRunner, Postman, and other load testing tools.
 
 **Technologies & Tools:**  
-<img src="https://cdn-icons-png.flaticon.com/48/888/888857.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/226/226777.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/5968/5968292.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/5968/5968672.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/732/732212.png" width="32" />  
+<img src="https://cdn-icons-png.flaticon.com/48/888/888857.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/226/226777.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/5968/5968292.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/5968/5968672.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/732/732212.png" width="32" /> 
 <img src="https://cdn-icons-png.flaticon.com/48/888/888847.png" width="32" />
 
 ---
@@ -34,11 +39,11 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 - **Education & Certification:** Graduated from [SoftServe IT Academy](https://softserveinc.com/) with the specialization Automation of Testing Processes and Quality Assurance of Modern Software Systems.
 
 **Automation & DevOps Tools:**  
-<img src="https://cdn-icons-png.flaticon.com/48/888/888857.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/226/226777.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/5968/5968292.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/5968/5968672.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/732/732212.png" width="32" />  
+<img src="https://cdn-icons-png.flaticon.com/48/888/888857.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/226/226777.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/5968/5968292.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/5968/5968672.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/732/732212.png" width="32" /> 
 <img src="https://cdn-icons-png.flaticon.com/48/888/888847.png" width="32" />
 
 ---
@@ -57,10 +62,10 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 - Integration validation  
 
 **Technologies & Tools:**  
-<img src="https://cdn-icons-png.flaticon.com/48/888/888857.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/732/732212.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/888/888847.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/888/888848.png" width="32" />  
+<img src="https://cdn-icons-png.flaticon.com/48/888/888857.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/732/732212.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/888/888847.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/888/888848.png" width="32" /> 
 <img src="https://cdn-icons-png.flaticon.com/48/888/888853.png" width="32" />
 
 ---
@@ -108,9 +113,9 @@ This experience provided me with deep insights into healthcare workflows, regula
 - Healthcare QA: Certified by Mednet, experience in medical monitoring & compliance systems  
 
 **Portfolio & Contact:**  
-<img src="https://cdn-icons-png.flaticon.com/48/25/25231.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/145/145807.png" width="32" />  
-<img src="https://cdn-icons-png.flaticon.com/48/561/561127.png" width="32" />  
+<img src="https://cdn-icons-png.flaticon.com/48/25/25231.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/145/145807.png" width="32" /> 
+<img src="https://cdn-icons-png.flaticon.com/48/561/561127.png" width="32" /> 
 <img src="https://cdn-icons-png.flaticon.com/48/597/597177.png" width="32" />
 
 ---
