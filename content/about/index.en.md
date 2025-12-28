@@ -74,6 +74,10 @@ HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-micros
 - [Meest – E-commerce & Logistics Platform](https://meest.shopping/kz)  
 - [Namecheap – Domain & Hosting Solutions](https://www.namecheap.com/)  
 - [NetDocuments – Document Management](https://www.netdocuments.com/)  
+- [Canadian Tire – Nationwide Canadian Retail & Supermarket Network](https://www.canadiantire.ca/)  
+- [Insulin Pump Management System – Embedded Medical Device Software](https://www.globallogic.com/industries/healthcare-and-life-sciences/embedded-device-software-development/)  
+- [SCAC / NMFTA – Standard Carrier Alpha Code Registry & Logistics Platform](https://nmfta.org/scac/)
+
 
 ---
 
