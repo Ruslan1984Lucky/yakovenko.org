@@ -9,12 +9,12 @@ I have extensive experience in software testing, performance engineering, and da
 
 ## **⚡ Performance QA Expertise**
 
-I am a strong Performance Test Engineer with extensive hands-on experience in designing and executing performance and load testing across multiple system layers, including:  
-HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-microservice communication, and backend integration layers. My work focuses on validating system throughput, response times, concurrency limits, resource utilization, and bottleneck identification, ensuring reliability, scalability, and stability of complex enterprise, data-driven, and integration-heavy solutions under real-world and peak-load conditions.  
+I am a strong Performance Test Engineer with extensive hands-on experience in designing and executing performance and load testing across multiple system layers, including: HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-microservice communication, and backend integration layers. My work focuses on validating system throughput, response times, concurrency limits, resource utilization, and bottleneck identification, ensuring reliability, scalability, and stability of complex enterprise, data-driven, and integration-heavy solutions under real-world and peak-load conditions.  
 
 - Recognized by [EPAM](https://www.epam.com/) for excellence in Performance & Load Testing of DMS integration solutions.  
 - Hands-on experience with JMeter, LoadRunner, Postman, and other load testing tools.  
 
+**Technologies & Tools:**  
 [:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/)  
 [:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)  
 [:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -29,8 +29,9 @@ HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-micros
 - Moderate to advanced automation skills — able to implement, extend, and maintain automation scripts.  
 - Developed automated tests for UI, API, and integration scenarios, improving test coverage and release reliability.  
 - Practical experience maintaining automation frameworks and writing Selenium WebDriver tests in Java/JUnit and Protractor JavaScript for UI and functional test automation, enabling faster delivery and continuous quality feedback.  
-- **Education & Certification:** Graduated from SoftServe IT Academy with the specialization Automation of Testing Processes and Quality Assurance of Modern Software Systems, providing a strong foundation for professional automation and QA practices.  
+- **Education & Certification:** Graduated from [SoftServe IT Academy](https://softserveinc.com/) with the specialization Automation of Testing Processes and Quality Assurance of Modern Software Systems, providing a strong foundation for professional automation and QA practices.  
 
+**Automation & DevOps Tools:**  
 [:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/)  
 [:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)  
 [:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -53,6 +54,7 @@ HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-micros
 - Performance/load testing & automation  
 - Integration validation  
 
+**Technologies & Tools:**  
 [:(fab fa-brands fa-power-bi fa-2xl):](https://powerbi.microsoft.com/)  
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)  
@@ -63,13 +65,13 @@ HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-micros
 
 ## **🔹 Other Top Projects**
 
-- [Oracle – ERP Cloud Services](https://play.google.com/store/apps/details?id=com.oracle.ofsc)  
-- [Ryanair – Mobile App](https://play.google.com/store/apps/details?id=com.ryanair.cheapflights)  
-- [BMC – Release Process Management](https://docs.bmc.com/docs/brpmsp7/home-1095677593.html)  
-- [Playson – Omnichannel Casino Games](https://playson.com/)  
-- [Meest – E-commerce & Logistics Platform](https://meest.shopping/kz)  
-- [Namecheap – Domain & Hosting Solutions](https://www.namecheap.com)  
-- [NetDocuments – Document Management](https://www.netdocuments.com/)  
+- Oracle – ERP Cloud Services: [Link](https://play.google.com/store/apps/details?id=com.oracle.ofsc)  
+- Ryanair – Mobile App: [Link](https://play.google.com/store/apps/details?id=com.ryanair.cheapflights)  
+- BMC – Release Process Management: [Link](https://docs.bmc.com/docs/brpmsp7/home-1095677593.html)  
+- Playson – Omnichannel Casino Games: [Link](https://playson.com/)  
+- Meest – E-commerce & Logistics Platform: [Link](https://meest.shopping/kz)  
+- Namecheap – Domain & Hosting Solutions: [Link](https://www.namecheap.com)  
+- NetDocuments – Document Management: [Link](https://www.netdocuments.com/)  
 
 ---
 
@@ -104,8 +106,7 @@ Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) cour
 - Cloud & DevOps: Azure, Docker, Jenkins, CI/CD, GitHub, Azure DevOps  
 - Healthcare QA: Certified by Mednet, experience in medical monitoring & compliance systems  
 
-I combine deep technical testing skills with data analytics expertise, enabling teams to deliver faster, smarter, and more reliable BI/Data solutions.  
-
+**Portfolio & Contact:**  
 [:(fab fa-brands fa-github fa-2xl):](https://github.com/Ruslan1984Lucky/yakovenko.org)  
 [:(fab fa-brands fa-linkedin fa-2xl):](https://www.linkedin.com/in/ruslan-yakovenko?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [:(fab fa-solid fa-envelope fa-2xl):](mailto:ruslan@yakovenko.org)  
@@ -115,6 +116,6 @@ I combine deep technical testing skills with data analytics expertise, enabling 
 
 ## **📫 Contact Me**
 
-- 📧 [ruslan@yakovenko.org](mailto:ruslan@yakovenko.org)  
+- 📧 ruslan@yakovenko.org  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)  
 - 📱 [WhatsApp](https://wa.me/380633836126)
