@@ -18,7 +18,7 @@
 
 ## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
 
-### Senior Manual QA Engineer ###
+### Senior Manual QA Coach/ General QA Engineer ###
 
 - *Worked on two Business Intelligence (BI) projects;*  
 - *Designed and implemented Cloud infrastructure;*  
@@ -116,7 +116,7 @@
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
 
-### Senior Manual QA Engineer ###
+### Senior Manual QA Engineer)Performance Test Analyst ###
 
 - *Participated in the development of 4 software projects;*  
 - *Conducted manual, automation, and performance testing;*  
