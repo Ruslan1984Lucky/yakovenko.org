@@ -15,12 +15,12 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 - Hands-on experience with JMeter, LoadRunner, Postman, and other load testing tools.  
 
 **Technologies & Tools:**  
-[:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/)  
-[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)  
-[:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)  
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/) [:(
+fab fa-brands fa-java fa-2xl):](https://www.java.com/) [:(
+fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [:(
+fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/) [:(
+fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/) [:(
+fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 
 ---
 
@@ -32,12 +32,12 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 - **Education & Certification:** Graduated from [SoftServe IT Academy](https://softserveinc.com/) with the specialization Automation of Testing Processes and Quality Assurance of Modern Software Systems, providing a strong foundation for professional automation and QA practices.  
 
 **Automation & DevOps Tools:**  
-[:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/)  
-[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)  
-[:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)  
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/) [:(
+fab fa-brands fa-java fa-2xl):](https://www.java.com/) [:(
+fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [:(
+fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/) [:(
+fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/) [:(
+fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 
 ---
 
@@ -55,11 +55,11 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 - Integration validation  
 
 **Technologies & Tools:**  
-[:(fab fa-brands fa-power-bi fa-2xl):](https://powerbi.microsoft.com/)  
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)  
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)  
-[:(fab fa-solid fa-rocket fa-2xl):](https://azure.microsoft.com/en-us/products/devops)  
+[:(fab fa-brands fa-power-bi fa-2xl):](https://powerbi.microsoft.com/) [:(
+fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/) [:(
+fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/) [:(
+fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/) [:(
+fab fa-solid fa-rocket fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
 
 ---
 
@@ -93,7 +93,7 @@ Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) cour
 - Combines technical testing skills with domain-specific knowledge  
 - Gives a strong edge over other QA candidates in healthcare software projects  
 
-[:(fab fa-solid fa-notes-medical fa-2xl):](https://www.mednet.com.ar/en/elearning/)  
+[:(fab fa-solid fa-notes-medical fa-2xl):](https://www.mednet.com.ar/en/elearning/)
 
 ---
 
@@ -107,10 +107,10 @@ Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) cour
 - Healthcare QA: Certified by Mednet, experience in medical monitoring & compliance systems  
 
 **Portfolio & Contact:**  
-[:(fab fa-brands fa-github fa-2xl):](https://github.com/Ruslan1984Lucky/yakovenko.org)  
-[:(fab fa-brands fa-linkedin fa-2xl):](https://www.linkedin.com/in/ruslan-yakovenko?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[:(fab fa-solid fa-envelope fa-2xl):](mailto:ruslan@yakovenko.org)  
-[:(fab fa-solid fa-phone fa-2xl):](https://wa.me/380633836126)  
+[:(fab fa-brands fa-github fa-2xl):](https://github.com/Ruslan1984Lucky/yakovenko.org) [:(
+fab fa-brands fa-linkedin fa-2xl):](https://www.linkedin.com/in/ruslan-yakovenko?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [:(
+fab fa-solid fa-envelope fa-2xl):](mailto:ruslan@yakovenko.org) [:(
+fab fa-solid fa-phone fa-2xl):](https://wa.me/380633836126)
 
 ---
 
