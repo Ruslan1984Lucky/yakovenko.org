@@ -81,12 +81,12 @@ I combine **deep technical testing skills** with **data analytics expertise**, e
 [:(fab fa-brands fa-github fa-2xl):](https://github.com/) 
 [:(fab fa-brands fa-linkedin fa-2xl):](https://www.linkedin.com/) 
 [:(fab fa-solid fa-envelope fa-2xl):](mailto:yak_rusl@yahoo.com) 
-[:(fab fa-solid fa-phone fa-2xl):](https://wa.me/380699896126)  
+[:(fab fa-solid fa-phone fa-2xl):](https://wa.me/380633836126)  
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 [yak_rusl@yahoo.com](mailto:yak_rusl@yahoo.com)  
+- 📧 [ruslan@yakovenko.org](mailto:ruslan@yakovenko.org)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)  
-- 📱 [Viber](https://wa.me/380699896126)
+- 📱 [Viber](https://wa.me/380633836126)
