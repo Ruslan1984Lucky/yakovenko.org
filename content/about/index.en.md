@@ -74,7 +74,7 @@ Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) cour
 
 I combine **deep technical testing skills** with **data analytics expertise**, enabling teams to deliver **faster, smarter, and more reliable BI/Data solutions**.  
 
-[:(fab fa-brands fa-github fa-2xl):](https://github.com/) 
+[:(fab fa-brands fa-github fa-2xl):](https://github.com/Ruslan1984Lucky/yakovenko.org) 
 [:(fab fa-brands fa-linkedin fa-2xl):](https://www.linkedin.com/) 
 [:(fab fa-solid fa-envelope fa-2xl):](mailto:ruslan@yakovenko.org) 
 [:(fab fa-solid fa-phone fa-2xl):](https://wa.me/380633836126)  
