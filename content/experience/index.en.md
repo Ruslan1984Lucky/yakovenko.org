@@ -160,7 +160,7 @@ math:
 [:(fab fa-solid fa-rocket fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
 &nbsp;
 
-## **[OSF Global Services](https://osf-global.com/) February 2012 – July 2013** ##
+## **[OSF Global Services](https://osf-global.com/) June 2011 – July 2013** ##
 
 ### Senior QA Engineer ###
 
