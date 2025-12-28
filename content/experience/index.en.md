@@ -99,7 +99,7 @@
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
 
-### Senior QA Engineer ###
+### General QA Engineer ###
 
 - *Completed SQA certification training for healthcare projects;*  
 - *Conducted manual and automation testing;*  
