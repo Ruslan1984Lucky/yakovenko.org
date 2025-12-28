@@ -18,7 +18,7 @@
 
 ## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
 
-### Senior Manual QA Coach/ General QA Engineer ###
+### QA Coach/ General QA Engineer ###
 
 - *Worked on two Business Intelligence (BI) projects;*  
 - *Designed and implemented Cloud infrastructure;*  
