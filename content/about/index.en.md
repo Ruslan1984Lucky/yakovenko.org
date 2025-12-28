@@ -1,7 +1,7 @@
 
 
 # 🚀 Senior QA Engineer | Enterprise & Data Platforms  
-### Data / Backend / API / Performance / Automation
+### (Data / Backend / API / Performance / Automation)
 
 I am a **Senior QA Engineer** with **12+ years of experience** focused on data-driven and backend-heavy systems. I help teams **identify quality risks early**, **ensure data consistency across pipelines**, and **deliver stable releases** in complex enterprise environments.  
 
