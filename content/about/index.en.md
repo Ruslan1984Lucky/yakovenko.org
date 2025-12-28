@@ -20,7 +20,7 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 [:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)  
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)  
+[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 
 ---
 
@@ -29,7 +29,7 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 - Moderate to advanced automation skills — able to implement, extend, and maintain automation scripts.  
 - Developed automated tests for UI, API, and integration scenarios, improving test coverage and release reliability.  
 - Practical experience maintaining automation frameworks and writing Selenium WebDriver tests in Java/JUnit and Protractor JavaScript for UI and functional test automation, enabling faster delivery and continuous quality feedback.  
-- **Education & Certification:** Graduated from SoftServe IT Academy with the specialization Automation of Testing Processes and Quality Assurance of Modern Software Systems, providing a strong foundation for professional automation and QA practices.  
+- **Education & Certification:** Graduated from [SoftServe IT Academy](https://softserveinc.com/) with the specialization Automation of Testing Processes and Quality Assurance of Modern Software Systems, providing a strong foundation for professional automation and QA practices.  
 
 **Automation & DevOps Tools:**  
 [:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/)  
@@ -37,7 +37,7 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 [:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [:(fab fa-brands fa-selenium fa-2xl):](https://www.selenium.dev/)  
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)  
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)  
+[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 
 ---
 
