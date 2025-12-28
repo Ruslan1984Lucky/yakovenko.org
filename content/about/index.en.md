@@ -1,8 +1,4 @@
----
-title: "About Me"
-layout: "page"
-lang: "en"
----
+
 
 # 🚀 Senior QA Engineer | Enterprise & Data Platforms  
 ### Data / Backend / API / Performance / Automation
