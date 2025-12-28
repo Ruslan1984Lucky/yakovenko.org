@@ -30,7 +30,7 @@ HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-micros
 - Moderate to advanced automation skills — able to implement, extend, and maintain automation scripts.  
 - Developed automated tests for UI, API, and integration scenarios, improving test coverage and release reliability.  
 - Practical experience maintaining automation frameworks and writing Selenium WebDriver tests in Java/JUnit and Protractor JavaScript for UI and functional test automation, enabling faster delivery and continuous quality feedback.  
-- **Education & Certification:** Graduated from [SoftServe IT Academy](https://softserveinc.com/) with the specialization [Automation of Testing Processes and Quality Assurance of Modern Software Systems](https://softserveinc.com/), providing a strong foundation for professional automation and QA practices.
+- **Education & Certification:** Graduated from [SoftServe IT Academy](https://softserveinc.com/) with the specialization Automation of Testing Processes and Quality Assurance of Modern Software Systems, providing a strong foundation for professional automation and QA practices.
 
 **Automation & DevOps Tools:**  
 [:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/) 
@@ -66,13 +66,13 @@ HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-micros
 
 ## 🔹 Other Top Projects
 
-- [Oracle – ERP Cloud Services](https://play.google.com/store/apps/details?id=com.oracle.ofsc)  
-- [Ryanair – Mobile App](https://play.google.com/store/apps/details?id=com.ryanair.cheapflights)  
-- [BMC – Release Process Management](https://docs.bmc.com/docs/brpmsp7/home-1095677593.html)  
-- [Playson – Omnichannel Casino Games](https://playson.com/)  
-- [Meest – E-commerce & Logistics Platform](https://meest.shopping/kz)  
-- [Namecheap – Domain & Hosting Solutions](https://www.namecheap.com/)  
-- [NetDocuments – Document Management](https://www.netdocuments.com/)  
+- Oracle – ERP Cloud Services: [Link](https://play.google.com/store/apps/details?id=com.oracle.ofsc)  
+- Ryanair – Mobile App: [Link](https://play.google.com/store/apps/details?id=com.ryanair.cheapflights)  
+- BMC – Release Process Management: [Link](https://docs.bmc.com/docs/brpmsp7/home-1095677593.html)  
+- Playson – Omnichannel Casino Games: [Link](https://playson.com/)  
+- Meest – E-commerce & Logistics Platform: [Link](https://meest.shopping/kz)  
+- Namecheap – Domain & Hosting Solutions: [Link](https://www.namecheap.com/)  
+- NetDocuments – Document Management: [Link](https://www.netdocuments.com/)  
 
 ---
 
