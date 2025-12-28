@@ -2,15 +2,15 @@ math:
   enable: true
 ---
 
-### **[NMFTA (National Motor Freight Traffic Association)]**(https://www.nmfta.org/) May 2024 - March 2025** ##
+### [NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/) May 2024 - March 2025
 
-### Performance and Automation QA Engineer ###
+#### Performance and Automation QA Engineer
 
 - *Performed automation and load/performance testing;*  
 - *Wrote automation tests using Protractor JavaScript;*  
 - *Delivered API services to enhance project functionality;*  
 - *Key contributor in the SCAC (Standard Carrier Alpha Code) project;*  
-- *Ensured quality and timely delivery as a general QA Engineer;* \
+- *Ensured quality and timely delivery;* \
 \
 [:(fab fa-brands fa-power-bi fa-2xl):](https://powerbi.microsoft.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
