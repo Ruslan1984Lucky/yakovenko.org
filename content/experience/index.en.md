@@ -116,7 +116,7 @@
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
 
-### Senior Manual QA Engineer)Performance Test Analyst ###
+### Senior Manual QA Engineer/ Performance Test Analyst ###
 
 - *Participated in the development of 4 software projects;*  
 - *Conducted manual, automation, and performance testing;*  
