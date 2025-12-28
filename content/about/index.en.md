@@ -64,7 +64,6 @@ Completed the [Mednet SQA Testing](https://www.mednet.com.ar/en/elearning/) cour
 - Gives a strong edge over other QA candidates in healthcare software projects  
 
 [:(fab fa-solid fa-notes-medical fa-2xl):](https://www.mednet.com.ar/en/elearning/)  
-[:(fab fa-solid fa-user-shield fa-2xl):](https://www.mednet.com.ar/en/elearning/)  
 
 ---
 
