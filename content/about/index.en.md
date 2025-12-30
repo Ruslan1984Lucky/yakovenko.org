@@ -66,7 +66,7 @@ HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-micros
 
 ## 🔹 Other Top Projects
 
-- [Deloitte Intela – BI & Data Platform](https://www.deloitte.com/global/en/services/consulting/intela.html)  
+- [Deloitte Intela – Global Tax Platform](https://www.deloitte.com/global/en/services/tax/services/intela.html)  
 - [Oracle – ERP Cloud Services](https://play.google.com/store/apps/details?id=com.oracle.ofsc)  
 - [Ryanair – Mobile App](https://play.google.com/store/apps/details?id=com.ryanair.cheapflights)  
 - [BMC – Release Process Management](https://docs.bmc.com/docs/brpmsp7/home-1095677593.html)  
