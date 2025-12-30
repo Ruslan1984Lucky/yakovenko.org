@@ -64,7 +64,7 @@ HTTP/HTTPS, REST & SOAP APIs, JDBC/database interactions, microservice-to-micros
 
 ---
 
-## 🔹 Top Projects
+## Top Projects
 
 - [Deloitte Intela – Global Tax Platform](https://www.deloitte.com/ua/uk/services/tax/services/intela-by-deloitte.html)  
 - [Oracle – ERP Cloud Services](https://play.google.com/store/apps/details?id=com.oracle.ofsc)  
