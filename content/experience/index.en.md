@@ -9,7 +9,6 @@
 - *Coordinated defect management, release validation, and production readiness to ensure secure and reliable releases;*  
 - *Contributed to the development of an enterprise Cyber Deception, TI/CTI, and MSSP platform with multi-tenant architecture, SSO/LDAP authentication, and security monitoring capabilities;*  
 \
-\
 [:(fab fa-solid fa-user-lock fa-2xl):](https://en.wikipedia.org/wiki/Single_sign-on)
 [:(fab fa-solid fa-address-book fa-2xl):](https://ldap.com/)
 [:(fab fa-solid fa-shield-halved fa-2xl):](https://en.wikipedia.org/wiki/Managed_security_service)
@@ -19,6 +18,8 @@
 [:(fab fa-solid fa-crosshairs fa-2xl):](https://attack.mitre.org/)
 [:(fab fa-solid fa-shield-virus fa-2xl):](https://owasp.org/)
 &nbsp;
+
+
 
 
 ## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/) May 2024 - March 2025** ##
