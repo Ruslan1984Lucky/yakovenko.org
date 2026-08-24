@@ -2,12 +2,11 @@
 
 ### Lead QA Engineer ###
 
-- *Built and improved QA processes for an enterprise cybersecurity product;*  
-- *Owned product quality and coordinated testing activities within the development team;*  
-- *Designed and maintained the test strategy, test documentation, and comprehensive test coverage;*  
-- *Performed end-to-end functional, API, integration, performance, regression, and release testing;*  
-- *Coordinated defect management, release validation, and production readiness to ensure secure and reliable releases;*  
-- *Contributed to the development of an enterprise Cyber Deception, TI/CTI, and MSSP platform with multi-tenant architecture, SSO/LDAP authentication, and security monitoring capabilities;*  
+- *Led product quality and improved QA processes;*
+- *Developed test strategy, documentation, and test coverage;*
+- *Performed functional, API, integration, automation, performance, regression, and release testing;*
+- *Coordinated defect management and release readiness;*
+- *Tested Cyber Deception, TI/CTI, MSSP, multi-tenant, and SSO/LDAP functionality;*
 
 [:(fab fa-solid fa-user-lock fa-2xl):](https://en.wikipedia.org/wiki/Single_sign-on)
 [:(fab fa-solid fa-address-book fa-2xl):](https://ldap.com/)
