@@ -12,7 +12,7 @@ I have extensive experience in software testing, performance engineering, and da
 
 I am a strong Performance Test Engineer with extensive hands-on experience in designing and executing performance and load testing across multiple system layers, including HTTP/HTTPS, REST and SOAP APIs, JDBC/database interactions, microservice-to-microservice communication, and backend integration layers.
 
-My work focuses on validating system throughput, response times, concurrency limits, resource utilization, and identifying bottlenecks to ensure the reliability, scalability, and stability of complex enterprise, data-driven, cybersecurity, and integration-heavy solutions under real-world and peak-load conditions.
+My work focuses on validating system throughput, response times, concurrency limits, resource utilization, and identifying bottlenecks to ensure the reliability, scalability, and stability of complex enterprise, data-driven, cybersecurity, and integration-heavy solutions under real-world and peak-load conditions
 
 - Recognized by EPAM for excellence in Performance and Load Testing of DMS integration solutions;
 - Hands-on experience with JMeter, LoadRunner, Postman, and other load-testing tools;
