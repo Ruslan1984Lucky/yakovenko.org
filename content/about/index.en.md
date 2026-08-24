@@ -2,7 +2,7 @@
 
 ### (Data / Backend / API / Performance / Automation)
 
-I am a Senior QA Engineer with 12+ years of experience focused on data-driven, backend-heavy, and [enterprise cybersecurity systems](https://www.labyrinth.tech/). I help teams identify quality risks early, ensure data consistency across pipelines, and deliver secure and stable releases in complex enterprise environments.
+I am a Senior QA Engineer with 12+ years of experience focused on data-driven, backend-heavy, and enterprise cybersecurity systems. I help teams identify quality risks early, ensure data consistency across pipelines, and deliver secure and stable releases in complex enterprise environments.
 
 I have extensive experience in software testing, performance engineering, and data-driven quality assurance. Over the course of my career, I have contributed to 19 medium- to large-scale international projects for clients in the USA, Canada, Europe, and Australia. These projects included web, cloud, mobile, desktop, embedded, and cross-platform solutions, such as enterprise BI, ERP, CRM, and DMS systems; fintech and tax platforms; e-commerce and logistics solutions; hosting and cloud services; airline mobile applications; gaming platforms; retail point-of-sale (POS) systems; healthcare and medical data platforms; cybersecurity products; as well as internal corporate systems integrated with complex third-party services and standalone products.
 
