@@ -1,14 +1,14 @@
-# Senior QA Engineer | Enterprise, Data & Cybersecurity Platforms
+# <span style="color:#2F9FC3;">Senior QA Engineer | Enterprise, Data & Cybersecurity Platforms</span>
 
 ### (Data / Backend / API / Performance / Automation)
 
-I am a Senior QA Engineer with 12+ years of experience focused on data-driven, backend-heavy, and enterprise cybersecurity systems. I help teams identify quality risks early, ensure data consistency across pipelines, and deliver secure and stable releases in complex enterprise environments.
+I am a Senior QA Engineer with 13+ years of experience focused on data-driven, backend-heavy, and enterprise cybersecurity systems. I help teams identify quality risks early, ensure data consistency across pipelines, and deliver secure and stable releases in complex enterprise environments.
 
 I have extensive experience in software testing, performance engineering, and data-driven quality assurance. Over the course of my career, I have contributed to 19 medium- to large-scale international projects for clients in the USA, Canada, Europe, and Australia. These projects included web, cloud, mobile, desktop, embedded, and cross-platform solutions, such as enterprise BI, ERP, CRM, and DMS systems; fintech and tax platforms; e-commerce and logistics solutions; hosting and cloud services; airline mobile applications; gaming platforms; retail point-of-sale (POS) systems; healthcare and medical data platforms; cybersecurity products; as well as internal corporate systems integrated with complex third-party services and standalone products.
 
 ---
 
-## Performance QA Expertise
+## <span style="color:#2F9FC3;">Performance QA Expertise</span>
 
 I am a strong Performance Test Engineer with extensive hands-on experience in designing and executing performance and load testing across multiple system layers, including HTTP/HTTPS, REST and SOAP APIs, JDBC/database interactions, microservice-to-microservice communication, and backend integration layers.
 
@@ -27,7 +27,7 @@ My work focuses on validating system throughput, response times, concurrency lim
 
 ---
 
-## Automation & QA Expertise
+## <span style="color:#2F9FC3;">Automation & QA Expertise</span>
 
 - Moderate to advanced automation skills with the ability to implement, extend, and maintain automation scripts;
 - Developed automated tests for UI, API, and integration scenarios, improving test coverage and release reliability;
@@ -44,7 +44,7 @@ My work focuses on validating system throughput, response times, concurrency lim
 
 ---
 
-## Latest Role
+## <span style="color:#2F9FC3;">Latest Role</span>
 
 ### **[Labyrinth Security Solutions](https://www.labyrinth.tech/)**
 
@@ -74,9 +74,9 @@ I contributed to the development and quality assurance of multi-tenancy, SSO/LDA
 
 ---
 
-## Previous Key Role
+## <span style="color:#2F9FC3;">Previous Key Role</span>
 
-### **QA Coach @ Deloitte Intela**
+### **QA Coach @ [Deloitte](https://www.deloitte.com/global/en.html) — [Intela](https://www.deloitte.com/global/en/services/tax/services/intela-by-deloitte.html)**
 
 Led QA activities for BI and Data pipelines across 15 Scrum teams.
 
@@ -98,10 +98,10 @@ Led QA activities for BI and Data pipelines across 15 Scrum teams.
 
 ---
 
-## Top Projects
+## <span style="color:#2F9FC3;">Top Projects</span>
 
 - [Labyrinth Deception Platform – Enterprise Cyber Deception, TI/CTI & MSSP](https://www.labyrinth.tech/)
-- [Deloitte Intela – Global Tax Platform](https://www.deloitte.com/ua/uk/services/tax/services/intela-by-deloitte.html)
+- [Deloitte](https://www.deloitte.com/global/en.html) — [Intela Global Tax Platform](https://www.deloitte.com/global/en/services/tax/services/intela-by-deloitte.html)
 - [Oracle – ERP Cloud Services](https://play.google.com/store/apps/details?id=com.oracle.ofsc)
 - [Ryanair – Mobile App](https://play.google.com/store/apps/details?id=com.ryanair.cheapflights)
 - [BMC – Release Process Management](https://docs.bmc.com/docs/brpmsp7/home-1095677593.html)
@@ -115,7 +115,7 @@ Led QA activities for BI and Data pipelines across 15 Scrum teams.
 
 ---
 
-## Healthcare QA & Practical Experience
+## <span style="color:#2F9FC3;">Healthcare QA & Practical Experience</span>
 
 I have hands-on experience in developing and testing healthcare software, including:
 
@@ -133,7 +133,7 @@ Completed the Mednet SQA Testing course and certification focused on quality ass
 
 ---
 
-## Expertise / Core Skills
+## <span style="color:#2F9FC3;">Expertise / Core Skills</span>
 
 - Testing and QA: SDLC, SQA methodologies, functional and technical specification analysis, regression, exploratory, and integration testing;
 - Cybersecurity QA: Cyber Deception, TI/CTI, MSSP, multi-tenancy, SSO/LDAP, role-based access, threat monitoring, and OWASP security practices;
@@ -148,8 +148,8 @@ Completed the Mednet SQA Testing course and certification focused on quality ass
 
 ---
 
-## Contact Me
+## <span style="color:#2F9FC3;">Contact Me</span>
 
-- 📧 ruslan@yakovenko.org
+- 📧 [ruslan@yakovenko.org](mailto:ruslan@yakovenko.org)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)
 - 📱 WhatsApp
