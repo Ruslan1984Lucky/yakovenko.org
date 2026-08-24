@@ -1,5 +1,3 @@
-Попрацював 7s
-
 ## **[Labyrinth Security Solutions](https://www.labyrinth.tech/) January 2026 - Present** ##
 
 ### **Lead QA Engineer** ###
