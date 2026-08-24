@@ -10,11 +10,15 @@
 - *Contributed to the development of an enterprise Cyber Deception, TI/CTI, and MSSP platform with multi-tenant architecture, SSO/LDAP authentication, and security monitoring capabilities;*  
 \
 \
-[:(fab fa-solid fa-shield-halved fa-2xl):](https://www.labyrinth.tech/)
-[:(fab fa-solid fa-network-wired fa-2xl):](https://www.labyrinth.tech/)
+[:(fab fa-solid fa-user-lock fa-2xl):](https://en.wikipedia.org/wiki/Single_sign-on)
+[:(fab fa-solid fa-address-book fa-2xl):](https://ldap.com/)
+[:(fab fa-solid fa-shield-halved fa-2xl):](https://en.wikipedia.org/wiki/Managed_security_service)
+[:(fab fa-solid fa-radar fa-2xl):](https://www.misp-project.org/)
 [:(fab fa-solid fa-gauge-high fa-2xl):](https://jmeter.apache.org/)
-[:(fab fa-solid fa-rocket fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-[:(fab fa-brands fa-jira fa-2xl):](https://www.atlassian.com/software/jira)
+[:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[:(fab fa-solid fa-crosshairs fa-2xl):](https://attack.mitre.org/)
+[:(fab fa-solid fa-shield-virus fa-2xl):](https://owasp.org/)
+&nbsp;
 &nbsp;
 
 ## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/) May 2024 - March 2025** ##
