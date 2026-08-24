@@ -1,5 +1,3 @@
-Попрацював 8s
-
 # Senior QA Engineer | Enterprise, Data & Cybersecurity Platforms
 
 ### (Data / Backend / API / Performance / Automation)
