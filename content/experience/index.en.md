@@ -1,26 +1,29 @@
+Попрацював 7s
+
 ## **[Labyrinth Security Solutions](https://www.labyrinth.tech/) January 2026 - Present** ##
 
-### Lead QA Engineer ###
+### **Lead QA Engineer** ###
 
-- *Led product quality and improved QA processes;*
-- *Developed test strategy, documentation, and test coverage;*
-- *Performed functional, API, integration, automation, performance, regression, and release testing;*
-- *Coordinated defect management and release readiness;*
-- *Tested Cyber Deception, TI/CTI, MSSP, multi-tenant, and SSO/LDAP functionality;*
+- *Led product quality and improved QA processes;*  
+- *Developed test strategy, documentation, and test coverage;*  
+- *Performed functional, API, integration, automation, performance, regression, and release testing;*  
+- *Coordinated defect management and release readiness;*  
+- *Tested Cyber Deception, TI/CTI, MSSP, multi-tenant, and SSO/LDAP functionality;*  
 
-[:(fab fa-solid fa-user-lock fa-2xl):](https://en.wikipedia.org/wiki/Single_sign-on)
-[:(fab fa-solid fa-address-book fa-2xl):](https://ldap.com/)
-[:(fab fa-solid fa-shield-halved fa-2xl):](https://en.wikipedia.org/wiki/Managed_security_service)
-[:(fab fa-solid fa-radar fa-2xl):](https://www.misp-project.org/)
-[:(fab fa-solid fa-gauge-high fa-2xl):](https://jmeter.apache.org/)
-[:(fab fa-brands fa-js fa-2xl):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[:(fab fa-solid fa-crosshairs fa-2xl):](https://attack.mitre.org/)
-[:(fab fa-solid fa-shield-virus fa-2xl):](https://owasp.org/)
-&nbsp;
+[:(fab fa-solid fa-user-lock fa-lg):](https://en.wikipedia.org/wiki/Single_sign-on)
+[:(fab fa-solid fa-address-book fa-lg):](https://ldap.com/)
+[:(fab fa-solid fa-shield-halved fa-lg):](https://en.wikipedia.org/wiki/Managed_security_service)
+[:(fab fa-solid fa-radar fa-lg):](https://www.misp-project.org/)
+[:(fab fa-solid fa-gauge-high fa-lg):](https://jmeter.apache.org/)
+[:(fab fa-brands fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[:(fab fa-solid fa-crosshairs fa-lg):](https://attack.mitre.org/)
+[:(fab fa-solid fa-shield-virus fa-lg):](https://owasp.org/)
+
+---
 
 ## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/) May 2024 - March 2025** ##
 
-### Performance and Automation QA Engineer ###
+### **Performance and Automation QA Engineer** ###
 
 - *Performed automation and load/performance testing;*  
 - *Wrote automation tests using Protractor JavaScript;*  
@@ -28,16 +31,17 @@
 - *Key contributor in the SCAC (Standard Carrier Alpha Code) project;*  
 - *Ensured quality and timely delivery;*  
 
-[:(fab fa-brands fa-power-bi fa-2xl):](https://powerbi.microsoft.com/)
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-&nbsp;
+[:(fab fa-brands fa-power-bi fa-lg):](https://powerbi.microsoft.com/)
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket fa-lg):](https://azure.microsoft.com/en-us/products/devops)
+
+---
 
 ## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
 
-### QA Coach/ General QA Engineer ###
+### **QA Coach/ General QA Engineer** ###
 
 - *Worked on two Business Intelligence (BI) projects;*  
 - *Designed and implemented Cloud infrastructure;*  
@@ -45,16 +49,17 @@
 - *Conducted manual and automation testing;*  
 - *Played a standalone QA role within a small POD team;*  
 
-[:(fab fa-brands fa-power-bi fa-2xl):](https://powerbi.microsoft.com/)
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-database fa-2xl):](https://www.mongodb.com/)
-&nbsp;
+[:(fab fa-brands fa-power-bi fa-lg):](https://powerbi.microsoft.com/)
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-solid fa-database fa-lg):](https://www.mongodb.com/)
+
+---
 
 ## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
 
-### Senior Manual QA Engineer ###
+### **Senior Manual QA Engineer** ###
 
 - *Conducted manual and automation testing;*  
 - *Wrote automation tests using Protractor JavaScript;*  
@@ -62,16 +67,17 @@
 - *Ensured software met functional and business requirements;*  
 - *Collaborated with development to maintain quality standards;*  
 
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
-[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
-&nbsp;
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-brands fa-github fa-lg):](https://github.com/)
+[:(fab fa-brands fa-jenkins fa-lg):](https://www.jenkins.io/)
+
+---
 
 ## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
 
-### Senior Manual QA Engineer ###
+### **Senior Manual QA Engineer** ###
 
 - *Conducted manual and automation testing;*  
 - *Designed and implemented cloud infrastructure;*  
@@ -79,16 +85,17 @@
 - *Developed and optimized data and application architecture;*  
 - *Collaborated with teams to ensure high-quality delivery;*  
 
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
-[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
-&nbsp;
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-brands fa-github fa-lg):](https://github.com/)
+[:(fab fa-brands fa-jenkins fa-lg):](https://www.jenkins.io/)
+
+---
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
 
-### Senior Manual QA Engineer ###
+### **Senior Manual QA Engineer** ###
 
 - *Conducted manual and automation testing;*  
 - *Worked independently as the only QA engineer on the project;*  
@@ -96,14 +103,15 @@
 - *Coordinated with development and product teams for quality assurance;*  
 - *Prepared test documentation and reports;*  
 
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-&nbsp;
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+
+---
 
 ## **[Global Logic](https://www.globallogic.com/ua/) April 2017 - December 2017** ##
 
-### Senior Manual QA Engineer ###
+### **Senior Manual QA Engineer** ###
 
 - *Conducted manual testing for a healthcare project with BI components;*  
 - *Performed localization testing and prepared translation tables;*  
@@ -111,14 +119,15 @@
 - *Ensured defect tracking and reporting;*  
 - *Maintained quality standards throughout the project lifecycle;*  
 
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-&nbsp;
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+
+---
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
 
-### General QA Engineer ###
+### **General QA Engineer** ###
 
 - *Completed SQA certification training for healthcare projects;*  
 - *Conducted manual and automation testing;*  
@@ -126,16 +135,17 @@
 - *Prepared test documentation and reports;*  
 - *Ensured software met functional and quality standards;*  
 
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-[:(fab fa-brands fa-github fa-2xl):](https://github.com/)
-[:(fab fa-brands fa-jenkins fa-2xl):](https://www.jenkins.io/)
-&nbsp;
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-brands fa-github fa-lg):](https://github.com/)
+[:(fab fa-brands fa-jenkins fa-lg):](https://www.jenkins.io/)
+
+---
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
 
-### Senior Manual QA Engineer/ Performance Test Analyst ###
+### **Senior Manual QA Engineer/ Performance Test Analyst** ###
 
 - *Participated in the development of 4 software projects;*  
 - *Conducted manual, automation, and performance testing;*  
@@ -143,16 +153,17 @@
 - *Prepared test documentation and reports;*  
 - *Coordinated with development and product teams for quality assurance;*  
 
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws fa-2xl):](https://aws.amazon.com/)
-[:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-&nbsp;
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-brands fa-aws fa-lg):](https://aws.amazon.com/)
+[:(fab fa-solid fa-tachometer-alt fa-lg):](https://jmeter.apache.org/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+
+---
 
 ## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
 
-### Abiliton Intermediate QC Engineer ###
+### **Abiliton Intermediate QC Engineer** ###
 
 - *Participated in development of 3 software projects (BI, desktop, cross-platform tools);*  
 - *Conducted manual and automation testing;*  
@@ -160,16 +171,17 @@
 - *Substituted for Team Lead when needed;*  
 - *Prepared test plans, cases, and reports;*  
 
-[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-2xl):](https://azure.microsoft.com/en-us/products/devops)
-&nbsp;
+[:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-solid fa-rocket fa-lg):](https://azure.microsoft.com/en-us/products/devops)
+
+---
 
 ## **[OSF Global Services](https://osf-global.com/) June 2011 – July 2013** ##
 
-### QA Engineer ###
+### **QA Engineer** ###
 
 - *Performed manual testing for e-commerce solutions and custom applications;*  
 - *Assisted in developing test plans, test cases, and execution;*  
@@ -177,10 +189,11 @@
 - *Conducted regression testing and defect reporting;*  
 - *Contributed to improving QA processes and automation;*  
 
-[:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)
-[:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
-&nbsp;
+[:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
+[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+
+---
 
 ## **For previous experience please visit my [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/) page** ##
