@@ -1,4 +1,4 @@
-<h1 style="color:#2F9FC3 !important; font-weight:800;">Senior QA Engineer | Enterprise, Data & Cybersecurity Platforms</h1>
+# Senior QA Engineer | Enterprise, Data & Cybersecurity Platforms
 
 ### (Data / Backend / API / Performance / Automation)
 
@@ -8,13 +8,13 @@ I have extensive experience in software testing, performance engineering, and da
 
 ---
 
-<h2 style="color:#2F9FC3 !important; font-weight:800;">Performance QA Expertise</h2>
+## Performance QA Expertise
 
 I am a strong Performance Test Engineer with extensive hands-on experience in designing and executing performance and load testing across multiple system layers, including HTTP/HTTPS, REST and SOAP APIs, JDBC/database interactions, microservice-to-microservice communication, and backend integration layers.
 
 My work focuses on validating system throughput, response times, concurrency limits, resource utilization, and identifying bottlenecks to ensure the reliability, scalability, and stability of complex enterprise, data-driven, cybersecurity, and integration-heavy solutions under real-world and peak-load conditions.
 
-- Recognized by EPAM for excellence in Performance and Load Testing of DMS integration solutions;
+- Recognized by EPAM for excellence in performance and load testing of DMS integration solutions;
 - Hands-on experience with JMeter, LoadRunner, Postman, and other load-testing tools;
 
 **Technologies & Tools:**  
@@ -27,7 +27,7 @@ My work focuses on validating system throughput, response times, concurrency lim
 
 ---
 
-<h2 style="color:#2F9FC3 !important; font-weight:800;">Automation & QA Expertise</h2>
+## Automation & QA Expertise
 
 - Moderate to advanced automation skills with the ability to implement, extend, and maintain automation scripts;
 - Developed automated tests for UI, API, and integration scenarios, improving test coverage and release reliability;
@@ -44,7 +44,7 @@ My work focuses on validating system throughput, response times, concurrency lim
 
 ---
 
-<h2 style="color:#2F9FC3 !important; font-weight:800;">Latest Role</h2>
+## Latest Role
 
 ### **[Labyrinth Security Solutions](https://www.labyrinth.tech/)**
 
@@ -74,11 +74,11 @@ I contributed to the development and quality assurance of multi-tenancy, SSO/LDA
 
 ---
 
-<h2 style="color:#2F9FC3 !important; font-weight:800;">Previous Key Role</h2>
+## Previous Key Role
 
 ### **QA Coach @ [Deloitte](https://www.deloitte.com/global/en.html) — [Intela](https://www.deloitte.com/global/en/services/tax/services/intela-by-deloitte.html)**
 
-Led QA activities for BI and Data pipelines across 15 Scrum teams.
+Led QA activities for BI and data pipelines across 15 Scrum teams.
 
 **Responsibilities:**
 
@@ -98,7 +98,7 @@ Led QA activities for BI and Data pipelines across 15 Scrum teams.
 
 ---
 
-<h2 style="color:#2F9FC3 !important; font-weight:800;">Top Projects</h2>
+## Top Projects
 
 - [Labyrinth Deception Platform – Cyber Deception, TI/CTI & MSSP](https://www.labyrinth.tech/)
 - [Deloitte Intela – Global Tax Platform](https://www.deloitte.com/global/en/services/tax/services/intela-by-deloitte.html)
@@ -115,7 +115,7 @@ Led QA activities for BI and Data pipelines across 15 Scrum teams.
 
 ---
 
-<h2 style="color:#2F9FC3 !important; font-weight:800;">Healthcare QA & Practical Experience</h2>
+## Healthcare QA & Practical Experience
 
 I have hands-on experience in developing and testing healthcare software, including:
 
@@ -133,7 +133,7 @@ Completed the Mednet SQA Testing course and certification focused on quality ass
 
 ---
 
-<h2 style="color:#2F9FC3 !important; font-weight:800;">Expertise / Core Skills</h2>
+## Expertise / Core Skills
 
 - Testing and QA: SDLC, SQA methodologies, functional and technical specification analysis, regression, exploratory, and integration testing;
 - Cybersecurity QA: Cyber Deception, TI/CTI, MSSP, multi-tenancy, SSO/LDAP, role-based access, threat monitoring, and OWASP security practices;
@@ -148,7 +148,7 @@ Completed the Mednet SQA Testing course and certification focused on quality ass
 
 ---
 
-<h2 style="color:#2F9FC3 !important; font-weight:800;">Contact Me</h2>
+## Contact Me
 
 - 📧 [ruslan@yakovenko.org](mailto:ruslan@yakovenko.org)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)
