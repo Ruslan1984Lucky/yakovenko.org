@@ -1,7 +1,3 @@
-Попрацював 10s
-
-Виправив усі заголовки на HTML-формат із примусовим кольором і повернув правильний розмір заголовків для Automation & QA Expertise та Latest Role. Також прибрав слово Enterprise з назви Labyrinth у Top Projects.
-
 <h1 style="color:#2F9FC3 !important; font-weight:800;">Senior QA Engineer | Enterprise, Data & Cybersecurity Platforms</h1>
 
 ### (Data / Backend / API / Performance / Automation)
