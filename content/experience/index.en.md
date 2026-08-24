@@ -8,7 +8,7 @@
 - *Performed end-to-end functional, API, integration, performance, regression, and release testing;*  
 - *Coordinated defect management, release validation, and production readiness to ensure secure and reliable releases;*  
 - *Contributed to the development of an enterprise Cyber Deception, TI/CTI, and MSSP platform with multi-tenant architecture, SSO/LDAP authentication, and security monitoring capabilities;*  
-\
+
 [:(fab fa-solid fa-user-lock fa-2xl):](https://en.wikipedia.org/wiki/Single_sign-on)
 [:(fab fa-solid fa-address-book fa-2xl):](https://ldap.com/)
 [:(fab fa-solid fa-shield-halved fa-2xl):](https://en.wikipedia.org/wiki/Managed_security_service)
@@ -19,9 +19,6 @@
 [:(fab fa-solid fa-shield-virus fa-2xl):](https://owasp.org/)
 &nbsp;
 
-
-
-
 ## **[NMFTA (National Motor Freight Traffic Association)](https://www.nmfta.org/) May 2024 - March 2025** ##
 
 ### Performance and Automation QA Engineer ###
@@ -31,8 +28,7 @@
 - *Delivered API services to enhance project functionality;*  
 - *Key contributor in the SCAC (Standard Carrier Alpha Code) project;*  
 - *Ensured quality and timely delivery;*  
-\
-\
+
 [:(fab fa-brands fa-power-bi fa-2xl):](https://powerbi.microsoft.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
@@ -49,8 +45,7 @@
 - *Developed and supported data architecture;*  
 - *Conducted manual and automation testing;*  
 - *Played a standalone QA role within a small POD team;*  
-\
-\
+
 [:(fab fa-brands fa-power-bi fa-2xl):](https://powerbi.microsoft.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
@@ -67,8 +62,7 @@
 - *Worked independently as the sole QA engineer on the project;*  
 - *Ensured software met functional and business requirements;*  
 - *Collaborated with development to maintain quality standards;*  
-\
-\
+
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
@@ -85,8 +79,7 @@
 - *Built and supported cloud applications from scratch;*  
 - *Developed and optimized data and application architecture;*  
 - *Collaborated with teams to ensure high-quality delivery;*  
-\
-\
+
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
@@ -103,8 +96,7 @@
 - *Validated software functionality against requirements;*  
 - *Coordinated with development and product teams for quality assurance;*  
 - *Prepared test documentation and reports;*  
-\
-\
+
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
@@ -119,8 +111,7 @@
 - *Collaborated with translation and development teams;*  
 - *Ensured defect tracking and reporting;*  
 - *Maintained quality standards throughout the project lifecycle;*  
-\
-\
+
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
@@ -135,8 +126,7 @@
 - *Participated as part of a small QA team;*  
 - *Prepared test documentation and reports;*  
 - *Ensured software met functional and quality standards;*  
-\
-\
+
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
 [:(fab fa-solid fa-layer-group fa-2xl):](https://www.databricks.com/)
@@ -153,8 +143,7 @@
 - *Provided DBA expertise and performance optimization;*  
 - *Prepared test documentation and reports;*  
 - *Coordinated with development and product teams for quality assurance;*  
-\
-\
+
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-brands fa-aws fa-2xl):](https://aws.amazon.com/)
 [:(fab fa-solid fa-tachometer-alt fa-2xl):](https://jmeter.apache.org/)
@@ -171,8 +160,7 @@
 - *Worked in both small and large QA teams;*  
 - *Substituted for Team Lead when needed;*  
 - *Prepared test plans, cases, and reports;*  
-\
-\
+
 [:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
@@ -189,8 +177,7 @@
 - *Worked closely with development teams to ensure quality releases;*  
 - *Conducted regression testing and defect reporting;*  
 - *Contributed to improving QA processes and automation;*  
-\
-\
+
 [:(fab fa-brands fa-java fa-2xl):](https://www.java.com/)
 [:(fab fa-solid fa-database fa-2xl):](https://www.microsoft.com/en-us/sql-server/)
 [:(fab fa-solid fa-cloud fa-2xl):](https://azure.microsoft.com/)
