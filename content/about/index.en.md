@@ -48,19 +48,26 @@ My work focuses on validating system throughput, response times, concurrency lim
 
 ### **[Labyrinth Security Solutions](https://www.labyrinth.tech/)**
 
-#### Lead QA Engineer
+#### Lead QA Engineer | January 2026 – Present
 
-The [Labyrinth Deception Platform](https://www.labyrinth.tech/) is an enterprise Cyber Deception, TI/CTI, and MSSP solution designed to detect cyber threats at the earliest stage across distributed and multi-tenant environments.
+The [Labyrinth Deception Platform](https://www.labyrinth.tech/) is an advanced cybersecurity solution that uses realistic decoy environments to detect, analyze, and stop attackers before they cause business damage. It protects enterprises, government organizations, critical infrastructure, and MSSPs across distributed and multi-tenant environments.
 
-I contributed to the development and quality assurance of multi-tenancy, SSO/LDAP authentication, role-based access, Worker Nodes, token management, honeynets, deception points, security alerts, audit logs, and threat intelligence capabilities.
+As Lead QA Engineer and QA Owner, I drive overall product quality, define the testing strategy, strengthen QA processes, manage quality risks, and coordinate release readiness across development and product teams.
 
-**Responsibilities:**
+During this period, LABYRINTH achieved major international recognition:
 
-- Led product quality and improved QA processes;
-- Developed test strategy, documentation, and test coverage;
-- Performed functional, API, integration, automation, performance, regression, and release testing;
-- Coordinated defect management and release readiness;
-- Tested Cyber Deception, TI/CTI, MSSP, multi-tenant, and SSO/LDAP functionality;
+- Best Cybersecurity Innovation Europe — Cybersec Europe 2026
+- Rising Star of the Year — InfoSec SEE 2026
+
+These awards strengthened LABYRINTH’s position among Europe’s most innovative cybersecurity companies.
+
+**Key Achievements:**
+
+- Became the QA Owner responsible for the overall quality of the Labyrinth Deception Platform
+- Built and established the product’s complete QA approach, processes, strategy, and documentation
+- Took full ownership of functional, API, integration, performance, automation, regression, and release testing
+- Became the key quality expert connecting product, development, and business decisions throughout the entire release lifecycle
+- Ensured the successful delivery of several major releases by managing quality risks from development through production
 
 **Technologies & Tools:**  
 [:(fab fa-solid fa-user-lock fa-lg):](https://en.wikipedia.org/wiki/Single_sign-on)
