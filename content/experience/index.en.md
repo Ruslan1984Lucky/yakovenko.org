@@ -181,11 +181,11 @@
 
 ### **QA Engineer** ###
 
-- *Performed manual testing for e-commerce solutions and custom applications;*  
-- *Assisted in developing test plans, test cases, and execution;*  
-- *Worked closely with development teams to ensure quality releases;*  
-- *Conducted regression testing and defect reporting;*  
-- *Contributed to improving QA processes and automation;*  
+- *Performed manual and automation testing of CRM, BI, and data-driven applications;*  
+- *Tested data import, data processing, advanced search, reporting, RBAC, and administration functionality;*  
+- *Performed integration testing with Facebook, Salesforce, and other CRM/DMS systems;*  
+- *Tested ETL processes, stored procedures, Data Warehouse, data transformation, aggregation, and BI reporting;*  
+- *Developed and maintained automated tests using Selenium WebDriver, Java, and JUnit;*  
 
 [:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
 [:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
