@@ -177,20 +177,21 @@
 
 ---
 
-## **[OSF Global Services](https://osf-global.com/) June 2011 – July 2013** ##
+## **[OSF Global Services](https://osf-global.com/) June 2011 – August 2013** ##
 
 ### **QA Engineer** ###
 
 - *Performed manual and automation testing of CRM, BI, and data-driven applications;*  
 - *Tested data import, data processing, advanced search, reporting, RBAC, and administration functionality;*  
-- *Performed integration testing with Facebook, Salesforce, and other CRM/DMS systems;*  
-- *Tested ETL processes, stored procedures, Data Warehouse, data transformation, aggregation, and BI reporting;*  
+- *Performed integration testing with Facebook and Salesforce, including data collection and synchronization;*  
+- *Performed database, ETL, and Data Warehouse testing, including stored procedures, data transformation, processing, aggregation, Star Schema, BI reporting, and FusionCharts visualization;*  
 - *Developed and maintained automated tests using Selenium WebDriver, Java, and JUnit;*  
 
 [:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
 [:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-solid fa-gears fa-lg):](https://www.selenium.dev/)
+[:(fab fa-solid fa-chart-column fa-lg):](https://www.fusioncharts.com/)
+[:(fab fa-brands fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 
 ---
 
