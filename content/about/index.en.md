@@ -8,6 +8,18 @@ I have extensive experience in software testing, performance engineering, and da
 
 ---
 
+## Data & BI QA Expertise
+
+I have hands-on Data QA and BI testing experience across multiple projects, starting from the early stages of my QA career. My experience includes testing operational databases, ETL processes, Data Warehouses, Star Schema structures, data transformations, aggregation, reporting, dashboards, and data visualization.
+
+- Tested MS SQL, Oracle, PostgreSQL, and other database-driven systems;
+- Validated ETL processes, stored procedures, data transformation, processing, aggregation, and synchronization;
+- Tested Data Warehouse and Data Lake solutions, including Star Schema structures;
+- Tested and developed BI reports, dashboards, and data visualizations using Power BI and FusionCharts;
+- Validated data consistency across source systems, databases, integrations, APIs, and reporting layers;
+
+---
+
 ## Performance QA Expertise
 
 I am a strong Performance Test Engineer with extensive hands-on experience in designing and executing performance and load testing across multiple system layers, including HTTP/HTTPS, REST and SOAP APIs, JDBC/database interactions, microservice-to-microservice communication, and backend integration layers.
