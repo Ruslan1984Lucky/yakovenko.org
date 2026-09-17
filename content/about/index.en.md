@@ -1,8 +1,8 @@
-# Senior QA Engineer | Enterprise, Data & Cybersecurity Platforms
+# Senior / Lead QA Engineer | Performance, Data & Cybersecurity
 
 ### (Data / Backend / API / Performance / Automation)
 
-I am a Senior QA Engineer with 13+ years of experience focused on data-driven, backend-heavy, and enterprise cybersecurity systems. I help teams identify quality risks early, ensure data consistency across pipelines, and deliver secure and stable releases in complex enterprise environments.
+I am a Senior / Lead QA Engineer with 13+ years of hands-on experience in software quality assurance, performance engineering, test automation, Data/BI testing, and cybersecurity. I have worked across the full software development lifecycle as a QA Engineer, Senior QA Engineer, Performance QA Engineer, Automation QA Engineer, QA Coach, and QA Owner while remaining deeply involved in hands-on testing and product development.
 
 I have extensive experience in software testing, performance engineering, and data-driven quality assurance. Over the course of my career, I have contributed to 19 medium- to large-scale international projects for clients in the USA, Canada, Europe, and Australia. These projects included web, cloud, mobile, desktop, embedded, and cross-platform solutions, such as enterprise BI, ERP, CRM, and DMS systems; fintech and tax platforms; e-commerce and logistics solutions; hosting and cloud services; airline mobile applications; gaming platforms; retail point-of-sale (POS) systems; healthcare and medical data platforms; cybersecurity products; as well as internal corporate systems integrated with complex third-party services and standalone products.
 
@@ -10,13 +10,14 @@ I have extensive experience in software testing, performance engineering, and da
 
 ## Data & BI QA Expertise
 
-I have hands-on Data QA and BI testing experience across multiple projects, starting from the early stages of my QA career. My experience includes testing operational databases, ETL processes, Data Warehouses, Star Schema structures, data transformations, aggregation, reporting, dashboards, and data visualization.
+I have extensive hands-on experience in Data QA and BI testing across multiple enterprise and data-driven projects, starting from the early stages of my QA career. I have tested complete data flows from source systems and APIs through operational databases, ETL processes, Data Lakes and Data Warehouses to BI reports, dashboards, and data visualizations.
 
-- Tested MS SQL, Oracle, PostgreSQL, and other database-driven systems;
-- Validated ETL processes, stored procedures, data transformation, processing, aggregation, and synchronization;
-- Tested Data Warehouse and Data Lake solutions, including Star Schema structures;
-- Tested and developed BI reports, dashboards, and data visualizations using Power BI and FusionCharts;
-- Validated data consistency across source systems, databases, integrations, APIs, and reporting layers;
+- Tested MS SQL Server, Oracle, PostgreSQL, MongoDB, and other database-driven systems;
+- Validated stored procedures, ETL processes, data import, synchronization, transformation, processing, aggregation, and migration;
+- Tested Data Warehouse and Data Lake solutions, including Star Schema structures and complex data pipelines;
+- Validated data consistency and integrity across source systems, APIs, integrations, databases, ETL layers, and reporting systems;
+- Tested and developed BI reports, dashboards, insights, and data visualizations using Power BI and FusionCharts;
+- Performed Data and BI testing across CRM, e-commerce, tax, logistics, and enterprise analytics platforms;
 
 ---
 
@@ -27,7 +28,7 @@ I am a strong Performance Test Engineer with extensive hands-on experience in de
 My work focuses on validating system throughput, response times, concurrency limits, resource utilization, and identifying bottlenecks to ensure the reliability, scalability, and stability of complex enterprise, data-driven, cybersecurity, and integration-heavy solutions under real-world and peak-load conditions.
 
 - Recognized by EPAM for excellence in performance and load testing of DMS integration solutions;
-- Hands-on experience with JMeter, LoadRunner, Postman, and other load-testing tools;
+- Hands-on experience with JMeter, Postman, and other performance and API testing tools;
 
 **Technologies & Tools:**  
 [:(fab fa-solid fa-tachometer-alt fa-lg):](https://jmeter.apache.org/)
@@ -41,8 +42,10 @@ My work focuses on validating system throughput, response times, concurrency lim
 
 ## Automation & QA Expertise
 
+I have hands-on experience in developing, extending, and maintaining test automation for UI, integration, and regression testing across enterprise, web, and data-driven applications. My automation background includes Selenium WebDriver with Java/JUnit, Protractor with JavaScript, and integration testing.
+
 - Moderate to advanced automation skills with the ability to implement, extend, and maintain automation scripts;
-- Developed automated tests for UI, API, and integration scenarios, improving test coverage and release reliability;
+- Developed automated tests for UI and integration scenarios, improving test coverage and release reliability;
 - Maintained automation frameworks and developed Selenium WebDriver tests using Java/JUnit and Protractor JavaScript;
 - Graduated from SoftServe IT Academy with a specialization in Automation of Testing Processes and Quality Assurance of Modern Software Systems;
 
@@ -158,11 +161,11 @@ Completed the Mednet SQA Testing course and certification focused on quality ass
 - Testing and QA: SDLC, SQA methodologies, functional and technical specification analysis, regression, exploratory, and integration testing;
 - Cybersecurity QA: Cyber Deception, TI/CTI, MSSP, multi-tenancy, SSO/LDAP, role-based access, threat monitoring, and OWASP security practices;
 - Performance: Performance, load, stress, scalability, stability, and endurance testing;
-- Automation: UI, API, integration, and regression test automation;
+- Automation: UI, integration, and regression test automation;
 - Data and BI: SQL Server, Oracle DB, PostgreSQL, MongoDB, Data Lake, Databricks, ETL, and Power BI;
 - Programming: Java, JavaScript, basic OOP, and scripting;
 - Web and API: HTML, XML, JSON, REST, SOAP, JDBC, and Web UI;
-- Automation Tools: Selenium, Protractor, JMeter, Postman, SoapUI, ReadyAPI, and LoadRunner;
+- Automation & Testing Tools: Selenium, Protractor, JMeter, Postman, SoapUI, and ReadyAPI;
 - Cloud and DevOps: Azure, Docker, Jenkins, CI/CD, GitHub, and Azure DevOps;
 - Healthcare QA: Mednet-certified with experience in medical monitoring, patient data, localization, and compliance systems;
 
@@ -170,6 +173,6 @@ Completed the Mednet SQA Testing course and certification focused on quality ass
 
 ## Contact Me
 
-- 📧 [ruslan@yakovenko.org](mailto:ruslan@yakovenko.org)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)
-- 📱 WhatsApp
+[:(fas fa-envelope fa-lg):](mailto:ruslan@yakovenko.org)
+[:(fab fa-linkedin-in fa-lg):](https://www.linkedin.com/in/ruslan-yakovenko-85a66674/)
+[:(fab fa-whatsapp fa-lg):](https://wa.me/)
