@@ -163,11 +163,11 @@
 
 ### **Abiliton Intermediate QC Engineer / Automation QA** ###
 
-- *Worked as a core QA Engineer, contributing to the development and quality assurance of enterprise, web, desktop, cloud, e-commerce, and data-driven software products;*  
-- *Performed manual, automation, functional, integration, database, installation, regression, Data, BI, cross-platform, and end-to-end testing throughout the software development lifecycle;*  
-- *Tested enterprise Release Process Management solutions designed to manage and automate complex software development, delivery, and release processes across multiple platforms;*  
-- *Tested cloud-based Document Management Systems, desktop add-ons, and application integrations connecting desktop software with centralized cloud services;*  
-- *Performed development and quality assurance of an IBM e-commerce and Digital Marketing platform combining customer data, behavioral analytics, product recommendation technologies, and Business Intelligence;*
+- *Performed manual, automation, integration, database, and cross-platform testing;*  
+- *Tested BMC enterprise Release Process Management solutions;*  
+- *Tested NetDocuments cloud DMS and desktop application integrations;*  
+- *Worked on IBM Product Recommendations and e-commerce personalization;*  
+- *Performed Data and BI testing, including customer behavior analytics and reporting;*  
 
 [:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
 [:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
@@ -185,11 +185,11 @@
 
 ### **QA Engineer** ###
 
-- *Performed manual and automation testing of CRM, BI, and data-driven applications;*  
-- *Tested data import, data processing, advanced search, reporting, RBAC, and administration functionality;*  
-- *Performed integration testing with Facebook and Salesforce, including data collection and synchronization;*  
-- *Performed database, ETL, and Data Warehouse testing, including stored procedures, data transformation, processing, aggregation, Star Schema, BI reporting, and FusionCharts visualization;*  
-- *Developed and maintained automated tests using Selenium WebDriver, Java, and JUnit;*  
+- *Performed manual and automation testing of CRM and BI applications;*  
+- *Tested data import, search, reporting, RBAC, and administration functionality;*  
+- *Tested Facebook and Salesforce integrations and data synchronization;*  
+- *Performed database, ETL, Data Warehouse, and BI testing;*  
+- *Developed automated tests using Selenium WebDriver, Java, and JUnit;*  
 
 [:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
 [:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
