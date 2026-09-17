@@ -161,7 +161,7 @@
 
 ## **[SoftServe](https://www.softserveinc.com/) August 2013 – March 2015** ##
 
-### **QA Engineer / Senior QA Engineer** ###
+### **Abiliton Intermediate QC Engineer / Automation QA** ###
 
 - *Worked as a core QA Engineer, contributing to the development and quality assurance of enterprise, web, desktop, cloud, e-commerce, and data-driven software products;*  
 - *Performed manual, automation, functional, integration, database, installation, regression, Data, BI, cross-platform, and end-to-end testing throughout the software development lifecycle;*  
