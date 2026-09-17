@@ -113,6 +113,7 @@ Led QA activities for BI and data pipelines across 15 Scrum teams.
 - [Ryanair – Mobile App](https://play.google.com/store/apps/details?id=com.ryanair.cheapflights)
 - [BMC – Release Process Management](https://docs.bmc.com/docs/brpmsp7/home-1095677593.html)
 - [Playson – Omnichannel Casino Games](https://playson.com/)
+* [IBM – Product Recommendations](https://www.redbooks.ibm.com/redpapers/pdfs/redp5046.pdf)
 - [Meest – E-commerce & Logistics Platform](https://meest.shopping/kz)
 - [Namecheap – Domain & Hosting Solutions](https://www.namecheap.com/)
 - [NetDocuments – Document Management](https://www.netdocuments.com/)
