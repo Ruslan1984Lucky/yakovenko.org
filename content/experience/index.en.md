@@ -159,21 +159,25 @@
 
 ---
 
-## **[Softserve Inc.](https://www.softserveinc.com/en-us) August 2013 - March 2015** ##
+## **[SoftServe](https://www.softserveinc.com/) August 2013 – March 2015** ##
 
-### **Abiliton Intermediate QC Engineer** ###
+### **QA Engineer / Senior QA Engineer** ###
 
-- *Participated in development of 3 software projects (BI, desktop, cross-platform tools);*  
-- *Conducted manual and automation testing;*  
-- *Worked in both small and large QA teams;*  
-- *Substituted for Team Lead when needed;*  
-- *Prepared test plans, cases, and reports;*  
+- *Worked as a core QA Engineer, contributing to the development and quality assurance of enterprise, web, desktop, cloud, e-commerce, and data-driven software products;*  
+- *Performed manual, automation, functional, integration, database, installation, regression, Data, BI, cross-platform, and end-to-end testing throughout the software development lifecycle;*  
+- *Tested enterprise Release Process Management solutions designed to manage and automate complex software development, delivery, and release processes across multiple platforms;*  
+- *Tested cloud-based Document Management Systems, desktop add-ons, and application integrations connecting desktop software with centralized cloud services;*  
+- *Performed development and quality assurance of an IBM e-commerce and Digital Marketing platform combining customer data, behavioral analytics, product recommendation technologies, and Business Intelligence;*
 
 [:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
 [:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-lg):](https://azure.microsoft.com/en-us/products/devops)
+[:(fab fa-solid fa-gem fa-lg):](https://www.ruby-lang.org/)
+[:(fab fa-brands fa-linux fa-lg):](https://www.linux.org/)
+[:(fab fa-brands fa-windows fa-lg):](https://www.microsoft.com/windows/)
+[:(fab fa-solid fa-cloud fa-lg):](https://www.netdocuments.com/)
+[:(fab fa-solid fa-chart-column fa-lg):](https://www.ibm.com/)
+[:(fab fa-solid fa-gears fa-lg):](https://www.selenium.dev/)
+[:(fab fa-brands fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 
 ---
 
