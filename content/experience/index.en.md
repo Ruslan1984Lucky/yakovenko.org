@@ -143,19 +143,20 @@
 
 ## **[Epam Systems](https://www.epam.com/) March 2015 - April 2016** ##
 
-### **Senior Manual QA Engineer/ Performance Test Analyst** ###
+### **Senior Manual QA Engineer / Performance Test Analyst** ###
 
-- *Participated in the development of 4 software projects;*  
-- *Conducted manual, automation, and performance testing;*  
-- *Provided DBA expertise and performance optimization;*  
-- *Prepared test documentation and reports;*  
-- *Coordinated with development and product teams for quality assurance;*  
+- *Worked on four international projects across DMS, retail/POS, interactive kiosk, and mobile application domains;*  
+- *Designed and performed performance testing with JMeter, identified system bottlenecks, and validated performance improvements;*  
+- *Developed and tested Canadian Tire retail solutions, including a multi-screen interactive kiosk and POS transaction system;*  
+- *Worked with PostgreSQL, Alfresco, Apache Solr, Adobe CQ5, Hybris, IBM WebSphere, XML, and hardware integrations;*  
+- *Contributed to development and regression testing of the Ryanair iOS and Android application for flight booking and passenger services;*  
 
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-brands fa-aws fa-lg):](https://aws.amazon.com/)
+[:(fab fa-solid fa-database fa-lg):](https://www.postgresql.org/)
 [:(fab fa-solid fa-tachometer-alt fa-lg):](https://jmeter.apache.org/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fab fa-solid fa-magnifying-glass fa-lg):](https://solr.apache.org/)
+[:(fab fa-solid fa-file-code fa-lg):](https://www.ibm.com/products/websphere-application-server)
+[:(fab fa-android fa-lg):](https://www.android.com/)
+[:(fab fa-apple fa-lg):](https://www.apple.com/ios/)
 
 ---
 
