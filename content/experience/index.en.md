@@ -80,19 +80,22 @@
 
 ## **[Oracle Corporation](https://www.oracle.com/) January 2019 - November 2019** ##
 
-### **Senior Manual QA Engineer** ###
+### **Senior QA Engineer** ###
 
-- *Conducted manual and automation testing;*  
-- *Designed and implemented cloud infrastructure;*  
-- *Built and supported cloud applications from scratch;*  
-- *Developed and optimized data and application architecture;*  
-- *Collaborated with teams to ensure high-quality delivery;*  
+- *Worked on the development of Oracle Field Service Cloud, a large cross-platform cloud product;*  
+- *Tested iOS and Android mobile applications on real devices and validated production releases;*  
+- *Performed functional, regression, integration, and release testing of core product functionality;*  
+- *Worked with cloud instances, databases, REST APIs, Docker, Jenkins, and Linux environments;*  
+- *Owned QA tasks independently and collaborated with multiple Scrum teams throughout the release cycle;*  
 
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
-[:(fab fa-brands fa-github fa-lg):](https://github.com/)
-[:(fab fa-brands fa-jenkins fa-lg):](https://www.jenkins.io/)
+[:(fas fa-cloud fa-lg):](https://www.oracle.com/cloud/)
+[:(fas fa-database fa-lg):](https://www.oracle.com/database/)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fab fa-docker fa-lg):](https://www.docker.com/)
+[:(fab fa-jenkins fa-lg):](https://www.jenkins.io/)
+[:(fab fa-linux fa-lg):](https://www.linux.org/)
+[:(fab fa-apple fa-lg):](https://www.apple.com/ios/)
+[:(fab fa-android fa-lg):](https://www.android.com/)
 
 ---
 
