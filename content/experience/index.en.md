@@ -86,7 +86,7 @@
 - *Tested iOS and Android mobile applications on real devices and validated production releases;*  
 - *Performed functional, regression, integration, and release testing of core product functionality;*  
 - *Worked with cloud instances, databases, REST APIs, Docker, Jenkins, and Linux environments;*  
-- *Owned QA tasks independently and collaborated with multiple Scrum teams throughout the release cycle;*  
+- *Contributed to the development and testing of new product versions, validated new functionality, and ensured release quality for end users;*  
 
 [:(fas fa-cloud fa-lg):](https://www.oracle.com/cloud/)
 [:(fas fa-database fa-lg):](https://www.oracle.com/database/)
