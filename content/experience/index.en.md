@@ -103,7 +103,7 @@
 
 ## **[Meest Group](https://ua.meest.com/) April 2018 - December 2018** ##
 
-### **Senior QA Engineer** ###
+### **General QA Engineer** ###
 
 - *Contributed to the development and production release of a customer web platform for international logistics;*  
 - *Established and integrated QA processes into active product development as the sole QA Engineer;*  
