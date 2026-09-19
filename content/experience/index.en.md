@@ -114,8 +114,8 @@
 [:(fab fa-java fa-lg):](https://www.java.com/)
 [:(fas fa-gears fa-lg):](https://www.selenium.dev/)
 [:(fab fa-html5 fa-lg):](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[:(fas fa-code fa-lg):](https://developer.mozilla.org/en-US/docs/Web/XML/XPath)
 [:(fas fa-code fa-lg):](https://www.jetbrains.com/idea/)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
 [:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 
 ---
