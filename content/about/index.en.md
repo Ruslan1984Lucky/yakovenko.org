@@ -6,6 +6,16 @@ I am a Senior / Lead QA Engineer with 13+ years of hands-on experience in softwa
 
 I have extensive experience in software testing, performance engineering, and data-driven quality assurance. Over the course of my career, I have contributed to 19 medium- to large-scale international projects for clients in the USA, Canada, Europe, and Australia. These projects included web, cloud, mobile, desktop, embedded, and cross-platform solutions, such as enterprise BI, ERP, CRM, and DMS systems; fintech and tax platforms; e-commerce and logistics solutions; hosting and cloud services; airline mobile applications; gaming platforms; retail point-of-sale (POS) systems; healthcare and medical data platforms; cybersecurity products; as well as internal corporate systems integrated with complex third-party services and standalone products.
 
+**Technologies & Tools:**  
+[:(fab fa-windows fa-lg):](https://www.microsoft.com/windows/)
+[:(fab fa-linux fa-lg):](https://www.linux.org/)
+[:(fab fa-android fa-lg):](https://www.android.com/)
+[:(fab fa-apple fa-lg):](https://www.apple.com/ios/)
+[:(fab fa-git-alt fa-lg):](https://git-scm.com/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fab fa-docker fa-lg):](https://www.docker.com/)
+
 ---
 
 ## Data & BI QA Expertise
@@ -19,6 +29,16 @@ I have extensive hands-on experience in Data QA and BI testing across multiple e
 - Tested and developed BI reports, dashboards, insights, and data visualizations using Power BI and FusionCharts;
 - Performed Data and BI testing across CRM, e-commerce, tax, logistics, and enterprise analytics platforms;
 
+**Technologies & Tools:**  
+[:(fab fa-brands fa-power-bi fa-lg):](https://powerbi.microsoft.com/)
+[:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fas fa-database fa-lg):](https://www.oracle.com/database/)
+[:(fas fa-database fa-lg):](https://www.postgresql.org/)
+[:(fas fa-database fa-lg):](https://www.mongodb.com/)
+[:(fas fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fas fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fas fa-chart-column fa-lg):](https://www.fusioncharts.com/)
+
 ---
 
 ## Performance QA Expertise
@@ -31,12 +51,14 @@ My work focuses on validating system throughput, response times, concurrency lim
 - Hands-on experience with JMeter, Postman, and other performance and API testing tools;
 
 **Technologies & Tools:**  
-[:(fab fa-solid fa-tachometer-alt fa-lg):](https://jmeter.apache.org/)
-[:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
-[:(fab fa-brands fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[:(fab fa-brands fa-selenium fa-lg):](https://www.selenium.dev/)
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fas fa-tachometer-alt fa-lg):](https://jmeter.apache.org/)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fas fa-database fa-lg):](https://www.postgresql.org/)
+[:(fas fa-magnifying-glass fa-lg):](https://solr.apache.org/)
+[:(fab fa-java fa-lg):](https://www.java.com/)
+[:(fab fa-linux fa-lg):](https://www.linux.org/)
+[:(fas fa-cloud fa-lg):](https://azure.microsoft.com/)
 
 ---
 
@@ -50,12 +72,14 @@ I have hands-on experience in developing, extending, and maintaining test automa
 - Graduated from SoftServe IT Academy with a specialization in Automation of Testing Processes and Quality Assurance of Modern Software Systems;
 
 **Automation & DevOps Tools:**  
-[:(fab fa-solid fa-tachometer-alt fa-lg):](https://jmeter.apache.org/)
-[:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
-[:(fab fa-brands fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[:(fab fa-brands fa-selenium fa-lg):](https://www.selenium.dev/)
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fas fa-gears fa-lg):](https://www.selenium.dev/)
+[:(fab fa-java fa-lg):](https://www.java.com/)
+[:(fab fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[:(fas fa-tachometer-alt fa-lg):](https://jmeter.apache.org/)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fab fa-jenkins fa-lg):](https://www.jenkins.io/)
+[:(fab fa-git-alt fa-lg):](https://git-scm.com/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 
 ---
 
@@ -85,14 +109,14 @@ These awards strengthened LABYRINTH’s position among Europe’s most innovativ
 - Ensured the successful delivery of several major releases by managing quality risks from development through production
 
 **Technologies & Tools:**  
-[:(fab fa-solid fa-user-lock fa-lg):](https://en.wikipedia.org/wiki/Single_sign-on)
-[:(fab fa-solid fa-address-book fa-lg):](https://ldap.com/)
-[:(fab fa-solid fa-shield-halved fa-lg):](https://en.wikipedia.org/wiki/Managed_security_service)
-[:(fab fa-solid fa-radar fa-lg):](https://www.misp-project.org/)
-[:(fab fa-solid fa-gauge-high fa-lg):](https://jmeter.apache.org/)
-[:(fab fa-brands fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[:(fab fa-solid fa-crosshairs fa-lg):](https://attack.mitre.org/)
-[:(fab fa-solid fa-shield-virus fa-lg):](https://owasp.org/)
+[:(fas fa-user-lock fa-lg):](https://en.wikipedia.org/wiki/Single_sign-on)
+[:(fas fa-address-book fa-lg):](https://ldap.com/)
+[:(fas fa-shield-halved fa-lg):](https://en.wikipedia.org/wiki/Managed_security_service)
+[:(fas fa-radar fa-lg):](https://www.misp-project.org/)
+[:(fas fa-gauge-high fa-lg):](https://jmeter.apache.org/)
+[:(fab fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[:(fas fa-crosshairs fa-lg):](https://attack.mitre.org/)
+[:(fas fa-shield-virus fa-lg):](https://owasp.org/)
 
 ---
 
@@ -113,10 +137,13 @@ Led QA activities for BI and data pipelines across 15 Scrum teams.
 
 **Technologies & Tools:**  
 [:(fab fa-brands fa-power-bi fa-lg):](https://powerbi.microsoft.com/)
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-lg):](https://azure.microsoft.com/en-us/products/devops)
+[:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fas fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fas fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fas fa-rocket fa-lg):](https://azure.microsoft.com/en-us/products/devops)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fas fa-tachometer-alt fa-lg):](https://jmeter.apache.org/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 
 ---
 
@@ -153,6 +180,13 @@ I also have practical experience in developing localization for embedded medical
 Completed the Mednet SQA Testing course and certification focused on quality assurance practices for healthcare software.
 
 [:(fab fa-solid fa-notes-medical fa-lg):](https://www.mednet.com.ar/en/elearning/)
+
+**Technologies & Tools:**  
+[:(fab fa-windows fa-lg):](https://www.microsoft.com/windows/)
+[:(fab fa-linux fa-lg):](https://www.linux.org/)
+[:(fab fa-java fa-lg):](https://www.java.com/)
+[:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 
 ---
 
