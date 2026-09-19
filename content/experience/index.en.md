@@ -55,21 +55,26 @@
 
 ---
 
-## **[Playson](https://playson.com/#) September 2020 - May 2021** ##
+## **[Playson](https://playson.com/) September 2020 - May 2021** ##
 
-### **Senior Manual QA Engineer** ###
+### **Senior QA Engineer** ###
 
-- *Conducted manual and automation testing;*  
-- *Wrote automation tests using Protractor JavaScript;*  
-- *Worked independently as the sole QA engineer on the project;*  
-- *Ensured software met functional and business requirements;*  
-- *Collaborated with development to maintain quality standards;*  
+- *Worked as Senior QA Engineer and sole QA in an R&D game development team, owning QA throughout the full SDLC;*  
+- *Contributed to the development and production release of four commercial real-money games;*  
+- *Performed functional, smoke, and regression testing of game logic, bonuses, UI, and animations;*  
+- *Tested server-side functionality and APIs using Postman, ensuring stability and release readiness;*  
+- *Collaborated with a cross-functional Scrum team on requirements, estimations, planning, and releases;*  
 
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
-[:(fab fa-brands fa-github fa-lg):](https://github.com/)
-[:(fab fa-brands fa-jenkins fa-lg):](https://www.jenkins.io/)
+[:(fas fa-vial fa-lg):](https://testlink.org/)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
+[:(fab fa-git-alt fa-lg):](https://git-scm.com/)
+[:(fab fa-java fa-lg):](https://www.java.com/)
+[:(fas fa-gears fa-lg):](https://www.selenium.dev/)
+[:(fab fa-apple fa-lg):](https://developer.apple.com/xcode/)
+[:(fab fa-android fa-lg):](https://www.android.com/)
+[:(fab fa-linux fa-lg):](https://www.linux.org/)
+[:(fab fa-windows fa-lg):](https://www.microsoft.com/windows/)
 
 ---
 
