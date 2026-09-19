@@ -93,8 +93,10 @@
 [:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
 [:(fab fa-docker fa-lg):](https://www.docker.com/)
 [:(fab fa-jenkins fa-lg):](https://www.jenkins.io/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 [:(fab fa-linux fa-lg):](https://www.linux.org/)
-[:(fab fa-apple fa-lg):](https://www.apple.com/ios/)
+[:(fab fa-windows fa-lg):](https://www.microsoft.com/windows/)
+[:(fab fa-apple fa-lg):](https://developer.apple.com/xcode/)
 [:(fab fa-android fa-lg):](https://www.android.com/)
 
 ---
@@ -103,15 +105,16 @@
 
 ### **Senior Manual QA Engineer** ###
 
-- *Conducted manual and automation testing;*  
-- *Worked independently as the only QA engineer on the project;*  
-- *Validated software functionality against requirements;*  
-- *Coordinated with development and product teams for quality assurance;*  
-- *Prepared test documentation and reports;*  
+- *Contributed to the development and production release of a customer web platform for international logistics;*  
+- *Established and integrated QA processes into active product development as the sole QA Engineer;*  
+- *Performed functional, exploratory, smoke, regression, acceptance, and API testing of critical business flows;*  
+- *Created test plans, test cases, and regression coverage and validated functionality throughout the release cycle;*  
+- *Developed automated regression tests using Java and Selenium WebDriver for critical business flows, reducing manual testing effort;*  
 
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-java fa-lg):](https://www.java.com/)
+[:(fas fa-gears fa-lg):](https://www.selenium.dev/)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 
 ---
 
