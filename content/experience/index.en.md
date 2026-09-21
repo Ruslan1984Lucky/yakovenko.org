@@ -130,11 +130,15 @@
 - *Created translation tables and worked with developers to localize the application UI, BI reports, charts, and other displayed information;*  
 - *Tested software installation on different insulin pump models and participated in formal medical software test runs with documented results;*  
 
+[:(fas fa-paper-plane fa-lg):](https://www.soapui.org/)
+[:(fas fa-vial fa-lg):](https://www.soapui.org/tools/readyapi/)
 [:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 [:(fas fa-list-check fa-lg):](https://www.ibm.com/products/requirements-management)
-[:(fas fa-database fa-lg):](https://www.oracle.com/database/)
+[:(fas fa-database fa-lg):](https://www.oracle.com/database/sqldeveloper/)
+[:(fab fa-confluence fa-lg):](https://www.atlassian.com/software/confluence)
 [:(fas fa-file-code fa-lg):](https://www.w3.org/XML/)
-[:(fas fa-language fa-lg):](https://en.wikipedia.org/wiki/Software_localization)
+[:(fas fa-code fa-lg):](https://www.json.org/)
+[:(fas fa-terminal fa-lg):](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd)
 
 ---
 
@@ -154,7 +158,6 @@
 [:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 [:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
 [:(fas fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fas fa-layer-group fa-lg):](https://www.databricks.com/)
 [:(fab fa-github fa-lg):](https://github.com/)
 [:(fab fa-jenkins fa-lg):](https://www.jenkins.io/)
 
