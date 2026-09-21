@@ -124,15 +124,17 @@
 
 ### **Senior Manual QA Engineer** ###
 
-- *Conducted manual testing for a healthcare project with BI components;*  
-- *Performed localization testing and prepared translation tables;*  
-- *Collaborated with translation and development teams;*  
-- *Ensured defect tracking and reporting;*  
-- *Maintained quality standards throughout the project lifecycle;*  
+- *Worked as Senior QA Engineer on a healthcare project for an insulin pump system, including a web portal used by doctors to analyze patient therapy;*  
+- *Tested web portal functionality, data processing, BI reports, charts, and visualization of historical insulin pump data;*  
+- *Led internationalization and localization of the web portal into about 40 languages, working with developers and a professional translation team;*  
+- *Created translation tables and worked with developers to localize the application UI, BI reports, charts, and other displayed information;*  
+- *Tested software installation on different insulin pump models and participated in formal medical software test runs with documented results;*  
 
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
+[:(fas fa-list-check fa-lg):](https://www.ibm.com/products/requirements-management)
+[:(fas fa-database fa-lg):](https://www.oracle.com/database/)
+[:(fas fa-file-code fa-lg):](https://www.w3.org/XML/)
+[:(fas fa-language fa-lg):](https://en.wikipedia.org/wiki/Software_localization)
 
 ---
 
