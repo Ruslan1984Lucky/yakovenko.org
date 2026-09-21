@@ -131,7 +131,6 @@
 - *Tested software installation on different insulin pump models and participated in formal medical software test runs with documented results;*  
 
 [:(fas fa-paper-plane fa-lg):](https://www.soapui.org/)
-[:(fas fa-vial fa-lg):](https://www.soapui.org/tools/readyapi/)
 [:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 [:(fas fa-list-check fa-lg):](https://www.ibm.com/products/requirements-management)
 [:(fas fa-database fa-lg):](https://www.oracle.com/database/sqldeveloper/)
