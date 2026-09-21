@@ -138,19 +138,23 @@
 
 ## **[Edvantis](https://www.edvantis.com/) May 2016 - December 2016** ##
 
-### **General QA Engineer** ###
+### **Senior QA Engineer / Automation QA Engineer** ###
 
-- *Completed SQA certification training for healthcare projects;*  
-- *Conducted manual and automation testing;*  
-- *Participated as part of a small QA team;*  
-- *Prepared test documentation and reports;*  
-- *Ensured software met functional and quality standards;*  
+- *Completed AG Mednet SQA Testing Initial Training for regulated healthcare software, covering SQA, V&V, compliance, and audit readiness;*  
+- *Worked as Senior QA Engineer on a U.S. healthcare platform for processing and storing clinical and patient data;*  
+- *Ensured compliance with 21 CFR Part 11, HIPAA, ICH GCP, and CSV practices by maintaining controlled QA documentation and traceability;*  
+- *Analyzed requirements and performed functional, integration, system, acceptance, and regression testing;*  
+- *Developed and maintained automated UI tests using Java and Selenium WebDriver;*  
 
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
-[:(fab fa-brands fa-github fa-lg):](https://github.com/)
-[:(fab fa-brands fa-jenkins fa-lg):](https://www.jenkins.io/)
+[:(fab fa-java fa-lg):](https://www.java.com/)
+[:(fas fa-gears fa-lg):](https://www.selenium.dev/)
+[:(fab fa-html5 fa-lg):](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
+[:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fas fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fas fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fab fa-github fa-lg):](https://github.com/)
+[:(fab fa-jenkins fa-lg):](https://www.jenkins.io/)
 
 ---
 
