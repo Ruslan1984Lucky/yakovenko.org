@@ -23,11 +23,11 @@
 
 ### **Performance and Automation QA Engineer** ###
 
-- *Designed and executed performance testing for the SCAC web platform and API service using JMeter, analyzing results and identifying performance bottlenecks;*  
-- *Contributed as a Senior QA Engineer to the development and quality assurance of the SCAC platform and its API services;*  
-- *Performed API, functional, integration, system, regression, acceptance, and production testing using Postman;*  
-- *Developed UI automated tests for the SCAC web platform using Protractor and JavaScript;*  
-- *Contributed to several successful production releases, including deployment validation and post-release testing;*  
+- *Defined the performance testing strategy for the SCAC platform and API Web Service; developed performance test scripts, executed tests, analyzed results, reported performance defects, and validated performance improvements;*  
+- *Worked as a Senior QA Engineer on the development and QA of the SCAC platform, covering functional, API, integration, system, regression, acceptance, and production testing;*  
+- *Was involved throughout the full development lifecycle of the new SCAC API Web Service, from initial development and testing through production delivery;*  
+- *Developed UI automated tests for the SCAC platform using JavaScript and Protractor;*  
+- *Supported SCAC production releases, performing deployment validation, production testing, and post-release acceptance testing;*  
 
 [:(fas fa-gauge-high fa-lg):](https://jmeter.apache.org/)
 [:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
@@ -35,7 +35,6 @@
 [:(fab fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [:(fas fa-gears fa-lg):](https://www.protractortest.org/)
 [:(fas fa-code fa-lg):](https://code.visualstudio.com/)
-[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 [:(fas fa-cloud fa-lg):](https://azure.microsoft.com/en-us/products/devops/)
 [:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
 [:(fas fa-leaf fa-lg):](https://www.mongodb.com/)
