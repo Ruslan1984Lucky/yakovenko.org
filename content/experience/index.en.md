@@ -23,17 +23,22 @@
 
 ### **Performance and Automation QA Engineer** ###
 
-- *Performed automation and load/performance testing;*  
-- *Wrote automation tests using Protractor JavaScript;*  
-- *Delivered API services to enhance project functionality;*  
-- *Key contributor in the SCAC (Standard Carrier Alpha Code) project;*  
-- *Ensured quality and timely delivery;*  
+- *Designed and executed performance testing for the SCAC web platform and API service using JMeter, analyzing results and identifying performance bottlenecks;*  
+- *Contributed as a Senior QA Engineer to the development and quality assurance of the SCAC platform and its API services;*  
+- *Performed API, functional, integration, system, regression, acceptance, and production testing using Postman;*  
+- *Developed UI automated tests for the SCAC web platform using Protractor and JavaScript;*  
+- *Contributed to several successful production releases, including deployment validation and post-release testing;*  
 
-[:(fab fa-brands fa-power-bi fa-lg):](https://powerbi.microsoft.com/)
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
-[:(fab fa-solid fa-rocket fa-lg):](https://azure.microsoft.com/en-us/products/devops)
+[:(fas fa-gauge-high fa-lg):](https://jmeter.apache.org/)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fas fa-file-code fa-lg):](https://swagger.io/)
+[:(fab fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[:(fas fa-gears fa-lg):](https://www.protractortest.org/)
+[:(fas fa-code fa-lg):](https://code.visualstudio.com/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
+[:(fas fa-cloud fa-lg):](https://azure.microsoft.com/en-us/products/devops/)
+[:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fas fa-leaf fa-lg):](https://www.mongodb.com/)
 
 ---
 
