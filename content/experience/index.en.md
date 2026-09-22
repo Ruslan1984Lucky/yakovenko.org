@@ -64,14 +64,7 @@
 [:(fas fa-rocket fa-lg):](https://azure.microsoft.com/en-us/products/devops/)
 [:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
 [:(fas fa-file-code fa-lg):](https://swagger.io/)
-[:(fab fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [:(fas fa-gears fa-lg):](https://www.protractortest.org/)
-[:(fas fa-gauge-high fa-lg):](https://jmeter.apache.org/)
-[:(fas fa-code fa-lg):](https://www.json.org/)
-[:(fas fa-database fa-lg):](https://en.wikipedia.org/wiki/Extract,_transform,_load)
-[:(fas fa-server fa-lg):](https://en.wikipedia.org/wiki/Data_warehouse)
-[:(fas fa-cubes fa-lg):](https://microservices.io/)
-[:(fab fa-confluence fa-lg):](https://www.atlassian.com/software/confluence)
 
 ---
 
