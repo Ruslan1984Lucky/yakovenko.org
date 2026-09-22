@@ -220,17 +220,20 @@
 
 ### **QA Engineer** ###
 
-- *Performed manual and automation testing of CRM and BI applications;*  
-- *Tested data import, search, reporting, RBAC, and administration functionality;*  
-- *Tested Facebook and Salesforce integrations and data synchronization;*  
-- *Performed database, ETL, Data Warehouse, and BI testing;*  
-- *Developed automated tests using Selenium WebDriver, Java, and JUnit;*  
+- *Worked as a QA Engineer on a complex CRM, Data, and BI platform for the U.S. education sector, ensuring quality throughout the development lifecycle;*  
+- *Performed functional, integration, database, ETL, Data Warehouse, and BI testing, validating data import, processing, and transformations;*  
+- *Tested Facebook and Salesforce integrations, data synchronization, CSV imports, and processing across connected systems;*  
+- *Worked with MS SQL Server, ETL processes, Star Schema Data Warehouse, reporting datasets, and FusionCharts visualizations;*  
+- *Analyzed requirements, performed regression testing, and developed automated tests using Selenium WebDriver, Java, and JUnit;*  
 
 [:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-gears fa-lg):](https://www.selenium.dev/)
-[:(fab fa-solid fa-chart-column fa-lg):](https://www.fusioncharts.com/)
-[:(fab fa-brands fa-jira fa-lg):](https://www.atlassian.com/software/jira)
+[:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fas fa-gears fa-lg):](https://www.selenium.dev/)
+[:(fas fa-vial fa-lg):](https://junit.org/)
+[:(fas fa-code fa-lg):](https://eclipseide.org/)
+[:(fab fa-salesforce fa-lg):](https://www.salesforce.com/)
+[:(fas fa-chart-column fa-lg):](https://www.fusioncharts.com/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
 
 ---
 
