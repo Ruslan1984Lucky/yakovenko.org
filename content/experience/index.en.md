@@ -43,19 +43,24 @@
 
 ## **[Ciklum](https://www.ciklum.com/) May 2021 - July 2023** ##
 
-### **QA Coach/ General QA Engineer** ###
+### **QA Coach / BI & Data QA Engineer** ###
 
-- *Worked on two Business Intelligence (BI) projects;*  
-- *Designed and implemented Cloud infrastructure;*  
-- *Developed and supported data architecture;*  
-- *Conducted manual and automation testing;*  
-- *Played a standalone QA role within a small POD team;*  
+- *Worked as a QA Coach / BI & Data QA Engineer in the Deloitte Intela Data Analytics pod, owning end-to-end QA activities from requirements analysis through production validation;*  
+- *Tested complex data processing and ETL flows, Data Warehouse and Azure Data Lake pipelines, including data collection, transformation, aggregation, migration, and source-to-target validation;*  
+- *Tested databases, microservices, backend logic, and APIs, validating data processing, business rules, integrations, data integrity, and quality;*  
+- *Tested Power BI tax dashboards, reports, visualizations, and business insights, ensuring data accuracy, calculations, filters, and reporting performance;*  
+- *Performed functional, integration, system, acceptance, regression, performance, and automation testing, developed JavaScript/Protractor tests, managed defects, and supported production deployments;*  
 
 [:(fab fa-brands fa-power-bi fa-lg):](https://powerbi.microsoft.com/)
-[:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
-[:(fab fa-solid fa-cloud fa-lg):](https://azure.microsoft.com/)
-[:(fab fa-solid fa-layer-group fa-lg):](https://www.databricks.com/)
-[:(fab fa-solid fa-database fa-lg):](https://www.mongodb.com/)
+[:(fas fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
+[:(fas fa-cloud fa-lg):](https://azure.microsoft.com/)
+[:(fas fa-layer-group fa-lg):](https://www.databricks.com/)
+[:(fas fa-database fa-lg):](https://www.mongodb.com/)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fas fa-gauge-high fa-lg):](https://jmeter.apache.org/)
+[:(fab fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[:(fas fa-gears fa-lg):](https://www.selenium.dev/)
+[:(fas fa-rocket fa-lg):](https://azure.microsoft.com/en-us/products/devops/)
 
 ---
 
