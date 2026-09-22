@@ -23,7 +23,7 @@
 
 ### **Performance and Automation QA Engineer** ###
 
-- *Defined the performance testing strategy for the SCAC platform and API Web Service; developed performance test scripts, executed tests, analyzed results, reported performance defects, and validated performance improvements;*  
+- *Defined performance testing strategy for the SCAC platform and API Web Service, developed test scripts, analyzed results, and validated improvements;*  
 - *Worked as a Senior QA Engineer on the development and QA of the SCAC platform, covering functional, API, integration, system, regression, acceptance, and production testing;*  
 - *Was involved throughout the full development lifecycle of the new SCAC API Web Service, from initial development and testing through production delivery;*  
 - *Developed UI automated tests for the SCAC platform using JavaScript and Protractor;*  
