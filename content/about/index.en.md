@@ -15,6 +15,7 @@ I have extensive hands-on experience in Data QA and BI testing across multiple e
 - Tested MS SQL Server, Oracle, PostgreSQL, MongoDB, and other database-driven systems;
 - Validated stored procedures, ETL processes, data import, synchronization, transformation, processing, aggregation, and migration;
 - Tested Data Warehouse and Data Lake solutions, including Star Schema structures and complex data pipelines;
+- Worked with Azure data technologies including ADLS, Azure Blob Storage, Azure Data Factory, Synapse Analytics, and Databricks;
 - Validated data consistency and integrity across source systems, APIs, integrations, databases, ETL layers, and reporting systems;
 - Tested and developed BI reports, dashboards, insights, and data visualizations using Power BI and FusionCharts;
 - Performed Data and BI testing across CRM, e-commerce, tax, logistics, and enterprise analytics platforms;
