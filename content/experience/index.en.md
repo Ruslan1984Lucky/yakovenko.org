@@ -202,11 +202,11 @@
 
 ### **Abiliton Intermediate QC Engineer / Automation QA** ###
 
-- *Performed manual, automation, integration, database, and cross-platform testing;*  
-- *Tested BMC enterprise Release Process Management solutions;*  
-- *Tested NetDocuments cloud DMS and desktop application integrations;*  
-- *Worked on IBM Product Recommendations and e-commerce personalization;*  
-- *Performed Data and BI testing, including customer behavior analytics and reporting;*  
+- *Performed manual, automation, functional, integration, database, regression, cross-platform, and end-to-end testing across multiple enterprise products;*  
+- *Tested BMC enterprise Release Process Management solutions, covering complex workflows, integrations, and data validation;*  
+- *Tested NetDocuments cloud DMS and desktop integrations with Microsoft Office and Adobe across web and desktop;*  
+- *Worked on IBM Product Recommendations and e-commerce personalization, validating customer data, analytics, and recommendation logic;*  
+- *Performed Data and BI testing, validating data processing, reporting, and analytics functionality across enterprise solutions;*
 
 [:(fab fa-brands fa-java fa-lg):](https://www.java.com/)
 [:(fab fa-solid fa-database fa-lg):](https://www.microsoft.com/en-us/sql-server/)
