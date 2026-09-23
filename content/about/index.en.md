@@ -8,17 +8,23 @@ I have extensive experience in software testing, performance engineering, and da
 
 ---
 
-## Data & BI QA Expertise
+## Previous Key Role
 
-I have extensive hands-on experience in Data QA and BI testing across multiple enterprise and data-driven projects, starting from the early stages of my QA career. I have tested complete data flows from source systems and APIs through operational databases, ETL processes, Data Lakes and Data Warehouses to BI reports, dashboards, and data visualizations.
+### **QA Coach / BI & Data QA Engineer @ [Deloitte](https://www.deloitte.com/global/en.html) — [Intela](https://www.deloitte.com/global/en/services/tax/services/intela-by-deloitte.html)**
 
-- Tested MS SQL Server, Oracle, PostgreSQL, MongoDB, and other database-driven systems;
-- Validated stored procedures, ETL processes, data import, synchronization, transformation, processing, aggregation, and migration;
-- Tested Data Warehouse and Data Lake solutions, including Star Schema structures and complex data pipelines;
-- Worked with Azure data technologies including ADLS, Azure Blob Storage, Azure Data Factory, Synapse Analytics, and Databricks;
-- Validated data consistency and integrity across source systems, APIs, integrations, databases, ETL layers, and reporting systems;
-- Tested and developed BI reports, dashboards, insights, and data visualizations using Power BI and FusionCharts;
-- Performed Data and BI testing across CRM, e-commerce, tax, logistics, and enterprise analytics platforms;
+Worked as a QA Coach / BI & Data QA Engineer in the Data Analytics team on Deloitte Intela, a large enterprise tax and data platform consisting of approximately 15 Scrum teams. I worked as the standalone QA within my Data Analytics pod, responsible for end-to-end QA activities from requirements and PBI analysis through development, testing, defect management, release validation, and production support.
+
+I was deeply involved in the development and validation of complex data architecture, data processing flows, databases, backend services, and BI solutions. The platform processed large volumes of data through multiple database layers, including Bronze, Silver, and Gold layers, where data was collected, transformed, processed, aggregated, and prepared for analytics and Power BI reporting.
+
+**Key Responsibilities:**
+
+- Worked on the development and testing of Normal, Resync, Reconciliation, and Orphaned data flows, validating data processing, synchronization, transformation, aggregation, and recovery scenarios;
+- Tested and validated database development, including new tables and fields, data transformations, migrations, stored data, backend logic, and movement of data across Bronze, Silver, and Gold layers;
+- Tested complex ETL and data pipelines across operational databases, Azure Data Lake, Azure Blob Storage, Databricks, Data Warehouse, and downstream reporting systems;
+- Validated complete source-to-target data flows, ensuring data consistency and integrity across source systems, APIs, microservices, databases, transformation layers, and BI reporting;
+- Worked closely with the Data Analytics team on Power BI tax dashboards, reports, visualizations, and business insights, validating calculations, aggregations, filters, reporting logic, and data accuracy;
+- Participated throughout the full development lifecycle, analyzing PBIs and requirements, developing test coverage, reporting and verifying defects, performing regression and performance testing, and validating functionality during production deployments;
+- Developed and maintained JavaScript/Protractor automated tests and performed functional, integration, system, acceptance, regression, performance, data, backend, API, and production testing;
 
 ---
 
