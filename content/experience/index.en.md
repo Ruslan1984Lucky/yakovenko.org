@@ -2,20 +2,24 @@
 
 ### **Lead QA Engineer** ###
 
-- *Led product quality and improved QA processes;*  
-- *Developed test strategy, documentation, and test coverage;*  
-- *Performed functional, API, integration, automation, performance, regression, and release testing;*  
-- *Coordinated defect management and release readiness;*  
-- *Tested Cyber Deception, TI/CTI, MSSP, multi-tenant, and SSO/LDAP functionality;*  
+- *Work as Lead QA Engineer / Quality Owner, defining QA strategy, testing approach, priorities, quality standards, and coordinating QA activities across the product lifecycle;*  
+- *Own end-to-end product quality from requirements and test planning through execution, defect management, release readiness, production validation, and QA process improvement;*  
+- *Lead and perform functional, API, backend, integration, regression, automation, performance, stability, and release testing of a complex on-prem cybersecurity platform;*  
+- *Test Cyber Deception, TI/CTI, MSSP, SSO/LDAP, RBAC, Worker Nodes, REST APIs, databases, and distributed network infrastructure with Linux hosts, network configuration, and connectivity;*  
+- *Collaborate with backend, frontend, DevOps, and product teams, assess quality risks, troubleshoot complex system issues, and coordinate releases and hotfixes;*  
 
-[:(fab fa-solid fa-user-lock fa-lg):](https://en.wikipedia.org/wiki/Single_sign-on)
-[:(fab fa-solid fa-address-book fa-lg):](https://ldap.com/)
-[:(fab fa-solid fa-shield-halved fa-lg):](https://en.wikipedia.org/wiki/Managed_security_service)
-[:(fab fa-solid fa-radar fa-lg):](https://www.misp-project.org/)
-[:(fab fa-solid fa-gauge-high fa-lg):](https://jmeter.apache.org/)
-[:(fab fa-brands fa-js fa-lg):](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[:(fab fa-solid fa-crosshairs fa-lg):](https://attack.mitre.org/)
-[:(fab fa-solid fa-shield-virus fa-lg):](https://owasp.org/)
+[:(fas fa-gauge-high fa-lg):](https://jmeter.apache.org/)
+[:(fas fa-paper-plane fa-lg):](https://www.postman.com/)
+[:(fab fa-linux fa-lg):](https://www.linux.org/)
+[:(fas fa-database fa-lg):](https://www.postgresql.org/)
+[:(fas fa-leaf fa-lg):](https://www.mongodb.com/)
+[:(fas fa-rocket fa-lg):](https://azure.microsoft.com/en-us/products/devops/)
+[:(fas fa-cloud fa-lg):](https://azure.microsoft.com/en-us/products/storage/blobs/)
+[:(fab fa-gitlab fa-lg):](https://gitlab.com/)
+[:(fab fa-jira fa-lg):](https://www.atlassian.com/software/jira)
+[:(fas fa-crosshairs fa-lg):](https://attack.mitre.org/)
+[:(fas fa-shield-virus fa-lg):](https://owasp.org/)
+[:(fas fa-network-wired fa-lg):](https://en.wikipedia.org/wiki/Computer_network)
 
 ---
 
